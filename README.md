@@ -635,18 +635,6 @@ outputs/trial3_visual_image_translation/
   hindi/    hindi1.jpg    ← same image, text visually redrawn in English
   marathi/  marathi1.png
   ...
-```
-
-| Language | Translation Quality | Notes |
-|----------|---------------------|-------|
-| Hindi    | ✅ Good  | Clean English, layout preserved |
-| Marathi  | ✅ Good  | Reads naturally |
-| Telugu   | ⚠️ Partial | Numbers translated, some script residue |
-| Bengali  | ⚠️ Partial | Words translated, some names garbled |
-| Tamil    | ❌ Poor  | Mixed Latin/Tamil characters in output |
-| Kannada  | ❌ Poor  | Mostly untranslated or transliterated |
-
----
 
 ---
 

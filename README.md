@@ -1,4 +1,4 @@
-# Multilingual Document Intelligence — Azure AI Research
+# Multilingual Document Intelligence using Azure
 
 > Exploration of Azure AI services to extract, translate, and structure content
 > from documents written in six Indian regional languages — **Hindi, Bengali, Tamil, Telugu, Marathi, Kannada**.

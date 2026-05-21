@@ -1,13 +1,13 @@
 # Multilingual Document Intelligence — Azure AI Research
 
-> A month-long exploration of Azure AI services to extract, translate, and structure content
+> Exploration of Azure AI services to extract, translate, and structure content
 > from documents written in six Indian regional languages — **Hindi, Bengali, Tamil, Telugu, Marathi, Kannada**.
 
 ---
 
 ## The Problem
 
-Wipro receives invoices, receipts, and documents written in regional Indian scripts. Before
+We receive invoices, receipts, and documents written in regional Indian scripts. Before
 any data processing can happen, the content needs to be made readable in English. We ran four
 trials — each using a different combination of Azure AI services — to find the best approach
 for accuracy, layout preservation, and structured extraction.

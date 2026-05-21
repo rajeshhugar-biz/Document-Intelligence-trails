@@ -260,20 +260,6 @@ Sample `.md` content:
 | व्यू           | 0.9880     |
 ```
 
-## Result
-
-| Metric | Value |
-|--------|-------|
-| Files processed | 31 / 31 |
-| Output per file | 1 `.md` + 1 `.json` |
-| Translation | None — native script only |
-| Bounding boxes | Yes — every word and line |
-| Confidence scores | Yes — per word (0.0–1.0) |
-| Handwriting detection | Yes — per style region |
-| Skip already-processed | Yes — safe to re-run |
-
----
-
 ---
 
 # Trial 2 — Text Translation (Azure Vision OCR + Azure Translator)
@@ -524,55 +510,54 @@ test_data/invoices/
 
 # Trial 3 — Visual Image Translation (Azure Document Translation Batch API)
 
-Three scripts in this trial — two for batch processing, one for single images.
-
 **Azure Service:** Azure Document Translation Batch API (`2025-12-01-preview`)
 **Goal:** Translate text _visually inside the image_ — the layout stays identical but all
 native-language text is replaced with English text rendered in-place.
 
+**Scripts:**
+
+| Script | Use case |
+|--------|----------|
+| `batch_translate_images_folder.py` | All images uploaded in one batch job — faster |
+| `azure_batch_image_translation.py` | One image per job in a loop — easier to debug |
+| `translate_single_image.py` | Single image — for quick ad-hoc testing |
+
 > **Important:** Image translation only works on the preview API version `2025-12-01-preview`.
 > The stable API (`2024-05-01`) only supports PDFs.
 
----
-
-## Trial 3A — Batch Folder Translation (All Images, One Job)
-
-**Script:** `src/trial3_visual_image_translation/batch_translate_images_folder.py`
-
-Uploads ALL images at once in a single batch job — the most efficient approach.
-
-### How It Works
+## How It Works
 
 ```
 Input folder
       │
-      ▼  os.walk → collect all supported images
+      ▼  Collect all supported images (os.walk)
       │
-      ▼  Upload ALL images to src-<id> container (preserving relative paths)
+      ▼  Upload images to src-<id> Azure Blob container
       │
-      ▼  Generate SAS tokens (4-hour expiry) for source + target containers
+      ▼  Generate SAS tokens (read on source, read+write on target)
       │
-      ▼  POST to /translator/document/batches (one job for everything)
+      ▼  POST to Azure Document Translation Batch API
+      │  /translator/document/batches?api-version=2025-12-01-preview
       │
-      ▼  Poll every 10s — logs progress (succeeded / failed / inProgress / total)
+      ▼  Poll until Succeeded / Failed / Cancelled
       │
-      ▼  Download all translated images from target container
+      ▼  Download translated images from target container
       │
-      ▼  finally: delete both temp containers
+      └─  finally: always delete both temp containers
 ```
 
-### Functions
+## Functions
 
 ---
 
-#### `_parse_connection_string(conn_str) → (account_name, account_key)`
+### `_parse_connection_string(conn_str) → (account_name, account_key)`
 
 Parses the Azure Storage connection string to extract `AccountName` and `AccountKey`
-for SAS token generation. Splits on `;` and scans each segment.
+by splitting on `;` and scanning each segment. Used to generate SAS tokens.
 
 ---
 
-#### `safe_makedirs(path) → None`
+### `safe_makedirs(path) → None`
 
 A patched version of `Path.mkdir()` that handles a specific edge case: if a **file**
 already exists at the path where a directory needs to be created (a leftover from a
@@ -580,7 +565,7 @@ previous run), it deletes the file first, then creates the directory.
 
 ```
 path is a directory  → do nothing
-path is a file       → delete the file, then create the directory
+path is a file       → delete the file, then mkdir
 path does not exist  → create the full directory tree
 ```
 
@@ -589,126 +574,61 @@ path is occupied by a file instead of a folder.
 
 ---
 
-#### `translate_folder(input_dir, output_dir, target_lang="en") → None`
+### `translate_folder(input_dir, output_dir, target_lang="en") → None`
 
-Main function — translates an entire folder of images in one batch job:
+Used by `batch_translate_images_folder.py` — translates an entire folder in one API job:
 
 1. `os.walk()` — collects all images with supported extensions recursively
 2. Creates two temp Blob containers: `src-<random8>` / `tgt-<random8>`
 3. Uploads every image, preserving its relative sub-path as the blob name
-4. Generates SAS tokens with **4-hour** expiry (longer than Trial 2 to allow for large batches)
-5. POSTs one batch job to `/translator/document/batches?api-version=2025-12-01-preview`
+4. Generates SAS tokens with **4-hour** expiry to handle large batches
+5. POSTs one batch job to `/translator/document/batches`
 6. Polls every 10 seconds, printing: `Status | X succeeded, Y failed, Z in progress (Total: N)`
-7. On completion, lists all blobs in the target container and downloads each one
-8. Uses `safe_makedirs()` for both the output root and each blob's parent folder
-9. Skips blobs ending in `/` (directory markers, not real files)
-10. `finally` block always deletes both temp containers
-
-### How to Run
-
-```bash
-python src/trial3_visual_image_translation/batch_translate_images_folder.py test_data outputs/trial3_visual_image_translation
-```
+7. Downloads all translated images from the target container using `safe_makedirs()`
+8. Skips blobs ending in `/` (directory markers, not actual files)
+9. `finally` block always deletes both temp containers
 
 ---
 
-## Trial 3B — One Image at a Time
+### `translate_image_batch(input_folder, output_folder, target_lang="en", skip_existing=True) → None`
 
-**Script:** `src/trial3_visual_image_translation/azure_batch_image_translation.py`
+Used by `azure_batch_image_translation.py` — processes images one at a time in a loop:
 
-Same visual translation approach but processes images one by one in a loop.
-Slower, but easier to debug and resume from failures.
-
-### How It Works
-
-```
-For each image in input_folder:
-    │
-    ├── Skip if translated_<lang>_<name> already exists (skip_existing=True)
-    │
-    ▼  Create temp containers src-<id> / tgt-<id>
-    │
-    ▼  Upload single image to source container
-    │
-    ▼  Generate SAS tokens (2-hour expiry)
-    │
-    ▼  POST to /translator/document:batch-translate (one image per job)
-    │
-    ▼  Poll every 5s — prints inline status dots
-    │
-    ▼  Download translated image from target container
-    │  → saved as translated_<lang>_<original_name>
-    │
-    └── finally: delete both temp containers (always, even on failure)
-```
-
-### Functions
+1. Collects images from the top-level folder only (non-recursive)
+2. Skips any image where `translated_<lang>_<name>` already exists in the output folder
+3. For each image: creates fresh temp containers, uploads the image, generates SAS tokens
+4. POSTs one job per image, polls every 5 seconds with inline status output
+5. On success: downloads and saves with `translated_<lang>_` prefix
+6. `finally`: always deletes both temp containers before moving to the next image
+7. Prints a final summary: `Success | Skipped | Failed`
 
 ---
 
-#### `_parse_connection_string(conn_str) → (account_name, account_key)`
+### `translate_image(input_image, target_lang="en") → None`
 
-Same as Trial 3A.
+Used by `translate_single_image.py` — translates exactly one image file:
 
----
-
-#### `translate_image_batch(input_folder, output_folder, target_lang="en", skip_existing=True) → None`
-
-Processes images in a folder one at a time:
-
-1. Collects images using `input_path.iterdir()` (non-recursive — top level only)
-2. For each image, checks if `translated_<lang>_<name>` already exists in the output folder
-   — skips if `skip_existing=True`
-3. For each image creates fresh temp containers per image (unique `run_id` each time)
-4. Uploads just that one image, generates SAS tokens (2-hour expiry)
-5. POSTs to `/translator/document:batch-translate` (different endpoint than Trial 3A)
-6. Polls every 5 seconds, printing inline status (e.g. `Running Running Succeeded`)
-7. On success: downloads the translated image blob and saves with `translated_<lang>_` prefix
-8. On failure: logs the error message from the response
-9. `finally`: always deletes the two temp containers before moving to the next image
-10. Prints a final summary: `Success | Skipped | Failed`
-
-### How to Run
-
-```bash
-python src/trial3_visual_image_translation/azure_batch_image_translation.py test_data/hindi outputs/trial3_visual_image_translation en
-```
-
----
-
-## Trial 3C — Single Image Translation
-
-**Script:** `src/trial3_visual_image_translation/translate_single_image.py`
-
-Translates exactly one image. Used for quick ad-hoc testing.
-
-### Functions
-
----
-
-#### `_parse_connection_string(conn_str) → (account_name, account_key)`
-
-Same as Trial 3A and 3B.
-
----
-
-#### `translate_image(input_image, target_lang="en") → None`
-
-1. Validates the file extension against `SUPPORTED_EXTENSIONS` — exits if unsupported
+1. Validates the file extension — exits if unsupported
 2. Derives output path: `translated_<lang>_<filename>` in the same directory as input
 3. Creates temp containers, uploads the file, generates SAS tokens (2-hour expiry)
-4. POSTs to `/translator/document:batch-translate?api-version=2025-12-01-preview`
-5. Polls every 5 seconds until `Succeeded / Failed / Cancelled`
-6. Downloads the translated image from the target container
-7. `finally`: always deletes both temp containers
+4. POSTs to the batch API, polls every 5 seconds until `Succeeded / Failed / Cancelled`
+5. Downloads the translated image and saves it locally
+6. `finally`: always deletes both temp containers
 
-### How to Run
+## How to Run
 
 ```bash
+# All images in one batch job (recommended)
+python src/trial3_visual_image_translation/batch_translate_images_folder.py test_data outputs/trial3_visual_image_translation
+
+# One image at a time (easier to debug)
+python src/trial3_visual_image_translation/azure_batch_image_translation.py test_data/hindi outputs/trial3_visual_image_translation en
+
+# Single image
 python src/trial3_visual_image_translation/translate_single_image.py test_data/hindi/hindi1.jpg en
 ```
 
-## Trial 3 — Output & Quality
+## Output & Quality
 
 ```
 outputs/trial3_visual_image_translation/

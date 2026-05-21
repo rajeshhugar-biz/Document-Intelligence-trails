@@ -1,0 +1,8 @@
+azure-ai-translation-document
+azure-ai-documentintelligence
+azure-storage-blob
+openai
+python-dotenv
+requests
+certifi
+urllib3

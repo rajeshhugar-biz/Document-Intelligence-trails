@@ -636,18 +636,6 @@ outputs/trial3_visual_image_translation/
   marathi/  marathi1.png
   ...
 ```
-
-| Language | Translation Quality | Notes |
-|----------|---------------------|-------|
-| Hindi    | ✅ Good  | Clean English, layout preserved |
-| Marathi  | ✅ Good  | Reads naturally |
-| Telugu   | ⚠️ Partial | Numbers translated, some script residue |
-| Bengali  | ⚠️ Partial | Words translated, some names garbled |
-| Tamil    | ❌ Poor  | Mixed Latin/Tamil characters in output |
-| Kannada  | ❌ Poor  | Mostly untranslated or transliterated |
-
----
-
 ---
 
 # Trial 4 — Invoice Field Extraction (OCR + Translator + GPT-4o)
@@ -884,21 +872,16 @@ status code. Used during initial setup to verify network access to Azure service
 
 # Trial Comparison
 
-| | Trial 1 | Trial 2A | Trial 2B | Trial 3A | Trial 3B | Trial 4 |
-|--|--|--|--|--|--|--|
-| **Script** | analyze_read_folder_to_md | azure_vision_translate_v2 | translate_single_pdf | batch_translate_images_folder | azure_batch_image_translation | invoice_extraction_test |
-| **Services** | Doc Intelligence | Vision + Translator + Blob | Doc Translation + Blob | Doc Translation + Blob | Doc Translation + Blob | Doc Intelligence + Translator + OpenAI |
-| **Input** | Any folder | Language subfolders | Single PDF | Any folder | Single folder | Language subfolders |
-| **Output** | `.md` + `.json` | `.txt` per image + PDF | Translated PDF | Translated images | Translated images | `.json` per document |
-| **Translation** | None | Text only | Document | Visual in-image | Visual in-image | Text only |
-| **Layout preserved** | Metadata | No | Yes | Yes ✅ | Yes ✅ | No |
-| **Structured fields** | No | No | No | No | No | Yes ✅ |
-| **Parallel processing** | No | Yes (ThreadPool) | No | No (1 batch job) | No (loop) | Yes (ThreadPool) |
-| **Skip existing** | Yes ✅ | No | No | No | Yes ✅ | No |
-| **Hindi / Marathi** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| **Bengali / Telugu** | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ✅ |
-| **Tamil / Kannada** | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ |
-
+| | Trial 1 | Trial 2 (Images) | Trial 2 (PDF) | Trial 3 | Trial 4 |
+|--|--|--|--|--|--|
+| **Script** | analyze_read_folder_to_md | azure_vision_translate_v2 | translate_single_pdf | batch_translate_images_folder | invoice_extraction_test |
+| **Services** | Doc Intelligence | Vision + Translator + Blob | Doc Translation + Blob | Doc Translation + Blob | Doc Intelligence + Translator + OpenAI |
+| **Input** | Any folder | Language subfolders | Single PDF | Any folder | Language subfolders |
+| **Output** | `.md` + `.json` | `.txt` per image | Translated PDF | Translated images | `.json` per document |
+| **Translation** | None | Text only | Document | Visual in-image | Text only |
+| **Layout preserved** | Metadata only | No | Yes | Yes ✅ | No |
+| **Structured fields** | No | No | No | No | Yes ✅ |
+| **Parallel processing** | No | Yes (ThreadPool) | No | No (1 batch job) | Yes (ThreadPool) |
 ---
 
 # Key Learnings

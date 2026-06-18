@@ -1,0 +1,93 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "05-15-2010",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": "13,500",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Rice",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "250",
+      "amount": "1,500"
+    },
+    {
+      "description": "Pulses",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": "260",
+      "amount": "900"
+    },
+    {
+      "description": "Pulses",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": "300",
+      "amount": "750"
+    },
+    {
+      "description": "Masala",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": "250",
+      "amount": "450"
+    },
+    {
+      "description": "Masala",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": "370",
+      "amount": "450"
+    },
+    {
+      "description": "Singla",
+      "quantity": 6,
+      "unit": null,
+      "unit_price": "250",
+      "amount": "950"
+    },
+    {
+      "description": "Lentils",
+      "quantity": null,
+      "unit": null,
+      "unit_price": "300",
+      "amount": "990"
+    },
+    {
+      "description": "Masala",
+      "quantity": 8,
+      "unit": null,
+      "unit_price": "250",
+      "amount": "950"
+    },
+    {
+      "description": "Titchi",
+      "quantity": 11,
+      "unit": null,
+      "unit_price": "340",
+      "amount": "1,600"
+    },
+    {
+      "description": "Sitra",
+      "quantity": 10,
+      "unit": null,
+      "unit_price": "115",
+      "amount": "850"
+    }
+  ],
+  "file": "tamil4.png",
+  "raw_text": "மளிகைக் கடை\nமளிகைக் கடை\nகுழ்க்ளை :\n...\nDate : 05-15-2010\nகாள்ளனர் :\n.....\nதீதுள் :\nஎண்\nபொருள்\nS.No\nதளளி\nததானம்\n1\nஅரிசி\n1\n150\n250/-\n1,500 /-\n2\nபருப்பு\n2\n100\n260/-\n900/-\n3\nபருப்பு\n3\n50\n300/-\n750/-\n4\nமசாலா\n4\n110\n250/-\n450/-\n5\nமசாலா\n6\n50\n370/-\n450/-\n6\nசைங்லா\n6\n50\n250/-\n950/-\n7\nபருப்பு]\n=\n110\n300/-\n990/-\n8\nமசாலா\n8\n50\n250/-\n950/-\n9\nதிட்சி\n11\n10\n340/-\n1,600/-\n10\nசிட்ரா\n10\n200\n115/-\n850/-\n11\n1,450/-\n.\n-\n2200/-\n-\nதஎளிய\n4,300/-\n-\nமொம்\n'1,3500/-\n=\nஜளனிக்கை.",
+  "english_text": "Grocery store\nGrocery store\nTubes:\n...\nDate : 05-15-2010\nKallanar:\n.....\nFire:\nNumber\nObject\nS.No\nThali\nDathanam\n1\nRice\n1\n150\n250/-\n1,500 /-\n2\nPulses\n2\n100\n260/-\n900/-\n3\nPulses\n3\n50\n300/-\n750/-\n4\nMasala\n4\n110\n250/-\n450/-\n5\nMasala\n6\n50\n370/-\n450/-\n6\nSingla\n6\n50\n250/-\n950/-\n7\nLentils]\n=\n110\n300/-\n990/-\n8\nMasala\n8\n50\n250/-\n950/-\n9\nTitchi\n11\n10\n340/-\n1,600/-\n10\nSitra\n10\n200\n115/-\n850/-\n11\n1,450/-\n.\n-\n2200/-\n-\nSimple\n4,300/-\n-\nMom\n'1,3500/-\n=\nJalanikai."
+}

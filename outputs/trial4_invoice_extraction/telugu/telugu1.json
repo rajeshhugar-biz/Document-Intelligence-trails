@@ -1,0 +1,58 @@
+{
+  "vendor_name": "Boss so Ruri",
+  "vendor_address": "sagao 30. 8-3-214, 1123, ŐŐsóo - 515671, Seductive.",
+  "vendor_tax_id": "37ABCDE1234F1Z5",
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": "SVT/24-25/078",
+  "invoice_date": "24-05-2024",
+  "due_date": "24-05-2024",
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 12950.0,
+  "total_tax": 647.5,
+  "invoice_total": 13597.5,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "15 82ju Juice",
+      "quantity": 3,
+      "unit": "อ.",
+      "unit_price": 120.0,
+      "amount": 3000.0
+    },
+    {
+      "description": "20 sSex",
+      "quantity": 2,
+      "unit": "sSex",
+      "unit_price": 130.0,
+      "amount": 2600.0
+    },
+    {
+      "description": "25 s'ex",
+      "quantity": 3,
+      "unit": "s'ex",
+      "unit_price": 110.0,
+      "amount": 2750.0
+    },
+    {
+      "description": "ISSO (China W00)",
+      "quantity": 50,
+      "unit": "s'ex",
+      "unit_price": 60.0,
+      "amount": 3000.0
+    },
+    {
+      "description": "Phil Corner Wool 1 6.",
+      "quantity": 10,
+      "unit": "éx5500",
+      "unit_price": 160.0,
+      "amount": 1600.0
+    }
+  ],
+  "file": "telugu1.png",
+  "raw_text": "ST\nBoss so ரூரி,\nGSTIN : 37ABCDE1234F1Z5\n08554- 298765\n+91 94400 12345\n1\nsrivenkateshwaratraders@gmail.com\n:\nSVT/24-25/078\n:\n24-05-2024\nsagao 30. 8-3-214,\n1123\nŐŐsóo - 515671,\nமயக்கி.\n:\n24-05-2024\n:\n15 82ஜூ ஜூஸ்\n3.อ.\nHSN S&\n1\n07134000\n120.00\n3,000.00\n2\n07133100\n20 sSex\n130.00\n2,600.00\n3\n07132000\n25 s'ex\n110.00\n2,750.00\n4\nஐஸ்so (சீனா வு௦௦)\n10063020\n50 s'ex\n60.00\n3,000.00\n5\nஃபில் மூலை வுல் 1 6.\n15071000\n10 éx5500\n160.00\n1,600.00\nago (Taxable)\n12,950.00\nCGST (2.5%)\n323.75\nSGST (2.5%)\n323.75\nฟองฟสัมผัส สิงตุ้ง (ชรอ.)\n13,597.50\navějo avěán (ošves) :\nหลังสร้อง :\n2. Báje DD / Cheque / NEFT casos suñer.\nசுரு கல்\nJantar\nசுரு 30.\n12345678901\nIFSC S65\n: SBIN0001234\n₹ 3058 6 ஐூருகி.\nல் ஸ்சைல்ட் வு லகில் ஜன்ன ல் ஜலா .",
+  "english_text": "ST\nBoss so Ruri,\nGSTIN : 37ABCDE1234F1Z5\n08554- 298765\n+91 94400 12345\n1\nsrivenkateshwaratraders@gmail.com\n:\nSVT/24-25/078\n:\n24-05-2024\nsagao 30. 8-3-214,\n1123\nŐŐsóo - 515671,\nSeductive.\n:\n24-05-2024\n:\n15 82ju Juice\n3.อ.\nHSN S&\n1\n07134000\n120.00\n3,000.00\n2\n07133100\n20 sSex\n130.00\n2,600.00\n3\n07132000\n25 s'ex\n110.00\n2,750.00\n4\nISSO (China W00)\n10063020\n50 s'ex\n60.00\n3,000.00\n5\nPhil Corner Wool 1 6.\n15071000\n10 éx5500\n160.00\n1,600.00\nago (Taxable)\n12,950.00\nCGST (2.5%)\n323.75\nSGST (2.5%)\n323.75\nฟองฟสัมผัส สิงตุ้ง (ชรอ.)\n13,597.50\navějo avěán (ošves) :\nหลังสร้อง :\n2. Báje DD / Cheque / NEFT casos suñer.\nChuru Stone\nJantar\nChuru 30.\n12345678901\nIFSC S65\n: SBIN0001234\n₹ 3058 6 Ayurugi.\nThe window is in the window."
+}

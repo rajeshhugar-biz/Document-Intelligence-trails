@@ -1,0 +1,25 @@
+# Extracted and Translated Text for tamil1.png
+
+**Original Language:** Tamil
+
+---
+
+```text
+LDITOUIT LD B58&LD
+Avgeo meuspela: + amia: 806.80. @sdf
+CASH MEMO
+SUITLQ & ROBurGnn Alum:
+CUISD&aF6OUT :
+8.70.
+"That is not the case.
+1.
+-
+₹30.00
+₹25.00
+2
+3. ПоОЙ АГЦ
+- ₹60.00
+AU - ₹115.00
+Papprarssia/sletien
+Вылилий. Вдийлиш, Вейлызиной tft. alfinL il sanuingl gok ucьoin
+```

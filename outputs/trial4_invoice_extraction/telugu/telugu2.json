@@ -1,0 +1,58 @@
+{
+  "vendor_name": "R.K. Traders",
+  "vendor_address": "30. 7-1-258/1, @sapo bộ, ஜெஸ்னம் - 520 001, மூக்கிக்.",
+  "vendor_tax_id": "37ABCDE1234F1Z5",
+  "customer_name": null,
+  "customer_address": "segao 30. 10-2-186, Poex - 522 001",
+  "customer_id": "4587",
+  "invoice_id": "RKT/24-25/112",
+  "invoice_date": "25-05-2024",
+  "due_date": "25-05-2024",
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 47350.0,
+  "total_tax": 2367.5,
+  "invoice_total": 49717.5,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "og doso (25 kg)",
+      "quantity": "10 Stripes",
+      "unit": null,
+      "unit_price": 1280.0,
+      "amount": 12800.0
+    },
+    {
+      "description": "čo dě) (10 kg)",
+      "quantity": "15 Liu Ying",
+      "unit": null,
+      "unit_price": 920.0,
+      "amount": 13800.0
+    },
+    {
+      "description": "CeS Toothpaste (10 kg)",
+      "quantity": "10 Stripes",
+      "unit": null,
+      "unit_price": 860.0,
+      "amount": 8600.0
+    },
+    {
+      "description": "Mindfulness Young (15 A.)",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 1550.0,
+      "amount": 7750.0
+    },
+    {
+      "description": "és apå (1 kg)",
+      "quantity": "20 dessey",
+      "unit": null,
+      "unit_price": 220.0,
+      "amount": 4400.0
+    }
+  ],
+  "file": "telugu2.png",
+  "raw_text": "RK\n05.3. da5.\n6X3\ndosPEO 30. 7-1-258/1, @sapo bộ,\nஜெஸ்னம் - 520 001, மூக்கிக்.\n0866-2478925\n+91 98480 12345\nrktraders.vja@gmail.com\nGSTIN : 37ABCDE1234F1Z5\nหลีสอดชงล์ สง.\n:\nRKT/24-25/112\n:\n25-05-2024\nsegao 30. 10-2-186,\n:\n4587\n:\n25-05-2024\nPoex - 522 001,\n:\n:\nŠ.ňo.\nHSN Số&\n1\nog doso (25 kg)\n10063020\n10 มลาย\n1,280.00\n12,800.00\n2\nčo dě) (10 kg)\n07133310\n15 หลิวยง\n920.00\n13,800.00\n3\nซีสด์ สีฟัน (10 kg)\n07132010\n10 มลาย\n860.00\n8,600.00\n4\nสัสัญญสติ ยองฮ์ (15 อ.)\n15159010\n1,550.00\n7,750.00\n5\nés apå (1 kg)\n09023020\n20 dessey\n220.00\n4,400.00\naeso (Taxable)\n47,350.00\nCGST @ 2.5%\n1,183.75\nSGST @ 2.5%\n1,183.75\nหิองซ์ลัยสส์ สิ่งฮั้ว (ชมอ.)\n49,717.50\nหลังสร้อง :\n+ 1. สองรัง สวิส สูอฮา ๒๐ผล สอยสี ฮอร์องฟี ที่อซึ่ง.\n+ 2. 500kge0 DD / Cheque / NEFT oso Jaunečo.\nBE\nலூசு கல்\n: R.K. Traders\nசுரு 30.\n: 12345678901\nIFSC 98%\n: SBIN0001234\n: ஜெஸ்ஸிக் ஜூலை ◌ூஜை\nமூ5.3. கூர்க.",
+  "english_text": "RK\n05.3. da5.\n6X3\ndosPEO 30. 7-1-258/1, @sapo bộ,\nஜெஸ்னம் - 520 001, மூக்கிக்.\n0866-2478925\n+91 98480 12345\nrktraders.vja@gmail.com\nGSTIN : 37ABCDE1234F1Z5\nLi Sot Chong Song.\n:\nRKT/24-25/112\n:\n25-05-2024\nsegao 30. 10-2-186,\n:\n4587\n:\n25-05-2024\nPoex - 522 001,\n:\n:\nŠ.ňo.\nHSN Số&\n1\nog doso (25 kg)\n10063020\n10 Stripes\n1,280.00\n12,800.00\n2\nčo dě) (10 kg)\n07133310\n15 Liu Ying\n920.00\n13,800.00\n3\nCeS Toothpaste (10 kg)\n07132010\n10 Stripes\n860.00\n8,600.00\n4\nMindfulness Young (15 A.)\n15159010\n1,550.00\n7,750.00\n5\nés apå (1 kg)\n09023020\n20 dessey\n220.00\n4,400.00\naeso (Taxable)\n47,350.00\nCGST @ 2.5%\n1,183.75\nSGST @ 2.5%\n1,183.75\nHingzlaiss Sakhahua (Chom)\n49,717.50\nAfter singing:\n+ 1. Two Nests, Swiss Suha, 20 Fruits, Soi Si Hornfi, Where.\n+ 2. 500kge0 DD / Cheque / NEFT oso Jaunečo.\nBE\nலூசு கல்\n: R.K. Traders\nசுரு 30.\n: 12345678901\nIFSC 98%\n: SBIN0001234\n: ஜெஸ்ஸிக் ஜூலை ◌ூஜை\nமூ5.3. கூர்க."
+}

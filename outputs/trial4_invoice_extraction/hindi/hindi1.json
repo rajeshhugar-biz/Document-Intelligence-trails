@@ -1,0 +1,65 @@
+{
+  "vendor_name": "Green View Hotel",
+  "vendor_address": "12, Civil Lines, Udaipur, Rajasthan - 313001",
+  "vendor_tax_id": null,
+  "customer_name": "Shri Ajay Singh",
+  "customer_address": "25, Ambamata Scheme, Udaipur - 313001 (Rajasthan)",
+  "customer_id": "Aadhar Card (XXXX XXXX 5678)",
+  "invoice_id": "GVH/24-25/0187",
+  "invoice_date": "24 May 2024",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 12480.0,
+  "total_tax": 1573.0,
+  "invoice_total": 14677.0,
+  "amount_due": 14677.0,
+  "line_items": [
+    {
+      "description": "Room Rent (Deluxe Room)",
+      "quantity": "3 nights",
+      "unit": null,
+      "unit_price": 3200.0,
+      "amount": 9600.0
+    },
+    {
+      "description": "Breakfast",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 250.0,
+      "amount": 750.0
+    },
+    {
+      "description": "Lunch",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 450.0,
+      "amount": 900.0
+    },
+    {
+      "description": "Dinner",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 500.0,
+      "amount": 1000.0
+    },
+    {
+      "description": "Mineral Water",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": 20.0,
+      "amount": 80.0
+    },
+    {
+      "description": "Laundry",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 150.0,
+      "amount": 150.0
+    }
+  ],
+  "file": "hindi1.jpg",
+  "raw_text": "G\nग्रीन व्यू होटल\n* आराम आपका, सेवा हमारी\n12, सिविल लाइन्स, उदयपुर,\nराजस्थान - 313001\n0294-2412345, 9829012345\ngreenviewhotel@gmail.com\nहोटल बिल\nअतिथि का नाम\n: श्री अजय सिंह\nपता\n: 25, अंब्बामाता योजना,\nउदयपुर - 313001 (राजस्थान)\nमोबाइल नंबर\n: 9876543210\nकमरा नंबर\n: 102 (डीलक्स रूम)\nपहचान पत्र\n: आधार कार्ड (XXXX XXXX 5678)\nभुगतान का तरीका : ऑनलाइन (UPI)\nक्रमांक\nविवरण\nदिनांक\nमात्रा\nदर (₹)\nराशि (₹)\n1\nकमरा किराया (डीलक्स रूम)\n21/05/2024 - 24/05/2024\n3 रातें\n3,200.00\n9,600.00\n2\nनाश्ता (ब्रेकफास्ट)\n22/05/2024 - 24/05/2024\n3\n250.00\n750.00\n3\nलंच\n22/05/2024\n2\n450.00\n900.00\n4\nडिनर\n21/05/2024, 23/05/2024\n2\n500.00\n1,000.00\n5\nमिनरल वाटर\n21/05/2024 - 24/05/2024\n4\n20.00\n80.00\n6\nलॉन्ड्री\n23/05/2024\n1\n150.00\n150.00\nउप-योग (Subtotal)\n12,480.00\nसेवा शुल्क (5%)\n624.00\nजी.एस.टी. (12%)\n1,573.00\n(राशि शब्दों में) : चौव्ह हजार छह सौ सतहतर रूपये मात्र ।\nकुल देय राशि (₹)\n14,677.00\nधन्यवाद!\nपुनः पधारने की अपेक्षा के साथ ।\nThank You\nप्रबंधक के हस्ताक्षर\nAliale\nप्रबंधक\nबिल नंबर\n: GVH/24-25/0187\nबिल दिनांक\n: 24 मई 2024\nचेक-इन दिनांक\n21 मई 2024 (02:00 PM)\nचेक-आउट दिनांक\n24 मई 2024 (11:00 AM)\nठहरने की अवधि\n: 3 रातें / 4 दिन",
+  "english_text": "G\nGreen View Hotel\n* Comfort yours, our service\n12, Civil Lines, Udaipur,\nRajasthan - 313001\n0294-2412345, 9829012345\ngreenviewhotel@gmail.com\nHotel Bill\nGuest Name\n: Shri Ajay Singh\naddre\n: 25, Ambamata Scheme,\nUdaipur - 313001 (Rajasthan)\nMobile Number\n: 9876543210\nRoom Number\n: 102 (Deluxe Room)\nID\n: Aadhar Card (XXXX XXXX 5678)\nMode of Payment: Online (UPI)\nserial number\nan account\ndate\nquantity\nRate (₹)\nAmount (₹)\n1\nRoom Rent (Deluxe Room)\n21/05/2024 - 24/05/2024\n3 nights\n3,200.00\n9,600.00\n2\nBreakfast\n22/05/2024 - 24/05/2024\n3\n250.00\n750.00\n3\nlunch\n22/05/2024\n2\n450.00\n900.00\n4\nDinner\n21/05/2024, 23/05/2024\n2\n500.00\n1,000.00\n5\nMineral Water\n21/05/2024 - 24/05/2024\n4\n20.00\n80.00\n6\nLaundry\n23/05/2024\n1\n150.00\n150.00\nSubtotals\n12,480.00\nService Fee (5%)\n624.00\nGST (12%)\n1,573.00\n(In the words of the amount): Twenty-four thousand six hundred seventy-seven rupees only.\nTotal amount payable (₹)\n14,677.00\nThank you!\nWith the expectation of revisiting.\nThank You\nManager's Signature\nAliale\nmanager\nBill Number\n: GVH/24-25/0187\nBill Date\n: 24 May 2024\nCheck-in Date\n21st May 2024 (02:00 PM)\nCheck-out Date\nMay 24, 2024 (11:00 AM)\nDuration of Stay\n: 3 nights/night 4 Days"
+}

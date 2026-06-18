@@ -1,0 +1,72 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": "342",
+  "invoice_date": "25/10/2023",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": null,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": null,
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 40.0,
+      "amount": 80.0
+    },
+    {
+      "description": "Sum sum",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 50.0,
+      "amount": 50.0
+    },
+    {
+      "description": null,
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 70.0,
+      "amount": 140.0
+    },
+    {
+      "description": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 60.0,
+      "amount": 15.0
+    },
+    {
+      "description": "&Be",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 20.0,
+      "amount": null
+    },
+    {
+      "description": null,
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 15.0,
+      "amount": null
+    },
+    {
+      "description": "Ahawas",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": null
+    }
+  ],
+  "file": "kannada5.png",
+  "raw_text": "NO08: 25/10/2023\nE. NO: 342\n3!\nผูสงอยอ\n1.\n28 - wo\n2\n40.00\n80.00\n2.\nலும் கூடல்\n1\n50.00\n50.00\n2\n70.00\n140.00\n3.\n60.00\n15.00\n1\n&Be\n345.00\nOY\n2\n20.00\n3\n4.\n15.00\n5.\nAhawas\nகக் நீக ஸ்ல சுக் ௯௦௦௦\nหอกียบอย่ง",
+  "english_text": "NO08: 25/10/2023\nE. NO: 342\n3!\nผูสงอยอ\n1.\n28 - wo\n2\n40.00\n80.00\n2.\nSum sum\n1\n50.00\n50.00\n2\n70.00\n140.00\n3.\n60.00\n15.00\n1\n&Be\n345.00\nOY\n2\n20.00\n3\n4.\n15.00\n5.\nAhawas\nGG Neega SL-SK 9000\nหอกียบอย่ง"
+}

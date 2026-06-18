@@ -1,0 +1,44 @@
+{
+  "vendor_name": "Mala Pharmacy",
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": null,
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": 115.0,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Paracetamol",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 30.0,
+      "amount": 30.0
+    },
+    {
+      "description": "Aspirin",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 25.0,
+      "amount": 25.0
+    },
+    {
+      "description": "Caugh syrup",
+      "quantity": null,
+      "unit": null,
+      "unit_price": 60.0,
+      "amount": 60.0
+    }
+  ],
+  "file": "tamil1.png",
+  "raw_text": "மாலா மருந்தகம்\nதிக்கக்யவயதுசல்தொல், ஜூமகில் துங்க வர்.\nஅgeo meusekaa: + amia : அறg,88, இ&திரி\nCASH MEMO\nநேதி :\nநேதி\n1\nவாடிக்கையாளர் யெபர் :\nபேசை சண் :\n8.10.\nவாடிக்கையாளர்\nடெஎண்\n1.\nபாராசிட்டமால்\n-\n₹30.00\n2.\nஆஸ்பிரின்\n₹25.00\n3.\nகாஃப் சிரப்\n- ₹60.00\nமொத்தம் - ₹115.00\nPapprarssia/sletien\nநிதும்பேஸ், தீதுப்படயம், இஸ்மியள் பி ஸ்ட மிக்ஸ்பற்று இஸ்யக்",
+  "english_text": "Mala Pharmacy\nThey will be sleeping on the Jumukh at the age of day.\nAgeo meusekaa: + amia : Ethics,88, e&dri\nCASH MEMO\nNeti:\nNeti\n1\nCustomer Yeber :\nTalk to me:\n8.10.\nCustomer\nTNnumber\n1.\nParacetamol\n-\n₹30.00\n2.\nAspirin\n₹25.00\n3.\nCaugh syrup\n- ₹60.00\nTotal - ₹115.00\nPapprarssia/sletien\nNitumbes, Fire Plate, Ismail Bist Mix Mix Issaq"
+}

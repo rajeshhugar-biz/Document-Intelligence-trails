@@ -1,0 +1,51 @@
+{
+  "vendor_name": "Shree Ganesh Building Material Suppliers",
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": "Mr. Rahul Patil",
+  "customer_address": "Pune",
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "05/10/2023",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": "138000",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Cement sacks",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": "130",
+      "amount": "15000"
+    },
+    {
+      "description": "Sand",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": "19800"
+    },
+    {
+      "description": "Iron rods",
+      "quantity": 13,
+      "unit": null,
+      "unit_price": "50",
+      "amount": "29000"
+    },
+    {
+      "description": "Vita",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": "5500",
+      "amount": "32000"
+    }
+  ],
+  "file": "marathi5.png",
+  "raw_text": "कॅश मेमो\nश्री गणेश बिल्डिंग मटेरियल सप्लायर्स\nमगे .: 93680683\nताहामा:\nश्री. राहुल पाटील\n..........\nतारीख: ०५/१०/२०२३\nपत्ता:\nपुणे\nरक्कम\nअ.क्र.\n१५०००/-\n१.\nसिमेंट गोण्या\n5\n१३०/-\n२०\n१००/-\n१९८००/-\n२.\nवाळू\n२९,०००/-\n३.\nलोखंड सळई\n13\n50/-\n३२०००/-\n४.\n५५००/ -\n15\n६.\nवीटा\n१३८०००/-\nअक्षरी रुपये - कुण रुपये भाजानते अळमवहे।\nRandolny\nश्री गणेश बिल्डिंग मटेरियल सप्लायर्स\n(बाते ससवर्णार, eubber- Rarad)\nतपशील\nनग/क्वालिटी\nदर\n१०\n250/-\nखड़ी\n50/-\nएकूण\nश्री. राहुल पाटील",
+  "english_text": "Cash Memo\nShree Ganesh Building Material Suppliers\nMag.: 93680683\nTahama:\nMr. Rahul Patil\n..........\nDate: 05/10/2023\nLeaf:\nPune\nAmount\nS.No.\n15000/-\n1.\nCement sacks\n5\n130/-\n20\n100/-\n19800/-\n2.\nSand\n29,000/-\n3.\nIron rods\n13\n50/-\n32000/-\n4.\n5500/- -\n15\n6.\nVita\n138000/-\nAkshari Rupee - Who is the Akshari Rupee?\nRandolny\nShree Ganesh Building Material Suppliers\n(Talk to Savarnar, eubber- rarad)\nSpecifications\nPiece/Quality\nrate\n10\n250/-\nVertical\n50/-\nTotal\nMr. Rahul Patil"
+}

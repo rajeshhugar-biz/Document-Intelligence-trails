@@ -1,0 +1,58 @@
+{
+  "vendor_name": "Brotherhood 3 Selling Hunger",
+  "vendor_address": "12/V, Kalau Bau, Kalderko-100003",
+  "vendor_tax_id": null,
+  "customer_name": "Dillon",
+  "customer_address": "Puck Forgotten, Take Muld",
+  "customer_id": null,
+  "invoice_id": "156",
+  "invoice_date": "25/05/2024",
+  "due_date": "31/05/2024",
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 2140.0,
+  "total_tax": 42.8,
+  "invoice_total": 2097.2,
+  "amount_due": 2097.2,
+  "line_items": [
+    {
+      "description": "Emotions",
+      "quantity": 10,
+      "unit": "trim",
+      "unit_price": 40.0,
+      "amount": 400.0
+    },
+    {
+      "description": "Khadakamu",
+      "quantity": 5,
+      "unit": "Trim",
+      "unit_price": 120.0,
+      "amount": 600.0
+    },
+    {
+      "description": "Dzeb wrote.",
+      "quantity": 2,
+      "unit": "acres",
+      "unit_price": 150.0,
+      "amount": 300.0
+    },
+    {
+      "description": null,
+      "quantity": 6,
+      "unit": "trim",
+      "unit_price": 50.0,
+      "amount": 300.0
+    },
+    {
+      "description": "Aryan ( 1 l. )",
+      "quantity": 3,
+      "unit": "Questions",
+      "unit_price": 180.0,
+      "amount": 540.0
+    }
+  ],
+  "file": "bengali2.png",
+  "raw_text": "भाईकारी 3 भूखना विकणा\n१२/ वि, कालऊ बाऊ, कलडर्को-१००००३\nभाषा: 98765 43210\nकालान नः: 156\nदानिश : 25/05/2024\nअजीब न ::\n-\nजनरामार्श्व कानिश : 31/05/2024\nनाम :\nडिलोन\nठिकाना :\n(भावारेल :\nपकक भूलड\nटाके मूलड\n(b)\n( b)\n1.\nभावान\n10 त्रिम\n40.00\n400.00\n2.\nखडाकम्यू\n5 त्रिम\n120.00\n600.00\n3.\nडिज़ेब ने थालेखन\n2 एकड़ित\n150.00\n300.00\n4.\n6 त्रिम\n50.00\n300.00\n5.\nआर्यन ( 1 लि. )\n3 सवाल\n180.00\n540.00\n(भाडे मूलड\n2,140.00\nजिम,टजि (2%)\n42.80\nसर्वदमाऐे\n2,097.20\n(बाठे भूलड (कथा) :\nपूरे शाखाब माठानन्बरे फोका कूड़ि यमा भाष।\n1. भण्ड सबक लड़ा रख ना।\n2. (भरमने नम/अनलॉरेन/बाइक ड्रोक्अगरबन माधुर्य\nकवर रान।\nबाकफन 3 गोल\nक्रमिक\nन.\nअविमान",
+  "english_text": "Brotherhood 3 Selling Hunger\n12/V, Kalau Bau, Kalderko-100003\nLanguage: 98765 43210\nDuration No: 156\nDanish : 25/05/2024\nNot weird ::\n-\nGen Marsh Kanish : 31/05/2024\nName :\nDillon\nLocation:\n(Brother:\nPuck Forgotten\nTake Muld\n(b)\n( b)\n1.\nEmotions\n10 trim\n40.00\n400.00\n2.\nKhadakamu\n5 Trim\n120.00\n600.00\n3.\nDzeb wrote.\n2 acres\n150.00\n300.00\n4.\n6 trim\n50.00\n300.00\n5.\nAryan ( 1 l. )\n3 Questions\n180.00\n540.00\n(Rent Muld\n2,140.00\nJim, T.J. (2%)\n42.80\nSarvadamai\n2,097.20\n(The Forgotten (Story):\nThe whole branch is littered with bubbles.\n1. Keep up with the lessons.\n2. (Delusional Hum/UnLauren/Bike DrokAgarban Melody\nCover run.\nAcfanity 3 goals\nSequential\nNo.\nUnaircraft"
+}

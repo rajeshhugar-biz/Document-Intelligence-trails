@@ -1,0 +1,2415 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "NO08: 25/10/2023\nE. NO: 342\n3!\nผูสงอยอ\n1.\n28 - wo\n2\n40.00\n80.00\n2.\nலும் கூடல்\n1\n50.00\n50.00\n2\n70.00\n140.00\n3.\n60.00\n15.00\n1\n&Be\n345.00\nOY\n2\n20.00\n3\n4.\n15.00\n5.\nAhawas\nகக் நீக ஸ்ல சுக் ௯௦௦௦ หอกียบอย่ง",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.6985999941825867,
+      "width": 1408,
+      "height": 768,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "NO08:",
+          "polygon": [
+            1025,
+            60,
+            1161,
+            55,
+            1161,
+            101,
+            1025,
+            98
+          ],
+          "confidence": 0.21,
+          "span": {
+            "offset": 0,
+            "length": 5
+          }
+        },
+        {
+          "content": "25/10/2023",
+          "polygon": [
+            1171,
+            55,
+            1388,
+            57,
+            1388,
+            100,
+            1171,
+            101
+          ],
+          "confidence": 0.951,
+          "span": {
+            "offset": 6,
+            "length": 10
+          }
+        },
+        {
+          "content": "E.",
+          "polygon": [
+            1060,
+            169,
+            1094,
+            168,
+            1094,
+            218,
+            1060,
+            218
+          ],
+          "confidence": 0.727,
+          "span": {
+            "offset": 17,
+            "length": 2
+          }
+        },
+        {
+          "content": "NO:",
+          "polygon": [
+            1103,
+            167,
+            1164,
+            166,
+            1165,
+            215,
+            1104,
+            217
+          ],
+          "confidence": 0.483,
+          "span": {
+            "offset": 20,
+            "length": 3
+          }
+        },
+        {
+          "content": "342",
+          "polygon": [
+            1184,
+            165,
+            1285,
+            163,
+            1285,
+            205,
+            1185,
+            214
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 24,
+            "length": 3
+          }
+        },
+        {
+          "content": "3!",
+          "polygon": [
+            260,
+            230,
+            259,
+            210,
+            283,
+            210,
+            284,
+            228
+          ],
+          "confidence": 0.138,
+          "span": {
+            "offset": 28,
+            "length": 2
+          }
+        },
+        {
+          "content": "ผู",
+          "polygon": [
+            700,
+            242,
+            734,
+            242,
+            734,
+            293,
+            700,
+            294
+          ],
+          "confidence": 0.095,
+          "span": {
+            "offset": 31,
+            "length": 1
+          }
+        },
+        {
+          "content": "สง",
+          "polygon": [
+            748,
+            242,
+            795,
+            242,
+            795,
+            290,
+            748,
+            292
+          ],
+          "confidence": 0.819,
+          "span": {
+            "offset": 32,
+            "length": 2
+          }
+        },
+        {
+          "content": "อ",
+          "polygon": [
+            803,
+            242,
+            817,
+            242,
+            818,
+            289,
+            803,
+            290
+          ],
+          "confidence": 0.931,
+          "span": {
+            "offset": 34,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยอ",
+          "polygon": [
+            825,
+            242,
+            859,
+            241,
+            859,
+            287,
+            826,
+            289
+          ],
+          "confidence": 0.334,
+          "span": {
+            "offset": 35,
+            "length": 2
+          }
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            114,
+            314,
+            142,
+            314,
+            143,
+            349,
+            114,
+            350
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 38,
+            "length": 2
+          }
+        },
+        {
+          "content": "28",
+          "polygon": [
+            186,
+            307,
+            270,
+            304,
+            271,
+            354,
+            186,
+            356
+          ],
+          "confidence": 0.109,
+          "span": {
+            "offset": 41,
+            "length": 2
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            282,
+            304,
+            304,
+            303,
+            305,
+            352,
+            283,
+            353
+          ],
+          "confidence": 0.964,
+          "span": {
+            "offset": 44,
+            "length": 1
+          }
+        },
+        {
+          "content": "wo",
+          "polygon": [
+            314,
+            303,
+            400,
+            300,
+            400,
+            347,
+            315,
+            352
+          ],
+          "confidence": 0.07,
+          "span": {
+            "offset": 46,
+            "length": 2
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            760,
+            307,
+            797,
+            307,
+            797,
+            341,
+            760,
+            342
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 49,
+            "length": 1
+          }
+        },
+        {
+          "content": "40.00",
+          "polygon": [
+            923,
+            303,
+            1060,
+            301,
+            1060,
+            340,
+            923,
+            341
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 51,
+            "length": 5
+          }
+        },
+        {
+          "content": "80.00",
+          "polygon": [
+            1166,
+            300,
+            1305,
+            298,
+            1305,
+            337,
+            1165,
+            339
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 57,
+            "length": 5
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            108,
+            374,
+            150,
+            373,
+            151,
+            405,
+            108,
+            406
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 63,
+            "length": 2
+          }
+        },
+        {
+          "content": "லும்",
+          "polygon": [
+            183,
+            367,
+            297,
+            357,
+            297,
+            407,
+            182,
+            407
+          ],
+          "confidence": 0.366,
+          "span": {
+            "offset": 66,
+            "length": 2
+          }
+        },
+        {
+          "content": "கூடல்",
+          "polygon": [
+            322,
+            356,
+            462,
+            359,
+            462,
+            404,
+            322,
+            407
+          ],
+          "confidence": 0.069,
+          "span": {
+            "offset": 69,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            764,
+            362,
+            789,
+            362,
+            789,
+            397,
+            764,
+            398
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 73,
+            "length": 1
+          }
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            926,
+            361,
+            1066,
+            361,
+            1066,
+            395,
+            925,
+            397
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 75,
+            "length": 5
+          }
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            1169,
+            359,
+            1308,
+            358,
+            1307,
+            388,
+            1169,
+            393
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 81,
+            "length": 5
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            761,
+            420,
+            797,
+            420,
+            797,
+            453,
+            761,
+            454
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 87,
+            "length": 1
+          }
+        },
+        {
+          "content": "70.00",
+          "polygon": [
+            927,
+            417,
+            1068,
+            416,
+            1068,
+            451,
+            927,
+            455
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 89,
+            "length": 5
+          }
+        },
+        {
+          "content": "140.00",
+          "polygon": [
+            1148,
+            413,
+            1313,
+            412,
+            1313,
+            450,
+            1148,
+            452
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 95,
+            "length": 6
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            103,
+            428,
+            149,
+            427,
+            149,
+            464,
+            103,
+            465
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 102,
+            "length": 2
+          }
+        },
+        {
+          "content": "60.00",
+          "polygon": [
+            1177,
+            468,
+            1317,
+            469,
+            1317,
+            506,
+            1177,
+            509
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 105,
+            "length": 5
+          }
+        },
+        {
+          "content": "15.00",
+          "polygon": [
+            938,
+            530,
+            1072,
+            528,
+            1072,
+            565,
+            939,
+            569
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 111,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            767,
+            531,
+            797,
+            531,
+            797,
+            568,
+            767,
+            568
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 117,
+            "length": 1
+          }
+        },
+        {
+          "content": "&Be",
+          "polygon": [
+            193,
+            538,
+            266,
+            538,
+            266,
+            577,
+            193,
+            578
+          ],
+          "confidence": 0.312,
+          "span": {
+            "offset": 119,
+            "length": 3
+          }
+        },
+        {
+          "content": "345.00",
+          "polygon": [
+            1138,
+            596,
+            1329,
+            595,
+            1329,
+            636,
+            1138,
+            639
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 123,
+            "length": 6
+          }
+        },
+        {
+          "content": "OY",
+          "polygon": [
+            1192,
+            682,
+            1192,
+            706,
+            1175,
+            706,
+            1175,
+            682
+          ],
+          "confidence": 0.624,
+          "span": {
+            "offset": 130,
+            "length": 2
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            1150,
+            698,
+            1149,
+            723,
+            1128,
+            723,
+            1129,
+            698
+          ],
+          "confidence": 0.776,
+          "span": {
+            "offset": 133,
+            "length": 1
+          }
+        },
+        {
+          "content": "20.00",
+          "polygon": [
+            931,
+            477,
+            1068,
+            475,
+            1068,
+            507,
+            930,
+            508
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 135,
+            "length": 5
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            761,
+            475,
+            797,
+            475,
+            797,
+            512,
+            761,
+            512
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 141,
+            "length": 1
+          }
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            102,
+            484,
+            149,
+            484,
+            149,
+            522,
+            102,
+            521
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 143,
+            "length": 2
+          }
+        },
+        {
+          "content": "15.00",
+          "polygon": [
+            1181,
+            526,
+            1318,
+            526,
+            1318,
+            561,
+            1181,
+            565
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 146,
+            "length": 5
+          }
+        },
+        {
+          "content": "5.",
+          "polygon": [
+            103,
+            541,
+            146,
+            541,
+            146,
+            578,
+            103,
+            579
+          ],
+          "confidence": 0.968,
+          "span": {
+            "offset": 152,
+            "length": 2
+          }
+        },
+        {
+          "content": "Ahawas",
+          "polygon": [
+            186,
+            689,
+            424,
+            635,
+            434,
+            698,
+            196,
+            752
+          ],
+          "confidence": 0.546,
+          "span": {
+            "offset": 155,
+            "length": 6
+          }
+        },
+        {
+          "content": "கக்",
+          "polygon": [
+            393,
+            128,
+            564,
+            129,
+            563,
+            177,
+            391,
+            169
+          ],
+          "confidence": 0.524,
+          "span": {
+            "offset": 162,
+            "length": 2
+          }
+        },
+        {
+          "content": "நீக",
+          "polygon": [
+            584,
+            129,
+            654,
+            129,
+            653,
+            178,
+            583,
+            178
+          ],
+          "confidence": 0.847,
+          "span": {
+            "offset": 165,
+            "length": 2
+          }
+        },
+        {
+          "content": "ஸ்ல",
+          "polygon": [
+            674,
+            129,
+            769,
+            129,
+            768,
+            177,
+            673,
+            178
+          ],
+          "confidence": 0.522,
+          "span": {
+            "offset": 168,
+            "length": 2
+          }
+        },
+        {
+          "content": "சுக்",
+          "polygon": [
+            786,
+            128,
+            865,
+            127,
+            865,
+            173,
+            786,
+            176
+          ],
+          "confidence": 0.514,
+          "span": {
+            "offset": 171,
+            "length": 2
+          }
+        },
+        {
+          "content": "௯௦௦௦",
+          "polygon": [
+            885,
+            127,
+            988,
+            124,
+            988,
+            165,
+            885,
+            172
+          ],
+          "confidence": 0.007,
+          "span": {
+            "offset": 174,
+            "length": 4
+          }
+        },
+        {
+          "content": "หอกี",
+          "polygon": [
+            586,
+            185,
+            682,
+            184,
+            682,
+            226,
+            586,
+            226
+          ],
+          "confidence": 0.377,
+          "span": {
+            "offset": 179,
+            "length": 3
+          }
+        },
+        {
+          "content": "ย",
+          "polygon": [
+            683,
+            184,
+            696,
+            184,
+            696,
+            226,
+            683,
+            226
+          ],
+          "confidence": 0.913,
+          "span": {
+            "offset": 182,
+            "length": 1
+          }
+        },
+        {
+          "content": "บอ",
+          "polygon": [
+            703,
+            184,
+            735,
+            183,
+            735,
+            226,
+            703,
+            226
+          ],
+          "confidence": 0.524,
+          "span": {
+            "offset": 183,
+            "length": 2
+          }
+        },
+        {
+          "content": "ย่ง",
+          "polygon": [
+            745,
+            183,
+            782,
+            182,
+            782,
+            225,
+            745,
+            226
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 185,
+            "length": 2
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "NO08: 25/10/2023",
+          "polygon": [
+            1025,
+            55,
+            1387,
+            54,
+            1387,
+            100,
+            1025,
+            101
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "E. NO: 342",
+          "polygon": [
+            1059,
+            168,
+            1283,
+            163,
+            1285,
+            209,
+            1060,
+            218
+          ],
+          "spans": [
+            {
+              "offset": 17,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "3!",
+          "polygon": [
+            260,
+            230,
+            259,
+            210,
+            282,
+            210,
+            283,
+            229
+          ],
+          "spans": [
+            {
+              "offset": 28,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "ผูสงอยอ",
+          "polygon": [
+            699,
+            242,
+            857,
+            241,
+            858,
+            288,
+            699,
+            293
+          ],
+          "spans": [
+            {
+              "offset": 31,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            114,
+            314,
+            140,
+            314,
+            142,
+            349,
+            114,
+            350
+          ],
+          "spans": [
+            {
+              "offset": 38,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "28 - wo",
+          "polygon": [
+            185,
+            307,
+            397,
+            300,
+            399,
+            348,
+            186,
+            356
+          ],
+          "spans": [
+            {
+              "offset": 41,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            761,
+            307,
+            796,
+            307,
+            796,
+            341,
+            760,
+            342
+          ],
+          "spans": [
+            {
+              "offset": 49,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "40.00",
+          "polygon": [
+            922,
+            303,
+            1059,
+            301,
+            1059,
+            339,
+            923,
+            340
+          ],
+          "spans": [
+            {
+              "offset": 51,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "80.00",
+          "polygon": [
+            1165,
+            299,
+            1304,
+            298,
+            1304,
+            336,
+            1165,
+            338
+          ],
+          "spans": [
+            {
+              "offset": 57,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            108,
+            374,
+            150,
+            373,
+            149,
+            405,
+            108,
+            406
+          ],
+          "spans": [
+            {
+              "offset": 63,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "லும் கூடல்",
+          "polygon": [
+            181,
+            359,
+            460,
+            355,
+            462,
+            403,
+            182,
+            407
+          ],
+          "spans": [
+            {
+              "offset": 66,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            765,
+            362,
+            788,
+            362,
+            788,
+            397,
+            764,
+            398
+          ],
+          "spans": [
+            {
+              "offset": 73,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            925,
+            360,
+            1065,
+            360,
+            1065,
+            395,
+            925,
+            396
+          ],
+          "spans": [
+            {
+              "offset": 75,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            1169,
+            359,
+            1307,
+            358,
+            1308,
+            389,
+            1169,
+            392
+          ],
+          "spans": [
+            {
+              "offset": 81,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            762,
+            420,
+            795,
+            420,
+            796,
+            453,
+            761,
+            454
+          ],
+          "spans": [
+            {
+              "offset": 87,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "70.00",
+          "polygon": [
+            926,
+            416,
+            1067,
+            416,
+            1067,
+            451,
+            926,
+            454
+          ],
+          "spans": [
+            {
+              "offset": 89,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "140.00",
+          "polygon": [
+            1147,
+            412,
+            1312,
+            412,
+            1312,
+            450,
+            1147,
+            451
+          ],
+          "spans": [
+            {
+              "offset": 95,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            103,
+            428,
+            148,
+            427,
+            148,
+            464,
+            103,
+            465
+          ],
+          "spans": [
+            {
+              "offset": 102,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "60.00",
+          "polygon": [
+            1176,
+            468,
+            1315,
+            468,
+            1316,
+            506,
+            1176,
+            508
+          ],
+          "spans": [
+            {
+              "offset": 105,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "15.00",
+          "polygon": [
+            938,
+            529,
+            1070,
+            528,
+            1071,
+            565,
+            938,
+            568
+          ],
+          "spans": [
+            {
+              "offset": 111,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            768,
+            531,
+            795,
+            531,
+            796,
+            568,
+            767,
+            568
+          ],
+          "spans": [
+            {
+              "offset": 117,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "&Be",
+          "polygon": [
+            193,
+            538,
+            265,
+            538,
+            265,
+            577,
+            193,
+            578
+          ],
+          "spans": [
+            {
+              "offset": 119,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "345.00",
+          "polygon": [
+            1138,
+            595,
+            1328,
+            595,
+            1328,
+            636,
+            1138,
+            638
+          ],
+          "spans": [
+            {
+              "offset": 123,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "OY",
+          "polygon": [
+            1192,
+            682,
+            1192,
+            705,
+            1175,
+            705,
+            1175,
+            682
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            1149,
+            698,
+            1148,
+            722,
+            1128,
+            722,
+            1128,
+            698
+          ],
+          "spans": [
+            {
+              "offset": 133,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "20.00",
+          "polygon": [
+            930,
+            476,
+            1067,
+            474,
+            1067,
+            506,
+            930,
+            508
+          ],
+          "spans": [
+            {
+              "offset": 135,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            761,
+            475,
+            795,
+            476,
+            796,
+            511,
+            761,
+            512
+          ],
+          "spans": [
+            {
+              "offset": 141,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "4.",
+          "polygon": [
+            103,
+            484,
+            147,
+            485,
+            148,
+            522,
+            102,
+            522
+          ],
+          "spans": [
+            {
+              "offset": 143,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "15.00",
+          "polygon": [
+            1181,
+            526,
+            1317,
+            525,
+            1318,
+            561,
+            1181,
+            564
+          ],
+          "spans": [
+            {
+              "offset": 146,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "5.",
+          "polygon": [
+            103,
+            542,
+            144,
+            541,
+            145,
+            579,
+            103,
+            579
+          ],
+          "spans": [
+            {
+              "offset": 152,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "Ahawas",
+          "polygon": [
+            185,
+            688,
+            418,
+            635,
+            433,
+            698,
+            196,
+            752
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "கக் நீக ஸ்ல சுக் ௯௦௦௦",
+          "polygon": [
+            391,
+            127,
+            986,
+            124,
+            987,
+            175,
+            391,
+            178
+          ],
+          "spans": [
+            {
+              "offset": 162,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "หอกียบอย่ง",
+          "polygon": [
+            585,
+            184,
+            781,
+            182,
+            781,
+            224,
+            585,
+            226
+          ],
+          "spans": [
+            {
+              "offset": 179,
+              "length": 8
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 187
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1025,
+            55,
+            1387,
+            54,
+            1387,
+            100,
+            1025,
+            101
+          ]
+        }
+      ],
+      "content": "NO08: 25/10/2023"
+    },
+    {
+      "spans": [
+        {
+          "offset": 17,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1058,
+            168,
+            1283,
+            159,
+            1285,
+            209,
+            1060,
+            218
+          ]
+        }
+      ],
+      "content": "E. NO: 342"
+    },
+    {
+      "spans": [
+        {
+          "offset": 28,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            259,
+            210,
+            282,
+            209,
+            283,
+            229,
+            260,
+            230
+          ]
+        }
+      ],
+      "content": "3!"
+    },
+    {
+      "spans": [
+        {
+          "offset": 31,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            699,
+            242,
+            858,
+            241,
+            858,
+            292,
+            699,
+            293
+          ]
+        }
+      ],
+      "content": "ผูสงอยอ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 38,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            114,
+            314,
+            142,
+            314,
+            142,
+            350,
+            114,
+            350
+          ]
+        }
+      ],
+      "content": "1."
+    },
+    {
+      "spans": [
+        {
+          "offset": 41,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            307,
+            397,
+            299,
+            399,
+            348,
+            186,
+            356
+          ]
+        }
+      ],
+      "content": "28 - wo"
+    },
+    {
+      "spans": [
+        {
+          "offset": 49,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            760,
+            307,
+            796,
+            307,
+            796,
+            342,
+            760,
+            342
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 51,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            922,
+            303,
+            1059,
+            301,
+            1060,
+            339,
+            923,
+            341
+          ]
+        }
+      ],
+      "content": "40.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 57,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1165,
+            299,
+            1304,
+            298,
+            1304,
+            337,
+            1165,
+            338
+          ]
+        }
+      ],
+      "content": "80.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 63,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            107,
+            374,
+            150,
+            373,
+            151,
+            405,
+            108,
+            406
+          ]
+        }
+      ],
+      "content": "2."
+    },
+    {
+      "spans": [
+        {
+          "offset": 66,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            181,
+            359,
+            461,
+            355,
+            462,
+            403,
+            182,
+            407
+          ]
+        }
+      ],
+      "content": "லும் கூடல்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 73,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            764,
+            362,
+            788,
+            362,
+            788,
+            398,
+            764,
+            398
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 75,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            925,
+            360,
+            1065,
+            360,
+            1065,
+            396,
+            925,
+            396
+          ]
+        }
+      ],
+      "content": "50.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 81,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1168,
+            359,
+            1307,
+            356,
+            1308,
+            389,
+            1169,
+            392
+          ]
+        }
+      ],
+      "content": "50.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 87,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            760,
+            420,
+            795,
+            419,
+            796,
+            453,
+            761,
+            454
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 89,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            926,
+            416,
+            1067,
+            416,
+            1067,
+            454,
+            926,
+            454
+          ]
+        }
+      ],
+      "content": "70.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 95,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1147,
+            412,
+            1312,
+            412,
+            1312,
+            451,
+            1147,
+            451
+          ]
+        }
+      ],
+      "content": "140.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 102,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            102,
+            428,
+            148,
+            427,
+            149,
+            464,
+            103,
+            465
+          ]
+        }
+      ],
+      "content": "3."
+    },
+    {
+      "spans": [
+        {
+          "offset": 105,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1176,
+            468,
+            1316,
+            468,
+            1316,
+            508,
+            1176,
+            508
+          ]
+        }
+      ],
+      "content": "60.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 111,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            937,
+            529,
+            1070,
+            526,
+            1071,
+            565,
+            938,
+            568
+          ]
+        }
+      ],
+      "content": "15.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 117,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            767,
+            531,
+            796,
+            531,
+            796,
+            568,
+            767,
+            568
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 119,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            193,
+            538,
+            265,
+            538,
+            265,
+            578,
+            193,
+            578
+          ]
+        }
+      ],
+      "content": "&Be"
+    },
+    {
+      "spans": [
+        {
+          "offset": 123,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1138,
+            595,
+            1328,
+            595,
+            1328,
+            638,
+            1138,
+            638
+          ]
+        }
+      ],
+      "content": "345.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1175,
+            682,
+            1192,
+            682,
+            1192,
+            705,
+            1175,
+            705
+          ]
+        }
+      ],
+      "content": "OY"
+    },
+    {
+      "spans": [
+        {
+          "offset": 133,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1128,
+            698,
+            1149,
+            698,
+            1149,
+            722,
+            1128,
+            722
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 135,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            930,
+            476,
+            1067,
+            474,
+            1067,
+            506,
+            930,
+            508
+          ]
+        }
+      ],
+      "content": "20.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 141,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            761,
+            475,
+            796,
+            475,
+            796,
+            512,
+            761,
+            512
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 143,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            102,
+            484,
+            148,
+            484,
+            148,
+            522,
+            102,
+            522
+          ]
+        }
+      ],
+      "content": "4."
+    },
+    {
+      "spans": [
+        {
+          "offset": 146,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1180,
+            526,
+            1317,
+            523,
+            1318,
+            561,
+            1181,
+            564
+          ]
+        }
+      ],
+      "content": "15.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 152,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            103,
+            541,
+            145,
+            541,
+            145,
+            579,
+            103,
+            579
+          ]
+        }
+      ],
+      "content": "5."
+    },
+    {
+      "spans": [
+        {
+          "offset": 155,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            689,
+            419,
+            635,
+            433,
+            698,
+            196,
+            752
+          ]
+        }
+      ],
+      "content": "Ahawas"
+    },
+    {
+      "spans": [
+        {
+          "offset": 162,
+          "length": 25
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            391,
+            127,
+            987,
+            124,
+            987,
+            224,
+            391,
+            227
+          ]
+        }
+      ],
+      "content": "கக் நீக ஸ்ல சுக் ௯௦௦௦ หอกียบอย่ง"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 0,
+          "length": 16
+        },
+        {
+          "offset": 57,
+          "length": 5
+        },
+        {
+          "offset": 111,
+          "length": 7
+        },
+        {
+          "offset": 135,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 49,
+          "length": 1
+        },
+        {
+          "offset": 95,
+          "length": 9
+        },
+        {
+          "offset": 123,
+          "length": 6
+        },
+        {
+          "offset": 141,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.9,
+      "spans": [
+        {
+          "offset": 51,
+          "length": 5
+        },
+        {
+          "offset": 75,
+          "length": 5
+        },
+        {
+          "offset": 89,
+          "length": 5
+        },
+        {
+          "offset": 105,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 63,
+          "length": 2
+        },
+        {
+          "offset": 87,
+          "length": 1
+        },
+        {
+          "offset": 143,
+          "length": 2
+        },
+        {
+          "offset": 152,
+          "length": 9
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.5,
+      "spans": [
+        {
+          "offset": 81,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 146,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text"
+}

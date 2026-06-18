@@ -1,0 +1,110 @@
+# Extracted and Translated Text for hindi2.jpg
+
+**Original Language:** Hindi
+
+---
+
+```text
+City Harmony Hotel
+8, M.I. Road, Jaipur - 302001 (Rajasthan)
+SH
+0141-4023456, 9001234567
+Your stay, our priority+
+info@cityharmonyhotel.com
+Hotel Bill
+www.cityharmonyhotel.com
+Guest Name
+: Mr. Rohit Gupta
+Bill Number
+: CHH/24-25/0732
+Company/Organization
+: Tech Solutions Pvt. Ltd. Ltd.
+Bill Date
+: 25 May 2024
+GSTIN
+08AABCT1234C1Z5
+Check-in Date
+: 22 May 2024 (03:00 PM)
+addre
+: 17, Malviya Nagar,
+Check-out Date
+: 25 May 2024 (10:00 AM)
+Jaipur - 302017 (Rajasthan)
+Room Number
+308 (Executive Room)
+serial number
+an account
+date
+quantity
+Rate per unit (₹)
+Tax (%)
+Amount (₹)
+1
+Room Rent (Executive Room)
+22/05/2024 - 25/05/2024
+3 nights
+4,000.00
+12%
+12,000.00
+2
+breakfast
+23/05/2024 - 25/05/2024
+3
+300.00
+5%
+900.00
+3
+Dinner
+22/05/2024, 24/05/2024
+2
+650.00
+5%
+1,300.00
+4
+Conference Hall Charges
+23/05/2024
+1
+2,000.00
+18%
+2,000.00
+5
+Projector & Screen
+23/05/2024
+1
+1,000.00
+18%
+1,000.00
+6
+Mineral Water
+22/05/2024 - 25/05/2024
+5
+20.00
+5%
+100.00
+Payment Details
+Subtotals
+17,300.00
+Payment Mode
+: Credit Card
+Card Number
+XXXX XXXX XXXX 1234
+Total tax amount
+2,301.00
+Transaction ID
+TXN4928756123
+Payment Date
+May 25, 2024
+Total amount payable (₹)
+19,601.00
+(In Amount Words): Nineteen thousand six hundred and one rupees only.
+City Harmony Hotel
+Terms & Conditions:
+• Check-out time is up to 11:00 AM.
+Jaipur
+Authorized Signature
+• Payment of bill is mandatory at check-out.
+Inteale
+• Any dispute shall be within the jurisdiction of the Jaipur Court.
+*
+Hotel Manager
+```

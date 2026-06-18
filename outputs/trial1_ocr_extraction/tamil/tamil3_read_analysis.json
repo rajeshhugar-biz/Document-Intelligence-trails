@@ -1,0 +1,6012 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "எ.கே. சூப்பர் மார்க்கெட் எ.கே. சுமற குப்பர் மார்க்கெட், நதுள்ளள் காஎங்குமையா, 3, தங்கள், 086952 12631\nதான்: 20/03/2024 ரேன் நூள்: 20/03/20:16 ௧ashier ID: 01\nProduct\nQty\nRate\nAmount\nதக்காளி (Tomato)\n1 skg\n19.00\n450.00\nவெங்காயம் (Onion)\n1 skg\n10.00\n400.00\nஅரிசி (Rice - 5kg)\n10 skg\n650.00\n₹2,050.00\nபருப்பு (Dal)\n1 skg\n70.00\n750.00\nஎண்ணெய் (Oil - 1L)\n1 skg\n150.00\n1,500.00\nஎண்ணைய் (Oil - 1L)\n1 skg\n30.00\n950.00\nகமறமும் (Oil - 1L)\n1 skg\n30.00\n950.00\nகிருசி (வாட்ப)\n10 skg\n240.00\n1,600.00\nதிய்றஎல் தரனர்\n10 skg\n140.00\n1,850.00\nகில்றால் தரனார்\n1 skg\n20.00\n850.00\nSubtotal\n₹2,200.00\nDiscounts\n50.00\nTotal\n₹1,350.00\nஜிஎஸ்டி வரி விவரம்\nCGST வரி (GST)\nCGST\n130.00\nSGST வரி (GST)\nSGST\n50.00\nGST தனம் (GST)\nTotal\n₹120.00\nTotal Amount\n₹2,450.00\nபணம் (Cash)\n₹2,450.00\nஅட்டை (Card)\n₹0.00\nமாற்றம் (Change Given)\n₹30.00\nStore Hour: 30 - Hour, 10:00 AM +, 1:00 AM to 9:00 AM இவந்தும்பாளை பெனும் களர் அளைக்ப் பெனளிருக்றறும் அந்துப்லர் சொலால் கவடங்கள்.\nமீண்டும் வருக",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": 0,
+      "width": 1186,
+      "height": 1530,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "எ.கே.",
+          "polygon": [
+            220,
+            93,
+            392,
+            91,
+            394,
+            154,
+            222,
+            148
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": "சூப்பர்",
+          "polygon": [
+            411,
+            90,
+            605,
+            89,
+            607,
+            156,
+            413,
+            155
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 5,
+            "length": 4
+          }
+        },
+        {
+          "content": "மார்க்கெட்",
+          "polygon": [
+            622,
+            89,
+            954,
+            90,
+            954,
+            144,
+            624,
+            156
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 10,
+            "length": 5
+          }
+        },
+        {
+          "content": "எ.கே.",
+          "polygon": [
+            342,
+            162,
+            434,
+            161,
+            434,
+            198,
+            342,
+            195
+          ],
+          "confidence": 0.962,
+          "span": {
+            "offset": 16,
+            "length": 4
+          }
+        },
+        {
+          "content": "சுமற",
+          "polygon": [
+            445,
+            161,
+            525,
+            161,
+            525,
+            199,
+            445,
+            198
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 21,
+            "length": 3
+          }
+        },
+        {
+          "content": "குப்பர்",
+          "polygon": [
+            536,
+            161,
+            639,
+            160,
+            639,
+            199,
+            535,
+            199
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 25,
+            "length": 4
+          }
+        },
+        {
+          "content": "மார்க்கெட்,",
+          "polygon": [
+            650,
+            160,
+            830,
+            160,
+            830,
+            194,
+            650,
+            199
+          ],
+          "confidence": 0.916,
+          "span": {
+            "offset": 30,
+            "length": 6
+          }
+        },
+        {
+          "content": "நதுள்ளள்",
+          "polygon": [
+            371,
+            205,
+            536,
+            202,
+            536,
+            231,
+            371,
+            235
+          ],
+          "confidence": 0.928,
+          "span": {
+            "offset": 37,
+            "length": 5
+          }
+        },
+        {
+          "content": "காஎங்குமையா,",
+          "polygon": [
+            546,
+            202,
+            766,
+            201,
+            766,
+            232,
+            546,
+            231
+          ],
+          "confidence": 0.707,
+          "span": {
+            "offset": 43,
+            "length": 7
+          }
+        },
+        {
+          "content": "3,",
+          "polygon": [
+            776,
+            202,
+            802,
+            202,
+            802,
+            233,
+            776,
+            232
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 51,
+            "length": 2
+          }
+        },
+        {
+          "content": "தங்கள்,",
+          "polygon": [
+            392,
+            240,
+            565,
+            237,
+            565,
+            268,
+            392,
+            271
+          ],
+          "confidence": 0.849,
+          "span": {
+            "offset": 54,
+            "length": 5
+          }
+        },
+        {
+          "content": "086952",
+          "polygon": [
+            576,
+            237,
+            682,
+            237,
+            682,
+            267,
+            575,
+            268
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 60,
+            "length": 6
+          }
+        },
+        {
+          "content": "12631",
+          "polygon": [
+            693,
+            237,
+            778,
+            237,
+            778,
+            266,
+            692,
+            267
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 67,
+            "length": 5
+          }
+        },
+        {
+          "content": "தான்:",
+          "polygon": [
+            189,
+            296,
+            273,
+            296,
+            272,
+            328,
+            188,
+            330
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 73,
+            "length": 3
+          }
+        },
+        {
+          "content": "20/03/2024",
+          "polygon": [
+            282,
+            296,
+            436,
+            297,
+            436,
+            323,
+            281,
+            328
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 77,
+            "length": 10
+          }
+        },
+        {
+          "content": "ரேன்",
+          "polygon": [
+            189,
+            333,
+            272,
+            333,
+            272,
+            364,
+            189,
+            363
+          ],
+          "confidence": 0.777,
+          "span": {
+            "offset": 88,
+            "length": 2
+          }
+        },
+        {
+          "content": "நூள்:",
+          "polygon": [
+            280,
+            333,
+            360,
+            333,
+            360,
+            363,
+            279,
+            364
+          ],
+          "confidence": 0.785,
+          "span": {
+            "offset": 91,
+            "length": 3
+          }
+        },
+        {
+          "content": "20/03/20:16",
+          "polygon": [
+            370,
+            333,
+            527,
+            333,
+            527,
+            360,
+            369,
+            363
+          ],
+          "confidence": 0.912,
+          "span": {
+            "offset": 95,
+            "length": 11
+          }
+        },
+        {
+          "content": "௧ashier",
+          "polygon": [
+            189,
+            369,
+            298,
+            369,
+            298,
+            397,
+            189,
+            397
+          ],
+          "confidence": 0.179,
+          "span": {
+            "offset": 107,
+            "length": 7
+          }
+        },
+        {
+          "content": "ID:",
+          "polygon": [
+            308,
+            369,
+            342,
+            369,
+            341,
+            397,
+            308,
+            397
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 115,
+            "length": 3
+          }
+        },
+        {
+          "content": "01",
+          "polygon": [
+            353,
+            369,
+            384,
+            369,
+            384,
+            397,
+            352,
+            397
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 119,
+            "length": 2
+          }
+        },
+        {
+          "content": "Product",
+          "polygon": [
+            189,
+            422,
+            317,
+            423,
+            317,
+            454,
+            188,
+            455
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 122,
+            "length": 7
+          }
+        },
+        {
+          "content": "Qty",
+          "polygon": [
+            629,
+            424,
+            684,
+            426,
+            683,
+            458,
+            628,
+            455
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 130,
+            "length": 3
+          }
+        },
+        {
+          "content": "Rate",
+          "polygon": [
+            742,
+            423,
+            815,
+            423,
+            815,
+            452,
+            742,
+            452
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 134,
+            "length": 4
+          }
+        },
+        {
+          "content": "Amount",
+          "polygon": [
+            868,
+            423,
+            994,
+            424,
+            994,
+            452,
+            867,
+            452
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 139,
+            "length": 6
+          }
+        },
+        {
+          "content": "தக்காளி",
+          "polygon": [
+            187,
+            466,
+            313,
+            466,
+            313,
+            500,
+            187,
+            501
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 146,
+            "length": 4
+          }
+        },
+        {
+          "content": "(Tomato)",
+          "polygon": [
+            324,
+            466,
+            442,
+            466,
+            442,
+            500,
+            324,
+            500
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 151,
+            "length": 8
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            614,
+            467,
+            626,
+            467,
+            625,
+            496,
+            614,
+            495
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 160,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            639,
+            467,
+            683,
+            468,
+            683,
+            497,
+            638,
+            496
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 162,
+            "length": 3
+          }
+        },
+        {
+          "content": "19.00",
+          "polygon": [
+            740,
+            467,
+            815,
+            467,
+            815,
+            493,
+            740,
+            493
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 166,
+            "length": 5
+          }
+        },
+        {
+          "content": "450.00",
+          "polygon": [
+            902,
+            468,
+            994,
+            468,
+            994,
+            493,
+            902,
+            493
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 172,
+            "length": 6
+          }
+        },
+        {
+          "content": "வெங்காயம்",
+          "polygon": [
+            188,
+            504,
+            366,
+            506,
+            366,
+            541,
+            187,
+            537
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 179,
+            "length": 5
+          }
+        },
+        {
+          "content": "(Onion)",
+          "polygon": [
+            376,
+            506,
+            470,
+            507,
+            470,
+            540,
+            376,
+            541
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 185,
+            "length": 7
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            613,
+            508,
+            627,
+            508,
+            626,
+            537,
+            613,
+            536
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 193,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            640,
+            508,
+            682,
+            509,
+            682,
+            538,
+            639,
+            537
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 195,
+            "length": 3
+          }
+        },
+        {
+          "content": "10.00",
+          "polygon": [
+            742,
+            509,
+            817,
+            509,
+            817,
+            534,
+            742,
+            533
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 199,
+            "length": 5
+          }
+        },
+        {
+          "content": "400.00",
+          "polygon": [
+            903,
+            509,
+            995,
+            509,
+            995,
+            533,
+            903,
+            533
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 205,
+            "length": 6
+          }
+        },
+        {
+          "content": "அரிசி",
+          "polygon": [
+            188,
+            546,
+            272,
+            547,
+            271,
+            582,
+            186,
+            583
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 212,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Rice",
+          "polygon": [
+            283,
+            547,
+            345,
+            547,
+            344,
+            582,
+            282,
+            582
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 216,
+            "length": 5
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            352,
+            547,
+            363,
+            547,
+            362,
+            582,
+            351,
+            582
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 222,
+            "length": 1
+          }
+        },
+        {
+          "content": "5kg)",
+          "polygon": [
+            372,
+            547,
+            428,
+            548,
+            428,
+            582,
+            371,
+            582
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 224,
+            "length": 4
+          }
+        },
+        {
+          "content": "10",
+          "polygon": [
+            598,
+            548,
+            630,
+            548,
+            630,
+            578,
+            598,
+            577
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 229,
+            "length": 2
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            639,
+            548,
+            683,
+            548,
+            683,
+            578,
+            639,
+            578
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 232,
+            "length": 3
+          }
+        },
+        {
+          "content": "650.00",
+          "polygon": [
+            726,
+            549,
+            817,
+            549,
+            817,
+            575,
+            726,
+            575
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 236,
+            "length": 6
+          }
+        },
+        {
+          "content": "₹2,050.00",
+          "polygon": [
+            866,
+            549,
+            995,
+            549,
+            995,
+            577,
+            866,
+            577
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 243,
+            "length": 9
+          }
+        },
+        {
+          "content": "பருப்பு",
+          "polygon": [
+            187,
+            588,
+            283,
+            588,
+            282,
+            623,
+            187,
+            625
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 253,
+            "length": 4
+          }
+        },
+        {
+          "content": "(Dal)",
+          "polygon": [
+            293,
+            588,
+            353,
+            586,
+            353,
+            623,
+            292,
+            623
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 258,
+            "length": 5
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            615,
+            589,
+            626,
+            589,
+            626,
+            619,
+            615,
+            618
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 264,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            640,
+            589,
+            684,
+            589,
+            684,
+            619,
+            640,
+            619
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 266,
+            "length": 3
+          }
+        },
+        {
+          "content": "70.00",
+          "polygon": [
+            742,
+            589,
+            817,
+            589,
+            817,
+            614,
+            742,
+            613
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 270,
+            "length": 5
+          }
+        },
+        {
+          "content": "750.00",
+          "polygon": [
+            904,
+            589,
+            995,
+            590,
+            995,
+            615,
+            903,
+            615
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 276,
+            "length": 6
+          }
+        },
+        {
+          "content": "எண்ணெய்",
+          "polygon": [
+            188,
+            628,
+            354,
+            627,
+            354,
+            663,
+            186,
+            660
+          ],
+          "confidence": 0.926,
+          "span": {
+            "offset": 283,
+            "length": 4
+          }
+        },
+        {
+          "content": "(Oil",
+          "polygon": [
+            365,
+            627,
+            406,
+            628,
+            406,
+            663,
+            365,
+            663
+          ],
+          "confidence": 0.866,
+          "span": {
+            "offset": 288,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            415,
+            628,
+            423,
+            628,
+            423,
+            663,
+            414,
+            663
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 293,
+            "length": 1
+          }
+        },
+        {
+          "content": "1L)",
+          "polygon": [
+            432,
+            628,
+            473,
+            628,
+            473,
+            663,
+            431,
+            663
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 295,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            616,
+            630,
+            627,
+            630,
+            627,
+            658,
+            616,
+            658
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 299,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            640,
+            630,
+            685,
+            631,
+            685,
+            659,
+            640,
+            658
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 301,
+            "length": 3
+          }
+        },
+        {
+          "content": "150.00",
+          "polygon": [
+            729,
+            630,
+            819,
+            630,
+            818,
+            655,
+            729,
+            655
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 305,
+            "length": 6
+          }
+        },
+        {
+          "content": "1,500.00",
+          "polygon": [
+            885,
+            630,
+            995,
+            631,
+            995,
+            658,
+            884,
+            658
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 312,
+            "length": 8
+          }
+        },
+        {
+          "content": "எண்ணைய்",
+          "polygon": [
+            187,
+            670,
+            359,
+            671,
+            359,
+            701,
+            187,
+            700
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 321,
+            "length": 4
+          }
+        },
+        {
+          "content": "(Oil",
+          "polygon": [
+            369,
+            671,
+            411,
+            671,
+            411,
+            701,
+            369,
+            701
+          ],
+          "confidence": 0.852,
+          "span": {
+            "offset": 326,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            425,
+            671,
+            435,
+            671,
+            435,
+            701,
+            424,
+            701
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 331,
+            "length": 1
+          }
+        },
+        {
+          "content": "1L)",
+          "polygon": [
+            442,
+            671,
+            485,
+            671,
+            485,
+            701,
+            442,
+            701
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 333,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            616,
+            670,
+            628,
+            670,
+            627,
+            699,
+            616,
+            699
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 337,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            641,
+            671,
+            684,
+            672,
+            683,
+            701,
+            640,
+            700
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 339,
+            "length": 3
+          }
+        },
+        {
+          "content": "30.00",
+          "polygon": [
+            744,
+            671,
+            818,
+            671,
+            818,
+            695,
+            744,
+            696
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 343,
+            "length": 5
+          }
+        },
+        {
+          "content": "950.00",
+          "polygon": [
+            907,
+            672,
+            999,
+            671,
+            999,
+            696,
+            907,
+            696
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 349,
+            "length": 6
+          }
+        },
+        {
+          "content": "கமறமும்",
+          "polygon": [
+            187,
+            710,
+            312,
+            710,
+            312,
+            746,
+            187,
+            745
+          ],
+          "confidence": 0.547,
+          "span": {
+            "offset": 356,
+            "length": 5
+          }
+        },
+        {
+          "content": "(Oil",
+          "polygon": [
+            322,
+            710,
+            364,
+            710,
+            364,
+            745,
+            322,
+            746
+          ],
+          "confidence": 0.935,
+          "span": {
+            "offset": 362,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            377,
+            710,
+            387,
+            710,
+            387,
+            745,
+            377,
+            745
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 367,
+            "length": 1
+          }
+        },
+        {
+          "content": "1L)",
+          "polygon": [
+            395,
+            710,
+            437,
+            710,
+            437,
+            744,
+            395,
+            745
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 369,
+            "length": 3
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            616,
+            710,
+            628,
+            710,
+            627,
+            739,
+            616,
+            738
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 373,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            641,
+            710,
+            684,
+            711,
+            683,
+            740,
+            640,
+            739
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 375,
+            "length": 3
+          }
+        },
+        {
+          "content": "30.00",
+          "polygon": [
+            744,
+            711,
+            820,
+            712,
+            820,
+            736,
+            742,
+            737
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 379,
+            "length": 5
+          }
+        },
+        {
+          "content": "950.00",
+          "polygon": [
+            908,
+            711,
+            999,
+            711,
+            999,
+            736,
+            907,
+            737
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 385,
+            "length": 6
+          }
+        },
+        {
+          "content": "கிருசி",
+          "polygon": [
+            188,
+            748,
+            276,
+            749,
+            275,
+            787,
+            186,
+            787
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 392,
+            "length": 3
+          }
+        },
+        {
+          "content": "(வாட்ப)",
+          "polygon": [
+            286,
+            749,
+            386,
+            750,
+            386,
+            786,
+            285,
+            787
+          ],
+          "confidence": 0.847,
+          "span": {
+            "offset": 396,
+            "length": 5
+          }
+        },
+        {
+          "content": "10",
+          "polygon": [
+            601,
+            751,
+            632,
+            751,
+            631,
+            780,
+            601,
+            779
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 402,
+            "length": 2
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            641,
+            751,
+            684,
+            752,
+            684,
+            781,
+            641,
+            780
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 405,
+            "length": 3
+          }
+        },
+        {
+          "content": "240.00",
+          "polygon": [
+            728,
+            753,
+            820,
+            752,
+            820,
+            778,
+            728,
+            777
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 409,
+            "length": 6
+          }
+        },
+        {
+          "content": "1,600.00",
+          "polygon": [
+            886,
+            753,
+            1001,
+            752,
+            1001,
+            780,
+            887,
+            780
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 416,
+            "length": 8
+          }
+        },
+        {
+          "content": "திய்றஎல்",
+          "polygon": [
+            185,
+            790,
+            325,
+            791,
+            326,
+            828,
+            185,
+            828
+          ],
+          "confidence": 0.747,
+          "span": {
+            "offset": 425,
+            "length": 5
+          }
+        },
+        {
+          "content": "தரனர்",
+          "polygon": [
+            335,
+            791,
+            430,
+            791,
+            430,
+            828,
+            335,
+            828
+          ],
+          "confidence": 0.847,
+          "span": {
+            "offset": 431,
+            "length": 4
+          }
+        },
+        {
+          "content": "10",
+          "polygon": [
+            600,
+            792,
+            632,
+            792,
+            631,
+            821,
+            600,
+            820
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 436,
+            "length": 2
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            641,
+            792,
+            687,
+            793,
+            686,
+            822,
+            641,
+            821
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 439,
+            "length": 3
+          }
+        },
+        {
+          "content": "140.00",
+          "polygon": [
+            731,
+            793,
+            821,
+            794,
+            820,
+            819,
+            730,
+            820
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 443,
+            "length": 6
+          }
+        },
+        {
+          "content": "1,850.00",
+          "polygon": [
+            888,
+            793,
+            1001,
+            793,
+            1001,
+            820,
+            887,
+            821
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 450,
+            "length": 8
+          }
+        },
+        {
+          "content": "கில்றால்",
+          "polygon": [
+            187,
+            831,
+            325,
+            832,
+            324,
+            868,
+            186,
+            868
+          ],
+          "confidence": 0.731,
+          "span": {
+            "offset": 459,
+            "length": 4
+          }
+        },
+        {
+          "content": "தரனார்",
+          "polygon": [
+            335,
+            832,
+            428,
+            833,
+            428,
+            868,
+            335,
+            868
+          ],
+          "confidence": 0.839,
+          "span": {
+            "offset": 464,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            617,
+            833,
+            629,
+            833,
+            629,
+            863,
+            617,
+            862
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 469,
+            "length": 1
+          }
+        },
+        {
+          "content": "skg",
+          "polygon": [
+            641,
+            833,
+            686,
+            833,
+            686,
+            863,
+            641,
+            863
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 471,
+            "length": 3
+          }
+        },
+        {
+          "content": "20.00",
+          "polygon": [
+            743,
+            833,
+            820,
+            833,
+            819,
+            858,
+            743,
+            857
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 475,
+            "length": 5
+          }
+        },
+        {
+          "content": "850.00",
+          "polygon": [
+            909,
+            834,
+            1003,
+            833,
+            1003,
+            859,
+            909,
+            859
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 481,
+            "length": 6
+          }
+        },
+        {
+          "content": "Subtotal",
+          "polygon": [
+            715,
+            881,
+            823,
+            882,
+            823,
+            906,
+            714,
+            908
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 488,
+            "length": 8
+          }
+        },
+        {
+          "content": "₹2,200.00",
+          "polygon": [
+            876,
+            882,
+            1005,
+            881,
+            1005,
+            909,
+            875,
+            910
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 497,
+            "length": 9
+          }
+        },
+        {
+          "content": "Discounts",
+          "polygon": [
+            693,
+            916,
+            822,
+            918,
+            822,
+            942,
+            692,
+            943
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 507,
+            "length": 9
+          }
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            932,
+            916,
+            1006,
+            916,
+            1006,
+            941,
+            932,
+            941
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 517,
+            "length": 5
+          }
+        },
+        {
+          "content": "Total",
+          "polygon": [
+            757,
+            955,
+            824,
+            955,
+            823,
+            980,
+            757,
+            979
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 523,
+            "length": 5
+          }
+        },
+        {
+          "content": "₹1,350.00",
+          "polygon": [
+            874,
+            955,
+            1005,
+            955,
+            1005,
+            983,
+            873,
+            983
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 529,
+            "length": 9
+          }
+        },
+        {
+          "content": "ஜிஎஸ்டி",
+          "polygon": [
+            440,
+            1002,
+            567,
+            1000,
+            566,
+            1038,
+            439,
+            1039
+          ],
+          "confidence": 0.961,
+          "span": {
+            "offset": 539,
+            "length": 4
+          }
+        },
+        {
+          "content": "வரி",
+          "polygon": [
+            575,
+            1000,
+            631,
+            1000,
+            630,
+            1038,
+            574,
+            1038
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 544,
+            "length": 2
+          }
+        },
+        {
+          "content": "விவரம்",
+          "polygon": [
+            640,
+            1000,
+            758,
+            1000,
+            758,
+            1036,
+            640,
+            1037
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 547,
+            "length": 4
+          }
+        },
+        {
+          "content": "CGST",
+          "polygon": [
+            183,
+            1043,
+            255,
+            1042,
+            255,
+            1073,
+            183,
+            1071
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 552,
+            "length": 4
+          }
+        },
+        {
+          "content": "வரி",
+          "polygon": [
+            263,
+            1042,
+            323,
+            1042,
+            323,
+            1073,
+            263,
+            1073
+          ],
+          "confidence": 0.711,
+          "span": {
+            "offset": 557,
+            "length": 2
+          }
+        },
+        {
+          "content": "(GST)",
+          "polygon": [
+            334,
+            1042,
+            407,
+            1041,
+            407,
+            1072,
+            334,
+            1073
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 560,
+            "length": 5
+          }
+        },
+        {
+          "content": "CGST",
+          "polygon": [
+            751,
+            1042,
+            826,
+            1041,
+            826,
+            1066,
+            751,
+            1067
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 566,
+            "length": 4
+          }
+        },
+        {
+          "content": "130.00",
+          "polygon": [
+            920,
+            1041,
+            1010,
+            1041,
+            1010,
+            1067,
+            920,
+            1068
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 571,
+            "length": 6
+          }
+        },
+        {
+          "content": "SGST",
+          "polygon": [
+            183,
+            1076,
+            254,
+            1076,
+            253,
+            1109,
+            182,
+            1108
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 578,
+            "length": 4
+          }
+        },
+        {
+          "content": "வரி",
+          "polygon": [
+            262,
+            1076,
+            322,
+            1076,
+            322,
+            1109,
+            262,
+            1109
+          ],
+          "confidence": 0.746,
+          "span": {
+            "offset": 583,
+            "length": 2
+          }
+        },
+        {
+          "content": "(GST)",
+          "polygon": [
+            333,
+            1075,
+            406,
+            1075,
+            406,
+            1109,
+            333,
+            1109
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 586,
+            "length": 5
+          }
+        },
+        {
+          "content": "SGST",
+          "polygon": [
+            752,
+            1077,
+            827,
+            1077,
+            827,
+            1101,
+            752,
+            1102
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 592,
+            "length": 4
+          }
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            936,
+            1076,
+            1009,
+            1076,
+            1009,
+            1100,
+            936,
+            1101
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 597,
+            "length": 5
+          }
+        },
+        {
+          "content": "GST",
+          "polygon": [
+            183,
+            1111,
+            236,
+            1111,
+            236,
+            1147,
+            182,
+            1146
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 603,
+            "length": 3
+          }
+        },
+        {
+          "content": "தனம்",
+          "polygon": [
+            244,
+            1111,
+            323,
+            1111,
+            323,
+            1146,
+            244,
+            1147
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 607,
+            "length": 3
+          }
+        },
+        {
+          "content": "(GST)",
+          "polygon": [
+            333,
+            1111,
+            407,
+            1110,
+            407,
+            1144,
+            333,
+            1146
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 611,
+            "length": 5
+          }
+        },
+        {
+          "content": "Total",
+          "polygon": [
+            759,
+            1112,
+            826,
+            1112,
+            826,
+            1137,
+            759,
+            1138
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 617,
+            "length": 5
+          }
+        },
+        {
+          "content": "₹120.00",
+          "polygon": [
+            904,
+            1112,
+            1012,
+            1112,
+            1012,
+            1137,
+            903,
+            1138
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 623,
+            "length": 7
+          }
+        },
+        {
+          "content": "Total",
+          "polygon": [
+            181,
+            1164,
+            298,
+            1164,
+            298,
+            1207,
+            181,
+            1206
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 631,
+            "length": 5
+          }
+        },
+        {
+          "content": "Amount",
+          "polygon": [
+            307,
+            1164,
+            486,
+            1165,
+            486,
+            1206,
+            307,
+            1207
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 637,
+            "length": 6
+          }
+        },
+        {
+          "content": "₹2,450.00",
+          "polygon": [
+            770,
+            1161,
+            1012,
+            1161,
+            1012,
+            1204,
+            769,
+            1210
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 644,
+            "length": 9
+          }
+        },
+        {
+          "content": "பணம்",
+          "polygon": [
+            181,
+            1222,
+            274,
+            1222,
+            274,
+            1255,
+            180,
+            1256
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 654,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Cash)",
+          "polygon": [
+            284,
+            1222,
+            369,
+            1221,
+            369,
+            1255,
+            284,
+            1255
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 658,
+            "length": 6
+          }
+        },
+        {
+          "content": "₹2,450.00",
+          "polygon": [
+            883,
+            1223,
+            1014,
+            1222,
+            1014,
+            1251,
+            883,
+            1250
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 665,
+            "length": 9
+          }
+        },
+        {
+          "content": "அட்டை",
+          "polygon": [
+            179,
+            1260,
+            288,
+            1261,
+            288,
+            1294,
+            178,
+            1295
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 675,
+            "length": 3
+          }
+        },
+        {
+          "content": "(Card)",
+          "polygon": [
+            296,
+            1261,
+            375,
+            1260,
+            375,
+            1294,
+            296,
+            1294
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 679,
+            "length": 6
+          }
+        },
+        {
+          "content": "₹0.00",
+          "polygon": [
+            940,
+            1260,
+            1014,
+            1260,
+            1014,
+            1286,
+            940,
+            1285
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 686,
+            "length": 5
+          }
+        },
+        {
+          "content": "மாற்றம்",
+          "polygon": [
+            178,
+            1298,
+            297,
+            1298,
+            297,
+            1334,
+            178,
+            1336
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 692,
+            "length": 4
+          }
+        },
+        {
+          "content": "(Change",
+          "polygon": [
+            307,
+            1298,
+            413,
+            1299,
+            413,
+            1332,
+            307,
+            1334
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 697,
+            "length": 7
+          }
+        },
+        {
+          "content": "Given)",
+          "polygon": [
+            422,
+            1299,
+            502,
+            1299,
+            502,
+            1330,
+            422,
+            1332
+          ],
+          "confidence": 0.964,
+          "span": {
+            "offset": 705,
+            "length": 6
+          }
+        },
+        {
+          "content": "₹30.00",
+          "polygon": [
+            923,
+            1299,
+            1014,
+            1299,
+            1014,
+            1324,
+            923,
+            1325
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 712,
+            "length": 6
+          }
+        },
+        {
+          "content": "Store",
+          "polygon": [
+            260,
+            1352,
+            325,
+            1352,
+            324,
+            1379,
+            258,
+            1379
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 719,
+            "length": 5
+          }
+        },
+        {
+          "content": "Hour:",
+          "polygon": [
+            334,
+            1352,
+            401,
+            1351,
+            399,
+            1380,
+            332,
+            1379
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 725,
+            "length": 5
+          }
+        },
+        {
+          "content": "30",
+          "polygon": [
+            410,
+            1351,
+            440,
+            1351,
+            439,
+            1380,
+            409,
+            1380
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 731,
+            "length": 2
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            449,
+            1351,
+            458,
+            1351,
+            457,
+            1380,
+            448,
+            1380
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 734,
+            "length": 1
+          }
+        },
+        {
+          "content": "Hour,",
+          "polygon": [
+            466,
+            1351,
+            532,
+            1351,
+            531,
+            1379,
+            465,
+            1379
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 736,
+            "length": 5
+          }
+        },
+        {
+          "content": "10:00",
+          "polygon": [
+            543,
+            1351,
+            611,
+            1351,
+            611,
+            1379,
+            542,
+            1379
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 742,
+            "length": 5
+          }
+        },
+        {
+          "content": "AM",
+          "polygon": [
+            620,
+            1351,
+            661,
+            1351,
+            660,
+            1379,
+            619,
+            1379
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 748,
+            "length": 2
+          }
+        },
+        {
+          "content": "+,",
+          "polygon": [
+            671,
+            1350,
+            686,
+            1350,
+            686,
+            1379,
+            671,
+            1379
+          ],
+          "confidence": 0.538,
+          "span": {
+            "offset": 751,
+            "length": 2
+          }
+        },
+        {
+          "content": "1:00",
+          "polygon": [
+            693,
+            1350,
+            745,
+            1350,
+            745,
+            1378,
+            692,
+            1378
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 754,
+            "length": 4
+          }
+        },
+        {
+          "content": "AM",
+          "polygon": [
+            753,
+            1350,
+            793,
+            1350,
+            793,
+            1378,
+            753,
+            1378
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 759,
+            "length": 2
+          }
+        },
+        {
+          "content": "to",
+          "polygon": [
+            802,
+            1350,
+            826,
+            1350,
+            826,
+            1377,
+            801,
+            1378
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 762,
+            "length": 2
+          }
+        },
+        {
+          "content": "9:00",
+          "polygon": [
+            835,
+            1350,
+            888,
+            1350,
+            888,
+            1377,
+            835,
+            1377
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 765,
+            "length": 4
+          }
+        },
+        {
+          "content": "AM",
+          "polygon": [
+            896,
+            1351,
+            939,
+            1351,
+            939,
+            1376,
+            896,
+            1376
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 770,
+            "length": 2
+          }
+        },
+        {
+          "content": "இவந்தும்பாளை",
+          "polygon": [
+            241,
+            1386,
+            452,
+            1384,
+            452,
+            1414,
+            241,
+            1417
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 773,
+            "length": 7
+          }
+        },
+        {
+          "content": "பெனும்",
+          "polygon": [
+            475,
+            1384,
+            547,
+            1384,
+            547,
+            1413,
+            475,
+            1413
+          ],
+          "confidence": 0.89,
+          "span": {
+            "offset": 781,
+            "length": 3
+          }
+        },
+        {
+          "content": "களர்",
+          "polygon": [
+            554,
+            1384,
+            617,
+            1384,
+            617,
+            1413,
+            554,
+            1413
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 785,
+            "length": 3
+          }
+        },
+        {
+          "content": "அளைக்ப்",
+          "polygon": [
+            623,
+            1384,
+            734,
+            1383,
+            734,
+            1413,
+            623,
+            1413
+          ],
+          "confidence": 0.795,
+          "span": {
+            "offset": 789,
+            "length": 4
+          }
+        },
+        {
+          "content": "பெனளிருக்றறும்",
+          "polygon": [
+            741,
+            1383,
+            956,
+            1384,
+            957,
+            1415,
+            742,
+            1413
+          ],
+          "confidence": 0.863,
+          "span": {
+            "offset": 794,
+            "length": 8
+          }
+        },
+        {
+          "content": "அந்துப்லர்",
+          "polygon": [
+            389,
+            1416,
+            517,
+            1415,
+            517,
+            1444,
+            388,
+            1446
+          ],
+          "confidence": 0.525,
+          "span": {
+            "offset": 803,
+            "length": 6
+          }
+        },
+        {
+          "content": "சொலால்",
+          "polygon": [
+            541,
+            1415,
+            664,
+            1414,
+            664,
+            1442,
+            541,
+            1444
+          ],
+          "confidence": 0.865,
+          "span": {
+            "offset": 810,
+            "length": 3
+          }
+        },
+        {
+          "content": "கவடங்கள்.",
+          "polygon": [
+            671,
+            1414,
+            808,
+            1414,
+            808,
+            1441,
+            671,
+            1442
+          ],
+          "confidence": 0.847,
+          "span": {
+            "offset": 814,
+            "length": 7
+          }
+        },
+        {
+          "content": "மீண்டும்",
+          "polygon": [
+            483,
+            1449,
+            617,
+            1450,
+            617,
+            1488,
+            481,
+            1487
+          ],
+          "confidence": 0.96,
+          "span": {
+            "offset": 822,
+            "length": 4
+          }
+        },
+        {
+          "content": "வருக",
+          "polygon": [
+            626,
+            1450,
+            718,
+            1451,
+            718,
+            1488,
+            626,
+            1488
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 827,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "எ.கே. சூப்பர் மார்க்கெட்",
+          "polygon": [
+            220,
+            90,
+            953,
+            89,
+            953,
+            153,
+            220,
+            156
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "எ.கே. சுமற குப்பர் மார்க்கெட்,",
+          "polygon": [
+            341,
+            161,
+            829,
+            160,
+            829,
+            197,
+            341,
+            199
+          ],
+          "spans": [
+            {
+              "offset": 16,
+              "length": 20
+            }
+          ]
+        },
+        {
+          "content": "நதுள்ளள் காஎங்குமையா, 3,",
+          "polygon": [
+            370,
+            202,
+            801,
+            200,
+            801,
+            232,
+            371,
+            235
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "தங்கள், 086952 12631",
+          "polygon": [
+            391,
+            239,
+            777,
+            236,
+            777,
+            266,
+            391,
+            270
+          ],
+          "spans": [
+            {
+              "offset": 54,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "தான்: 20/03/2024",
+          "polygon": [
+            187,
+            295,
+            435,
+            295,
+            436,
+            326,
+            187,
+            329
+          ],
+          "spans": [
+            {
+              "offset": 73,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "ரேன் நூள்: 20/03/20:16",
+          "polygon": [
+            188,
+            332,
+            526,
+            332,
+            526,
+            361,
+            188,
+            363
+          ],
+          "spans": [
+            {
+              "offset": 88,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "௧ashier ID: 01",
+          "polygon": [
+            188,
+            368,
+            383,
+            368,
+            383,
+            396,
+            188,
+            396
+          ],
+          "spans": [
+            {
+              "offset": 107,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Product",
+          "polygon": [
+            188,
+            422,
+            316,
+            422,
+            316,
+            453,
+            188,
+            454
+          ],
+          "spans": [
+            {
+              "offset": 122,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "Qty",
+          "polygon": [
+            629,
+            424,
+            683,
+            426,
+            682,
+            458,
+            628,
+            454
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "Rate",
+          "polygon": [
+            743,
+            423,
+            815,
+            424,
+            814,
+            451,
+            742,
+            452
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "Amount",
+          "polygon": [
+            866,
+            423,
+            993,
+            423,
+            993,
+            451,
+            866,
+            451
+          ],
+          "spans": [
+            {
+              "offset": 139,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "தக்காளி (Tomato)",
+          "polygon": [
+            186,
+            466,
+            441,
+            466,
+            441,
+            500,
+            186,
+            500
+          ],
+          "spans": [
+            {
+              "offset": 146,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            614,
+            467,
+            682,
+            469,
+            681,
+            497,
+            614,
+            496
+          ],
+          "spans": [
+            {
+              "offset": 160,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "19.00",
+          "polygon": [
+            741,
+            467,
+            814,
+            467,
+            814,
+            493,
+            740,
+            493
+          ],
+          "spans": [
+            {
+              "offset": 166,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "450.00",
+          "polygon": [
+            901,
+            468,
+            993,
+            467,
+            993,
+            492,
+            901,
+            493
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "வெங்காயம் (Onion)",
+          "polygon": [
+            187,
+            504,
+            470,
+            507,
+            469,
+            541,
+            187,
+            538
+          ],
+          "spans": [
+            {
+              "offset": 179,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            615,
+            508,
+            681,
+            509,
+            681,
+            538,
+            613,
+            536
+          ],
+          "spans": [
+            {
+              "offset": 193,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "10.00",
+          "polygon": [
+            742,
+            509,
+            816,
+            508,
+            816,
+            533,
+            742,
+            534
+          ],
+          "spans": [
+            {
+              "offset": 199,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "400.00",
+          "polygon": [
+            902,
+            508,
+            994,
+            508,
+            994,
+            533,
+            902,
+            533
+          ],
+          "spans": [
+            {
+              "offset": 205,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "அரிசி (Rice - 5kg)",
+          "polygon": [
+            186,
+            546,
+            427,
+            546,
+            427,
+            582,
+            186,
+            582
+          ],
+          "spans": [
+            {
+              "offset": 212,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "10 skg",
+          "polygon": [
+            599,
+            548,
+            682,
+            549,
+            682,
+            578,
+            598,
+            578
+          ],
+          "spans": [
+            {
+              "offset": 229,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "650.00",
+          "polygon": [
+            726,
+            549,
+            816,
+            549,
+            816,
+            574,
+            726,
+            574
+          ],
+          "spans": [
+            {
+              "offset": 236,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "₹2,050.00",
+          "polygon": [
+            865,
+            549,
+            994,
+            548,
+            994,
+            576,
+            865,
+            576
+          ],
+          "spans": [
+            {
+              "offset": 243,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "பருப்பு (Dal)",
+          "polygon": [
+            186,
+            587,
+            352,
+            586,
+            353,
+            622,
+            186,
+            624
+          ],
+          "spans": [
+            {
+              "offset": 253,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            616,
+            589,
+            683,
+            590,
+            682,
+            619,
+            615,
+            619
+          ],
+          "spans": [
+            {
+              "offset": 264,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "70.00",
+          "polygon": [
+            742,
+            589,
+            816,
+            590,
+            816,
+            614,
+            742,
+            614
+          ],
+          "spans": [
+            {
+              "offset": 270,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "750.00",
+          "polygon": [
+            903,
+            589,
+            994,
+            589,
+            994,
+            614,
+            903,
+            614
+          ],
+          "spans": [
+            {
+              "offset": 276,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "எண்ணெய் (Oil - 1L)",
+          "polygon": [
+            186,
+            627,
+            472,
+            627,
+            472,
+            662,
+            186,
+            661
+          ],
+          "spans": [
+            {
+              "offset": 283,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            618,
+            630,
+            684,
+            631,
+            683,
+            659,
+            616,
+            658
+          ],
+          "spans": [
+            {
+              "offset": 299,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "150.00",
+          "polygon": [
+            728,
+            630,
+            818,
+            630,
+            818,
+            654,
+            728,
+            655
+          ],
+          "spans": [
+            {
+              "offset": 305,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "1,500.00",
+          "polygon": [
+            883,
+            630,
+            994,
+            630,
+            994,
+            657,
+            883,
+            657
+          ],
+          "spans": [
+            {
+              "offset": 312,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "எண்ணைய் (Oil - 1L)",
+          "polygon": [
+            187,
+            670,
+            484,
+            670,
+            483,
+            700,
+            187,
+            699
+          ],
+          "spans": [
+            {
+              "offset": 321,
+              "length": 15
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            617,
+            670,
+            683,
+            673,
+            682,
+            700,
+            616,
+            699
+          ],
+          "spans": [
+            {
+              "offset": 337,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "30.00",
+          "polygon": [
+            743,
+            671,
+            817,
+            670,
+            817,
+            694,
+            743,
+            695
+          ],
+          "spans": [
+            {
+              "offset": 343,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "950.00",
+          "polygon": [
+            906,
+            671,
+            998,
+            670,
+            999,
+            695,
+            906,
+            696
+          ],
+          "spans": [
+            {
+              "offset": 349,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "கமறமும் (Oil - 1L)",
+          "polygon": [
+            186,
+            709,
+            436,
+            709,
+            436,
+            744,
+            186,
+            745
+          ],
+          "spans": [
+            {
+              "offset": 356,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            617,
+            710,
+            683,
+            712,
+            683,
+            740,
+            616,
+            739
+          ],
+          "spans": [
+            {
+              "offset": 373,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "30.00",
+          "polygon": [
+            742,
+            711,
+            819,
+            711,
+            819,
+            736,
+            742,
+            736
+          ],
+          "spans": [
+            {
+              "offset": 379,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "950.00",
+          "polygon": [
+            906,
+            710,
+            998,
+            710,
+            998,
+            736,
+            906,
+            736
+          ],
+          "spans": [
+            {
+              "offset": 385,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "கிருசி (வாட்ப)",
+          "polygon": [
+            186,
+            747,
+            385,
+            748,
+            385,
+            786,
+            186,
+            786
+          ],
+          "spans": [
+            {
+              "offset": 392,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "10 skg",
+          "polygon": [
+            602,
+            751,
+            684,
+            753,
+            684,
+            781,
+            601,
+            780
+          ],
+          "spans": [
+            {
+              "offset": 402,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "240.00",
+          "polygon": [
+            727,
+            752,
+            819,
+            752,
+            819,
+            777,
+            727,
+            777
+          ],
+          "spans": [
+            {
+              "offset": 409,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "1,600.00",
+          "polygon": [
+            886,
+            752,
+            1000,
+            751,
+            1001,
+            779,
+            886,
+            780
+          ],
+          "spans": [
+            {
+              "offset": 416,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "திய்றஎல் தரனர்",
+          "polygon": [
+            184,
+            790,
+            429,
+            790,
+            429,
+            827,
+            184,
+            827
+          ],
+          "spans": [
+            {
+              "offset": 425,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "10 skg",
+          "polygon": [
+            600,
+            792,
+            686,
+            794,
+            685,
+            822,
+            600,
+            821
+          ],
+          "spans": [
+            {
+              "offset": 436,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "140.00",
+          "polygon": [
+            730,
+            793,
+            820,
+            793,
+            820,
+            818,
+            730,
+            819
+          ],
+          "spans": [
+            {
+              "offset": 443,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "1,850.00",
+          "polygon": [
+            887,
+            793,
+            1000,
+            792,
+            1000,
+            819,
+            887,
+            820
+          ],
+          "spans": [
+            {
+              "offset": 450,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "கில்றால் தரனார்",
+          "polygon": [
+            185,
+            831,
+            427,
+            831,
+            427,
+            867,
+            185,
+            867
+          ],
+          "spans": [
+            {
+              "offset": 459,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "1 skg",
+          "polygon": [
+            618,
+            833,
+            685,
+            834,
+            684,
+            863,
+            617,
+            863
+          ],
+          "spans": [
+            {
+              "offset": 469,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "20.00",
+          "polygon": [
+            744,
+            833,
+            819,
+            834,
+            819,
+            858,
+            743,
+            858
+          ],
+          "spans": [
+            {
+              "offset": 475,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "850.00",
+          "polygon": [
+            909,
+            833,
+            1002,
+            833,
+            1002,
+            859,
+            909,
+            859
+          ],
+          "spans": [
+            {
+              "offset": 481,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Subtotal",
+          "polygon": [
+            714,
+            881,
+            822,
+            881,
+            822,
+            906,
+            714,
+            907
+          ],
+          "spans": [
+            {
+              "offset": 488,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "₹2,200.00",
+          "polygon": [
+            875,
+            881,
+            1004,
+            880,
+            1004,
+            908,
+            875,
+            909
+          ],
+          "spans": [
+            {
+              "offset": 497,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "Discounts",
+          "polygon": [
+            692,
+            916,
+            821,
+            916,
+            821,
+            942,
+            692,
+            942
+          ],
+          "spans": [
+            {
+              "offset": 507,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            931,
+            916,
+            1005,
+            916,
+            1005,
+            940,
+            931,
+            940
+          ],
+          "spans": [
+            {
+              "offset": 517,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "Total",
+          "polygon": [
+            757,
+            955,
+            823,
+            955,
+            823,
+            980,
+            757,
+            979
+          ],
+          "spans": [
+            {
+              "offset": 523,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "₹1,350.00",
+          "polygon": [
+            873,
+            954,
+            1004,
+            954,
+            1004,
+            982,
+            873,
+            982
+          ],
+          "spans": [
+            {
+              "offset": 529,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "ஜிஎஸ்டி வரி விவரம்",
+          "polygon": [
+            438,
+            1001,
+            757,
+            999,
+            757,
+            1035,
+            438,
+            1038
+          ],
+          "spans": [
+            {
+              "offset": 539,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "CGST வரி (GST)",
+          "polygon": [
+            182,
+            1041,
+            406,
+            1041,
+            405,
+            1072,
+            182,
+            1072
+          ],
+          "spans": [
+            {
+              "offset": 552,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "CGST",
+          "polygon": [
+            751,
+            1042,
+            825,
+            1041,
+            825,
+            1066,
+            751,
+            1067
+          ],
+          "spans": [
+            {
+              "offset": 566,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "130.00",
+          "polygon": [
+            920,
+            1041,
+            1009,
+            1040,
+            1009,
+            1066,
+            920,
+            1067
+          ],
+          "spans": [
+            {
+              "offset": 571,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "SGST வரி (GST)",
+          "polygon": [
+            181,
+            1075,
+            405,
+            1074,
+            405,
+            1108,
+            181,
+            1109
+          ],
+          "spans": [
+            {
+              "offset": 578,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "SGST",
+          "polygon": [
+            752,
+            1077,
+            826,
+            1076,
+            826,
+            1101,
+            752,
+            1101
+          ],
+          "spans": [
+            {
+              "offset": 592,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "50.00",
+          "polygon": [
+            936,
+            1076,
+            1009,
+            1076,
+            1009,
+            1100,
+            936,
+            1101
+          ],
+          "spans": [
+            {
+              "offset": 597,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "GST தனம் (GST)",
+          "polygon": [
+            181,
+            1110,
+            406,
+            1110,
+            406,
+            1145,
+            181,
+            1146
+          ],
+          "spans": [
+            {
+              "offset": 603,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "Total",
+          "polygon": [
+            760,
+            1112,
+            825,
+            1112,
+            824,
+            1137,
+            759,
+            1138
+          ],
+          "spans": [
+            {
+              "offset": 617,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "₹120.00",
+          "polygon": [
+            903,
+            1111,
+            1011,
+            1111,
+            1011,
+            1137,
+            903,
+            1137
+          ],
+          "spans": [
+            {
+              "offset": 623,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "Total Amount",
+          "polygon": [
+            180,
+            1163,
+            485,
+            1164,
+            485,
+            1206,
+            180,
+            1206
+          ],
+          "spans": [
+            {
+              "offset": 631,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "₹2,450.00",
+          "polygon": [
+            768,
+            1161,
+            1011,
+            1161,
+            1011,
+            1209,
+            769,
+            1212
+          ],
+          "spans": [
+            {
+              "offset": 644,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "பணம் (Cash)",
+          "polygon": [
+            180,
+            1221,
+            367,
+            1221,
+            368,
+            1254,
+            180,
+            1255
+          ],
+          "spans": [
+            {
+              "offset": 654,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "₹2,450.00",
+          "polygon": [
+            882,
+            1222,
+            1013,
+            1222,
+            1013,
+            1250,
+            882,
+            1250
+          ],
+          "spans": [
+            {
+              "offset": 665,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "அட்டை (Card)",
+          "polygon": [
+            178,
+            1259,
+            374,
+            1259,
+            374,
+            1294,
+            178,
+            1294
+          ],
+          "spans": [
+            {
+              "offset": 675,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "₹0.00",
+          "polygon": [
+            940,
+            1260,
+            1013,
+            1261,
+            1013,
+            1286,
+            940,
+            1286
+          ],
+          "spans": [
+            {
+              "offset": 686,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "மாற்றம் (Change Given)",
+          "polygon": [
+            177,
+            1298,
+            501,
+            1298,
+            502,
+            1332,
+            177,
+            1335
+          ],
+          "spans": [
+            {
+              "offset": 692,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "₹30.00",
+          "polygon": [
+            923,
+            1299,
+            1013,
+            1298,
+            1013,
+            1324,
+            923,
+            1324
+          ],
+          "spans": [
+            {
+              "offset": 712,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "Store Hour: 30 - Hour, 10:00 AM +, 1:00 AM to 9:00 AM",
+          "polygon": [
+            257,
+            1351,
+            938,
+            1350,
+            938,
+            1377,
+            257,
+            1379
+          ],
+          "spans": [
+            {
+              "offset": 719,
+              "length": 53
+            }
+          ]
+        },
+        {
+          "content": "இவந்தும்பாளை பெனும் களர் அளைக்ப் பெனளிருக்றறும்",
+          "polygon": [
+            240,
+            1384,
+            956,
+            1383,
+            956,
+            1414,
+            240,
+            1416
+          ],
+          "spans": [
+            {
+              "offset": 773,
+              "length": 29
+            }
+          ]
+        },
+        {
+          "content": "அந்துப்லர் சொலால் கவடங்கள்.",
+          "polygon": [
+            388,
+            1416,
+            807,
+            1414,
+            807,
+            1441,
+            388,
+            1445
+          ],
+          "spans": [
+            {
+              "offset": 803,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "மீண்டும் வருக",
+          "polygon": [
+            481,
+            1449,
+            717,
+            1450,
+            717,
+            1488,
+            481,
+            1487
+          ],
+          "spans": [
+            {
+              "offset": 822,
+              "length": 8
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 830
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 72
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            220,
+            90,
+            953,
+            89,
+            953,
+            269,
+            220,
+            270
+          ]
+        }
+      ],
+      "content": "எ.கே. சூப்பர் மார்க்கெட் எ.கே. சுமற குப்பர் மார்க்கெட், நதுள்ளள் காஎங்குமையா, 3, தங்கள், 086952 12631"
+    },
+    {
+      "spans": [
+        {
+          "offset": 73,
+          "length": 48
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            187,
+            295,
+            526,
+            295,
+            526,
+            396,
+            187,
+            396
+          ]
+        }
+      ],
+      "content": "தான்: 20/03/2024 ரேன் நூள்: 20/03/20:16 ௧ashier ID: 01"
+    },
+    {
+      "spans": [
+        {
+          "offset": 122,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            188,
+            422,
+            316,
+            422,
+            316,
+            454,
+            188,
+            454
+          ]
+        }
+      ],
+      "content": "Product"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            629,
+            424,
+            683,
+            426,
+            682,
+            458,
+            628,
+            456
+          ]
+        }
+      ],
+      "content": "Qty"
+    },
+    {
+      "spans": [
+        {
+          "offset": 134,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            742,
+            423,
+            815,
+            424,
+            815,
+            453,
+            742,
+            452
+          ]
+        }
+      ],
+      "content": "Rate"
+    },
+    {
+      "spans": [
+        {
+          "offset": 139,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            866,
+            423,
+            993,
+            423,
+            993,
+            451,
+            866,
+            451
+          ]
+        }
+      ],
+      "content": "Amount"
+    },
+    {
+      "spans": [
+        {
+          "offset": 146,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            466,
+            441,
+            466,
+            441,
+            500,
+            186,
+            500
+          ]
+        }
+      ],
+      "content": "தக்காளி (Tomato)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 160,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            614,
+            467,
+            682,
+            469,
+            681,
+            498,
+            613,
+            496
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 166,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            740,
+            467,
+            814,
+            467,
+            814,
+            493,
+            740,
+            493
+          ]
+        }
+      ],
+      "content": "19.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 172,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            901,
+            468,
+            993,
+            467,
+            993,
+            492,
+            901,
+            493
+          ]
+        }
+      ],
+      "content": "450.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 179,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            187,
+            504,
+            470,
+            507,
+            470,
+            541,
+            187,
+            538
+          ]
+        }
+      ],
+      "content": "வெங்காயம் (Onion)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 193,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            614,
+            507,
+            682,
+            509,
+            681,
+            538,
+            613,
+            536
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 199,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            742,
+            509,
+            816,
+            508,
+            816,
+            533,
+            742,
+            534
+          ]
+        }
+      ],
+      "content": "10.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 205,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            902,
+            508,
+            994,
+            508,
+            994,
+            533,
+            902,
+            533
+          ]
+        }
+      ],
+      "content": "400.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 212,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            546,
+            427,
+            546,
+            427,
+            582,
+            186,
+            582
+          ]
+        }
+      ],
+      "content": "அரிசி (Rice - 5kg)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 229,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            598,
+            548,
+            682,
+            548,
+            682,
+            578,
+            598,
+            578
+          ]
+        }
+      ],
+      "content": "10 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 236,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            726,
+            549,
+            816,
+            549,
+            816,
+            574,
+            726,
+            574
+          ]
+        }
+      ],
+      "content": "650.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 243,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            865,
+            548,
+            994,
+            548,
+            994,
+            576,
+            865,
+            576
+          ]
+        }
+      ],
+      "content": "₹2,050.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 253,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            587,
+            353,
+            585,
+            353,
+            622,
+            186,
+            624
+          ]
+        }
+      ],
+      "content": "பருப்பு (Dal)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 264,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            615,
+            589,
+            683,
+            590,
+            683,
+            620,
+            615,
+            619
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 270,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            742,
+            589,
+            816,
+            589,
+            816,
+            614,
+            742,
+            614
+          ]
+        }
+      ],
+      "content": "70.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 276,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            903,
+            589,
+            994,
+            589,
+            994,
+            614,
+            903,
+            614
+          ]
+        }
+      ],
+      "content": "750.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 283,
+          "length": 15
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            627,
+            472,
+            627,
+            472,
+            662,
+            186,
+            662
+          ]
+        }
+      ],
+      "content": "எண்ணெய் (Oil - 1L)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 299,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            616,
+            630,
+            684,
+            631,
+            684,
+            659,
+            616,
+            658
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 305,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            728,
+            630,
+            818,
+            630,
+            818,
+            655,
+            728,
+            655
+          ]
+        }
+      ],
+      "content": "150.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 312,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            883,
+            630,
+            994,
+            630,
+            994,
+            657,
+            883,
+            657
+          ]
+        }
+      ],
+      "content": "1,500.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 321,
+          "length": 15
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            187,
+            670,
+            484,
+            670,
+            484,
+            700,
+            187,
+            700
+          ]
+        }
+      ],
+      "content": "எண்ணைய் (Oil - 1L)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 337,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            617,
+            670,
+            683,
+            672,
+            682,
+            701,
+            616,
+            699
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 343,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            743,
+            671,
+            817,
+            670,
+            817,
+            694,
+            743,
+            695
+          ]
+        }
+      ],
+      "content": "30.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 349,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            906,
+            671,
+            999,
+            670,
+            999,
+            695,
+            906,
+            696
+          ]
+        }
+      ],
+      "content": "950.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 356,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            709,
+            436,
+            709,
+            436,
+            745,
+            186,
+            745
+          ]
+        }
+      ],
+      "content": "கமறமும் (Oil - 1L)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 373,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            616,
+            710,
+            683,
+            711,
+            683,
+            740,
+            616,
+            739
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 379,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            742,
+            711,
+            819,
+            711,
+            819,
+            736,
+            742,
+            736
+          ]
+        }
+      ],
+      "content": "30.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 385,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            906,
+            710,
+            998,
+            710,
+            998,
+            736,
+            906,
+            736
+          ]
+        }
+      ],
+      "content": "950.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 392,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            186,
+            747,
+            385,
+            747,
+            385,
+            786,
+            186,
+            786
+          ]
+        }
+      ],
+      "content": "கிருசி (வாட்ப)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 402,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            601,
+            751,
+            684,
+            752,
+            684,
+            781,
+            601,
+            780
+          ]
+        }
+      ],
+      "content": "10 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 409,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            727,
+            752,
+            819,
+            752,
+            819,
+            777,
+            727,
+            777
+          ]
+        }
+      ],
+      "content": "240.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 416,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            886,
+            752,
+            1001,
+            751,
+            1001,
+            779,
+            886,
+            780
+          ]
+        }
+      ],
+      "content": "1,600.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 425,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            184,
+            790,
+            429,
+            790,
+            429,
+            827,
+            184,
+            827
+          ]
+        }
+      ],
+      "content": "திய்றஎல் தரனர்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 436,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            600,
+            792,
+            686,
+            794,
+            685,
+            823,
+            599,
+            821
+          ]
+        }
+      ],
+      "content": "10 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 443,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            730,
+            793,
+            820,
+            793,
+            820,
+            819,
+            730,
+            819
+          ]
+        }
+      ],
+      "content": "140.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 450,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            887,
+            793,
+            1000,
+            792,
+            1000,
+            819,
+            887,
+            820
+          ]
+        }
+      ],
+      "content": "1,850.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 459,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            185,
+            831,
+            427,
+            831,
+            427,
+            867,
+            185,
+            867
+          ]
+        }
+      ],
+      "content": "கில்றால் தரனார்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 469,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            617,
+            833,
+            685,
+            834,
+            685,
+            864,
+            617,
+            863
+          ]
+        }
+      ],
+      "content": "1 skg"
+    },
+    {
+      "spans": [
+        {
+          "offset": 475,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            743,
+            833,
+            819,
+            833,
+            819,
+            858,
+            743,
+            858
+          ]
+        }
+      ],
+      "content": "20.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 481,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            909,
+            833,
+            1002,
+            833,
+            1002,
+            859,
+            909,
+            859
+          ]
+        }
+      ],
+      "content": "850.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 488,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            714,
+            881,
+            822,
+            881,
+            822,
+            907,
+            714,
+            907
+          ]
+        }
+      ],
+      "content": "Subtotal"
+    },
+    {
+      "spans": [
+        {
+          "offset": 497,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            875,
+            881,
+            1004,
+            880,
+            1004,
+            908,
+            875,
+            909
+          ]
+        }
+      ],
+      "content": "₹2,200.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 507,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            692,
+            916,
+            821,
+            916,
+            821,
+            942,
+            692,
+            942
+          ]
+        }
+      ],
+      "content": "Discounts"
+    },
+    {
+      "spans": [
+        {
+          "offset": 517,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            931,
+            916,
+            1005,
+            916,
+            1005,
+            940,
+            931,
+            940
+          ]
+        }
+      ],
+      "content": "50.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 523,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            757,
+            955,
+            823,
+            955,
+            823,
+            980,
+            757,
+            980
+          ]
+        }
+      ],
+      "content": "Total"
+    },
+    {
+      "spans": [
+        {
+          "offset": 529,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            873,
+            954,
+            1004,
+            954,
+            1004,
+            982,
+            873,
+            982
+          ]
+        }
+      ],
+      "content": "₹1,350.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 539,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            438,
+            1001,
+            757,
+            999,
+            757,
+            1036,
+            438,
+            1038
+          ]
+        }
+      ],
+      "content": "ஜிஎஸ்டி வரி விவரம்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 552,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            182,
+            1041,
+            406,
+            1041,
+            406,
+            1072,
+            182,
+            1072
+          ]
+        }
+      ],
+      "content": "CGST வரி (GST)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 566,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            751,
+            1042,
+            825,
+            1041,
+            825,
+            1066,
+            751,
+            1067
+          ]
+        }
+      ],
+      "content": "CGST"
+    },
+    {
+      "spans": [
+        {
+          "offset": 571,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            920,
+            1041,
+            1009,
+            1040,
+            1009,
+            1066,
+            920,
+            1067
+          ]
+        }
+      ],
+      "content": "130.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 578,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            181,
+            1075,
+            405,
+            1074,
+            405,
+            1108,
+            181,
+            1109
+          ]
+        }
+      ],
+      "content": "SGST வரி (GST)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 592,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            752,
+            1076,
+            826,
+            1076,
+            826,
+            1101,
+            752,
+            1101
+          ]
+        }
+      ],
+      "content": "SGST"
+    },
+    {
+      "spans": [
+        {
+          "offset": 597,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            936,
+            1076,
+            1009,
+            1076,
+            1009,
+            1101,
+            936,
+            1101
+          ]
+        }
+      ],
+      "content": "50.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 603,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            181,
+            1110,
+            406,
+            1110,
+            406,
+            1146,
+            181,
+            1146
+          ]
+        }
+      ],
+      "content": "GST தனம் (GST)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 617,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            759,
+            1112,
+            825,
+            1112,
+            825,
+            1138,
+            759,
+            1138
+          ]
+        }
+      ],
+      "content": "Total"
+    },
+    {
+      "spans": [
+        {
+          "offset": 623,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            903,
+            1111,
+            1011,
+            1111,
+            1011,
+            1137,
+            903,
+            1137
+          ]
+        }
+      ],
+      "content": "₹120.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 631,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            180,
+            1163,
+            485,
+            1163,
+            485,
+            1206,
+            180,
+            1206
+          ]
+        }
+      ],
+      "content": "Total Amount"
+    },
+    {
+      "spans": [
+        {
+          "offset": 644,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            768,
+            1161,
+            1011,
+            1161,
+            1011,
+            1212,
+            768,
+            1212
+          ]
+        }
+      ],
+      "content": "₹2,450.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 654,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            180,
+            1221,
+            368,
+            1221,
+            368,
+            1255,
+            180,
+            1255
+          ]
+        }
+      ],
+      "content": "பணம் (Cash)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 665,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            882,
+            1222,
+            1013,
+            1222,
+            1013,
+            1250,
+            882,
+            1250
+          ]
+        }
+      ],
+      "content": "₹2,450.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 675,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            178,
+            1259,
+            374,
+            1259,
+            374,
+            1294,
+            178,
+            1294
+          ]
+        }
+      ],
+      "content": "அட்டை (Card)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 686,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            940,
+            1260,
+            1013,
+            1260,
+            1013,
+            1286,
+            940,
+            1286
+          ]
+        }
+      ],
+      "content": "₹0.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 692,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            177,
+            1298,
+            502,
+            1298,
+            502,
+            1335,
+            177,
+            1335
+          ]
+        }
+      ],
+      "content": "மாற்றம் (Change Given)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 712,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            1298,
+            1013,
+            1298,
+            1013,
+            1324,
+            923,
+            1324
+          ]
+        }
+      ],
+      "content": "₹30.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 719,
+          "length": 102
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            240,
+            1351,
+            956,
+            1350,
+            956,
+            1444,
+            240,
+            1445
+          ]
+        }
+      ],
+      "content": "Store Hour: 30 - Hour, 10:00 AM +, 1:00 AM to 9:00 AM இவந்தும்பாளை பெனும் களர் அளைக்ப் பெனளிருக்றறும் அந்துப்லர் சொலால் கவடங்கள்."
+    },
+    {
+      "spans": [
+        {
+          "offset": 822,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            481,
+            1449,
+            717,
+            1450,
+            717,
+            1488,
+            481,
+            1487
+          ]
+        }
+      ],
+      "content": "மீண்டும் வருக"
+    }
+  ],
+  "styles": [],
+  "contentFormat": "text"
+}

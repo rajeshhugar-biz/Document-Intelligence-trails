@@ -1,0 +1,93 @@
+{
+  "vendor_name": "A.K. Supermarket",
+  "vendor_address": "A.K. Sumara Cooper Market, 3, 3",
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "20/03/2024",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 2200.0,
+  "total_tax": 120.0,
+  "invoice_total": 2450.0,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Tomatoes",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 19.0,
+      "amount": 450.0
+    },
+    {
+      "description": "Onion (Onion)",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 10.0,
+      "amount": 400.0
+    },
+    {
+      "description": "Rice (Rice - 5kg)",
+      "quantity": 10,
+      "unit": "skg",
+      "unit_price": 650.0,
+      "amount": 2050.0
+    },
+    {
+      "description": "Pulses (Dal)",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 70.0,
+      "amount": 750.0
+    },
+    {
+      "description": "Oil (Oil - 1L)",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 150.0,
+      "amount": 1500.0
+    },
+    {
+      "description": "Oil (Oil - 1L)",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 30.0,
+      "amount": 950.0
+    },
+    {
+      "description": "Kamaram (Oil - 1L)",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 30.0,
+      "amount": 950.0
+    },
+    {
+      "description": "Krisi (Vatpa)",
+      "quantity": 10,
+      "unit": "skg",
+      "unit_price": 240.0,
+      "amount": 1600.0
+    },
+    {
+      "description": "Thirteenth Century",
+      "quantity": 10,
+      "unit": "skg",
+      "unit_price": 140.0,
+      "amount": 1850.0
+    },
+    {
+      "description": "Kilral Taranar",
+      "quantity": 1,
+      "unit": "skg",
+      "unit_price": 20.0,
+      "amount": 850.0
+    }
+  ],
+  "file": "tamil3.png",
+  "raw_text": "எ.கே. சூப்பர் மார்க்கெட்\nஎ.கே. சுமற குப்பர் மார்க்கெட்,\nநதுள்ளள் காஎங்குமையா, 3,\nதங்கள், 086952 12631\nதான்: 20/03/2024\nரேன் நூள்: 20/03/20:16\n௧ashier ID: 01\nProduct\nQty\nRate\nAmount\nதக்காளி (Tomato)\n1 skg\n19.00\n450.00\nவெங்காயம் (Onion)\n1 skg\n10.00\n400.00\nஅரிசி (Rice - 5kg)\n10 skg\n650.00\n₹2,050.00\nபருப்பு (Dal)\n1 skg\n70.00\n750.00\nஎண்ணெய் (Oil - 1L)\n1 skg\n150.00\n1,500.00\nஎண்ணைய் (Oil - 1L)\n1 skg\n30.00\n950.00\nகமறமும் (Oil - 1L)\n1 skg\n30.00\n950.00\nகிருசி (வாட்ப)\n10 skg\n240.00\n1,600.00\nதிய்றஎல் தரனர்\n10 skg\n140.00\n1,850.00\nகில்றால் தரனார்\n1 skg\n20.00\n850.00\nSubtotal\n₹2,200.00\nDiscounts\n50.00\nTotal\n₹1,350.00\nஜிஎஸ்டி வரி விவரம்\nCGST வரி (GST)\nCGST\n130.00\nSGST வரி (GST)\nSGST\n50.00\nGST தனம் (GST)\nTotal\n₹120.00\nTotal Amount\n₹2,450.00\nபணம் (Cash)\n₹2,450.00\nஅட்டை (Card)\n₹0.00\nமாற்றம் (Change Given)\n₹30.00\nStore Hour: 30 - Hour, 10:00 AM +, 1:00 AM to 9:00 AM\nஇவந்தும்பாளை பெனும் களர் அளைக்ப் பெனளிருக்றறும்\nஅந்துப்லர் சொலால் கவடங்கள்.\nமீண்டும் வருக",
+  "english_text": "A.K. Supermarket\nA.K. Sumara Cooper Market,\n3, 3,\nThanks, 086952 12631\nJust: 20/03/2024\nRen thread: 20/03/20:16\n1ashier ID: 01\nProduct\nQty\nRate\nAmount\nTomatoes\n1 skg\n19.00\n450.00\nOnion (Onion)\n1 skg\n10.00\n400.00\nRice (Rice - 5kg)\n10 skg\n650.00\n₹2,050.00\nPulses (Dal)\n1 skg\n70.00\n750.00\nOil (Oil - 1L)\n1 skg\n150.00\n1,500.00\nOil (Oil - 1L)\n1 skg\n30.00\n950.00\nKamaram (Oil - 1L)\n1 skg\n30.00\n950.00\nKrisi (Vatpa)\n10 skg\n240.00\n1,600.00\nThirteenth Century\n10 skg\n140.00\n1,850.00\nKilral Taranar\n1 skg\n20.00\n850.00\nSubtotal\n₹2,200.00\nDiscounts\n50.00\nTotal\n₹1,350.00\nGST Tax Details\nCGST Tax (GST)\nCGST\n130.00\nSGST Tax (GST)\nSGST\n50.00\nGST (GST)\nTotal\n₹120.00\nTotal Amount\n₹2,450.00\nCash (Cash)\n₹2,450.00\nCard (Card)\n₹0.00\nChange (Change Given)\n₹30.00\nStore Hour: 30 - Hour, 10:00 AM +, 1:00 AM to 9:00 AM\nThis is the colour of the pen and the colour of the\nAnthuplar Solal Kavadas.\nWelcome back"
+}

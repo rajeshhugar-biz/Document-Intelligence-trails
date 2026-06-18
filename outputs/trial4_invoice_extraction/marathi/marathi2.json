@@ -1,0 +1,51 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": "Shri. Amol Patil",
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "June 5, 2024",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": 16450,
+  "amount_due": 16450,
+  "line_items": [
+    {
+      "description": "Nuggets",
+      "quantity": 4000,
+      "unit": null,
+      "unit_price": 500,
+      "amount": 5550
+    },
+    {
+      "description": "Cement bag",
+      "quantity": 15,
+      "unit": null,
+      "unit_price": 4800,
+      "amount": null
+    },
+    {
+      "description": "Sand",
+      "quantity": 1,
+      "unit": "Brass",
+      "unit_price": 2100,
+      "amount": null
+    },
+    {
+      "description": "Water pipes",
+      "quantity": null,
+      "unit": "L",
+      "unit_price": null,
+      "amount": null
+    }
+  ],
+  "file": "marathi2.png",
+  "raw_text": "दिनांक: ५ जून २०२४\nबिल\nग्राहक : श्री. अमोल पाटील\nरक्कम\nनग\nविवरण\nअ.क्र.\n४,०००\n५००\n१.\n५,५५०\n१५\n2.\n४,८००\n१ ब्रास\n२,१००\nL\n४.\n१६, ४५०\nएकुण\nएकूण अक्षरी : सोळा हजार चारशे पन्नास रुपये मात्र\n५ जून २०२४\nविटा (नंबर १)\nसिमेंट पिशवी\n३.\nवाळू\nपाण्याचे पाईप्स",
+  "english_text": "Date: June 5, 2024\nBills\nCustomer: Shri. Amol Patil\nAmount\nNuggets\nDescription\nS.No.\n4,000\n500\n1.\n5,550\n15\n2.\n4,800\n1 Brass\n2,100\nL\n4.\n16,450\nTotal\nTotal letters: Sixteen thousand four hundred and fifty rupees\nJune 5, 2024\nVita (No. 1)\nCement bag\n3.\nSand\nWater pipes"
+}

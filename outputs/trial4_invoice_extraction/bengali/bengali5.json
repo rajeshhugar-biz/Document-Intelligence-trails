@@ -1,0 +1,37 @@
+{
+  "vendor_name": "SSE",
+  "vendor_address": "Chi Jarre Rattlevania, 52-0-88, Bhabhi Bad, Vinashabjanat-40000",
+  "vendor_tax_id": null,
+  "customer_name": "Khi A. Ajnalayan Bhan",
+  "customer_address": "Fight No. 1 702, Jo Thinia's Yashasquez, Jinniśunta, Vishwas Bhaunat-070007",
+  "customer_id": "ITM001",
+  "invoice_id": "SSE/23-24/015",
+  "invoice_date": "07 Talmat 2020",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 41000,
+  "total_tax": 11200,
+  "invoice_total": 52000,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Reshi Ma Pili",
+      "quantity": 36,
+      "unit": "000",
+      "unit_price": 5,
+      "amount": 36000
+    },
+    {
+      "description": "Dilli Udyal Sade",
+      "quantity": 5,
+      "unit": "600",
+      "unit_price": 5,
+      "amount": 5600
+    }
+  ],
+  "file": "bengali5.png",
+  "raw_text": "SSE\nची जारे रेटल्वेनिया\nतः 52-0-88, भाभी बाद, विनाशाभजनत- ४००००)\n(कान: +SS Sb94080230, रेतमल: info@ss_electronics.in\nनजिम\nनमन: SSE/23-24/015\nजविर: ०७ तालमत २०२०\nधार कब ज्या\nजॉर्ट्स\n(का\nविवब्रा\nरेडेनिसे\nमूला (₹)\nभ्रविमान\nपेठाका\nशब\nलाखे (₹)\nनाम: खी एक. अजनालायन भान\nठिकाना : झगडाफे न१ ७०२,\nजाॅ थीनियाज याशाऍॅट्सकेज,\nजिनिशून्त, विश्वाशा भउनत- ०७०००७\nITM001\n०३- रेशि मॅ पिलि\n36,000\n5%\nSC,000\nITM002\nडिलि उद्याल साडेके\n5,600\nS\n5%\n5,600\n0%\n600\nलॉडे (फाड़ राज़):\n४१,०००\nजिजि बर्मा (5%):\n5,600\nबजजि शर्मा (2%):\n5,600\nकूड़ाड लाफ़ेः\n२०,०७०\nकथारा: दिन राजाब झारे ठोका ताज\nबजावली 3 नियमावली:\n- विकिए श्रवा तकबड ल्या राय ना\n- बर्ताव उगतात पर भवितान भक्षीनका कर्ज निन, शर्त साथकि भरत कबा राब ना\n- खाना (कान विषय समभारके आताज्ञ अना व्याज्ञात्यात कृष्ण\nके डिखतणारे (केवल\nITM003\nखाडीब विवज़न\nजिम तस्वः SSE/23-24/015\nजाबिर: ०७ तालभव २०२०\nआगकाफेके नवत: CST09988\nसांग्रफत्र:\nखी जाॅ रेटलकफ्रेनिकया जब बर्क",
+  "english_text": "SSE\nChi Jarre Rattlevania\n52-0-88, Bhabhi Bad, Vinashabjanat-40000)\n(Ear: +SS SB94080230, Sandmal: info@ss_electronics.in\nNajim\nRegard: SSE/23-24/015\nDate: 07 Talmat 2020\nWhen the edge sine\nJorts\n(of\nVivibra\nRedenise\nMoola (₹)\nBhryman\nPethaka\nnight\nLakhs (₹)\nName: Khi A. Ajnalayan Bhan\nLocation: Fight No. 1 702,\nJo Thinia's Yashasquez,\nJinniśunta, Vishwas Bhaunat- 070007\nITM001\n03- Reshi Ma Pili\n36,000\n5%\nSC,000\nITM002\nDilli Udyal Sade\n5,600\nS\n5%\n5,600\n0%\n600\nLaude (Tear Secret):\n41,000\nJiji Burma (5%):\n5,600\nBajji Sharma (2%):\n5,600\nGarbage Laugh:\n20,070\nStorytelling: The day of the day is crowned\nPlayed 3 manuals:\n- Wiki Shrava is not a good idea.\n- Behavior arises, but the future is not a debt to the predator, with the condition that the future will not be able to do so.\n- Khana (Kan Subject Sambharke Ātāgya Āna Vyagyaṇa Kṛṣṇa\nK Viewer (Only\nITM003\nKhadib Vizwan\nJim Photograph: SSE/23-24/015\nJabir: 07 Taalbhava 2020\nThe new fire CST09988\nSynopsis:\nKhi Joe Ratlacphrenia When Burke"
+}

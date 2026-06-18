@@ -1,0 +1,58 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": "Shri. Ganesh Mane",
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": null,
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": 87550,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "4 Brass",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 18000
+    },
+    {
+      "description": "Sand",
+      "quantity": null,
+      "unit": "Vertical (20 mm) - 3 Brass",
+      "unit_price": null,
+      "amount": 19000
+    },
+    {
+      "description": "Cement (UltraTech) – 50 bags",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 9300
+    },
+    {
+      "description": "Iron rod (12 mm) - 500 kg",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 32500
+    },
+    {
+      "description": "Wooden planks",
+      "quantity": null,
+      "unit": "25 Notes",
+      "unit_price": null,
+      "amount": 8750
+    }
+  ],
+  "file": "marathi3.png",
+  "raw_text": "वितरण पावती\nकॅश मेमो\nदिनांक : १२ जुलै २०२४\nपत्ता :\nरक्कम\nपरिमाण\nमालाचे नाव\nअ.क्र.\n१८,०००\n१.\n१९,०००\n- ४ ब्रास\n२.\nवाळू\n९,३००\nखड़ी (२० मिमी) - ३ ब्रास\n३२,५००\nलोखंड सळई (१२ मिमी) - ५०० किलो\n४.\n८,७५०\n- २५ नग\n५.\nलाकडी फळ्या\nअक्षरी रुपये : सत्यांशी हजार पाचशे पन्नास रुपये मात्र\nएकूण रक्कम :\n८७,५५०\nश्री. आ. राजेश माड़व यार्वल\n(आई गिलवाण मोवर्त)\n२०२४\nसिमेंट (अल्ट्राटेक) - ५० पिशव्या\n३.\nग्राहक :\nश्री. गणेश माने",
+  "english_text": "Delivery Receipt\nCash Memo\nDate of Birth: 12th July 2024\nLeaves:\nAmount\nMagnitude\nName of Goods\nS.No.\n18,000\n1.\n19,000\n- 4 Brass\n2.\nSand\n9,300\nVertical (20 mm) - 3 Brass\n32,500\nIron rod (12 mm) - 500 kg\n4.\n8,750\n- 25 Notes\n5.\nWooden planks\nAkshari Rupees: Thousand Five Hundred and Fifty Rupees\nTotal amount:\n87,550\nShri. B. Rajesh Madava Yarwal\n(I Gilvan Mowart)\n2024\nCement (UltraTech) – 50 bags\n3.\nCustomer :\nShri. Ganesh Mane"
+}

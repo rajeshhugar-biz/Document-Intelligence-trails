@@ -1,0 +1,58 @@
+{
+  "vendor_name": "AR Traders",
+  "vendor_address": "52/V, Katlau Pawad, Kalkan-100000, Bone Bomb, Jalaun",
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": "134",
+  "invoice_date": "25-05-2024",
+  "due_date": "31-05-2024",
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 2140.0,
+  "total_tax": 42.8,
+  "invoice_total": 2097.2,
+  "amount_due": 2097.2,
+  "line_items": [
+    {
+      "description": "Forget the Teddy",
+      "quantity": 10,
+      "unit": "trim",
+      "unit_price": 40.0,
+      "amount": 400.0
+    },
+    {
+      "description": "Budakbr",
+      "quantity": 5,
+      "unit": "Shim",
+      "unit_price": 120.0,
+      "amount": 600.0
+    },
+    {
+      "description": "Pinzebat Uke Baredan",
+      "quantity": 2,
+      "unit": "acres",
+      "unit_price": 150.0,
+      "amount": 300.0
+    },
+    {
+      "description": "Country (pm",
+      "quantity": 6,
+      "unit": "Shrimp",
+      "unit_price": 50.0,
+      "amount": 300.0
+    },
+    {
+      "description": "Attion (S Ltd.)",
+      "quantity": 3,
+      "unit": "Tawajal",
+      "unit_price": 180.0,
+      "amount": 540.0
+    }
+  ],
+  "file": "bengali1.png",
+  "raw_text": "AR\n9. जब. केआम\nअनास्बल माटि्वटणलेज\n•\n+91 98765 43210\nartraders.kol@gmail.com\n52/वि, कटलऊ पवाड,\nकलकाण- १०००००, अस्थिमबम\nजालौन\nथाश्रक :\nजालौन नः\n:\n134\nशनिश\n:\n25-05-2024\nअजीब नः\n:\n-\n......\n:\n31-05-2024\nभटमटनजेब गड\n:\n7 पिट्नव मटका\nकमिक नः\nविवरण\nभविमान\nएकक भूला (b)\nट्याडे भूला (b)\n1\nजावान\n10 त्रिम\n40.00\n400.00\n2\nबडाकब्र\n5 शिम\n120.00\n600.00\n3\nपिंजेबट ऊके बारेडान\n2 एकडि\n150.00\n300.00\n4\nदेश (बजे\n6 श्रिम\n50.00\n300.00\n5\nआटशन (S लि.)\n3 तवाजल\n180.00\n540.00\nताजे भूलड\n2,140.00\nडिघमारे (2%)\n42.80\nजबंद्याऐ\n2,097.20\nहमारे भूला (कथाय) :\nपूरे शजात माणनवरे ठोका कूड़ि बढ़ाना भाव।\nबजावली :\n1. श्रवा कवक त ख्या शटब ना।\n2. (भजाइंडे नगम/अनलॉरेन/डार्क प्रोन्यगब्बू याधार्य कररख रखाव।\n.....\nसाऊफ़न 3 जील",
+  "english_text": "AR\n9. When. Keam\nAnabol Matiltlage\n•\n+91 98765 43210\nartraders.kol@gmail.com\n52/V, Katlau Pawad,\nKalkan-100000, Bone Bomb\nJalaun\nThakshrak:\nJalaun\n:\n134\nShanish\n:\n25-05-2024\nStrange.\n:\n-\n......\n:\n31-05-2024\nBhatmattanjeb Fort\n:\n7 Pitnav Matka\nComic:\nan account\nFutures\nForget unit\nForget the Teddy\n1\nJavan\n10 trim\n40.00\n400.00\n2\nBudakbr\n5 Shim\n120.00\n600.00\n3\nPinzebat Uke Baredan\n2 acres\n150.00\n300.00\n4\nCountry (pm\n6 Shrimp\n50.00\n300.00\n5\nAttion (S Ltd.)\n3 Tawajal\n180.00\n540.00\nFresh Roast\n2,140.00\nDighmare (2%)\n42.80\nJabandyai\n2,097.20\nOur Forgotten (Fiction):\nThe whole thing is a great way to get a kick out of it.\nShe played:\n1. Hearing fungus is not a good thing.\n2. (Maintain a dark prognosis.)\n.....\nSauffon 3 Jill"
+}

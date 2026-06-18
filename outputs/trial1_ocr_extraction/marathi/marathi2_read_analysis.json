@@ -1,0 +1,2115 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "दिनांक: ५ जून २०२४\nबिल\nग्राहक : श्री. अमोल पाटील\nरक्कम\nनग\nविवरण\nअ.क्र.\n४,०००\n५००\n१.\n५,५५०\n१५\n2.\n४,८००\n१ ब्रास\n२,१००\nL\n४.\n१६, ४५०\nएकुण\nएकूण अक्षरी : सोळा हजार चारशे पन्नास रुपये मात्र\n५ जून २०२४\nविटा (नंबर १) सिमेंट पिशवी\n३.\nवाळू पाण्याचे पाईप्स",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -2.800299882888794,
+      "width": 1408,
+      "height": 768,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "दिनांक:",
+          "polygon": [
+            784,
+            33,
+            916,
+            31,
+            918,
+            78,
+            786,
+            80
+          ],
+          "confidence": 0.944,
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": "५",
+          "polygon": [
+            925,
+            30,
+            956,
+            30,
+            958,
+            76,
+            927,
+            77
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "जून",
+          "polygon": [
+            968,
+            30,
+            1030,
+            28,
+            1032,
+            72,
+            970,
+            76
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 7,
+            "length": 2
+          }
+        },
+        {
+          "content": "२०२४",
+          "polygon": [
+            1046,
+            28,
+            1145,
+            25,
+            1146,
+            64,
+            1048,
+            71
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 10,
+            "length": 4
+          }
+        },
+        {
+          "content": "बिल",
+          "polygon": [
+            603,
+            78,
+            700,
+            78,
+            700,
+            130,
+            603,
+            133
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 15,
+            "length": 2
+          }
+        },
+        {
+          "content": "ग्राहक",
+          "polygon": [
+            217,
+            175,
+            314,
+            162,
+            317,
+            216,
+            219,
+            220
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 18,
+            "length": 4
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            333,
+            160,
+            360,
+            156,
+            363,
+            214,
+            335,
+            215
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 23,
+            "length": 1
+          }
+        },
+        {
+          "content": "श्री.",
+          "polygon": [
+            372,
+            155,
+            443,
+            149,
+            445,
+            209,
+            374,
+            213
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 25,
+            "length": 3
+          }
+        },
+        {
+          "content": "अमोल",
+          "polygon": [
+            453,
+            149,
+            559,
+            143,
+            561,
+            202,
+            456,
+            208
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 29,
+            "length": 3
+          }
+        },
+        {
+          "content": "पाटील",
+          "polygon": [
+            588,
+            143,
+            720,
+            142,
+            721,
+            189,
+            591,
+            199
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 33,
+            "length": 3
+          }
+        },
+        {
+          "content": "रक्कम",
+          "polygon": [
+            1013,
+            229,
+            1135,
+            221,
+            1136,
+            259,
+            1014,
+            267
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 37,
+            "length": 4
+          }
+        },
+        {
+          "content": "नग",
+          "polygon": [
+            849,
+            243,
+            920,
+            237,
+            923,
+            267,
+            851,
+            274
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 42,
+            "length": 2
+          }
+        },
+        {
+          "content": "विवरण",
+          "polygon": [
+            439,
+            244,
+            588,
+            242,
+            588,
+            293,
+            441,
+            300
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 45,
+            "length": 4
+          }
+        },
+        {
+          "content": "अ.क्र.",
+          "polygon": [
+            209,
+            279,
+            295,
+            277,
+            296,
+            308,
+            209,
+            311
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 50,
+            "length": 5
+          }
+        },
+        {
+          "content": "४,०००",
+          "polygon": [
+            1028,
+            287,
+            1152,
+            278,
+            1154,
+            316,
+            1029,
+            325
+          ],
+          "confidence": 0.768,
+          "span": {
+            "offset": 56,
+            "length": 5
+          }
+        },
+        {
+          "content": "५००",
+          "polygon": [
+            850,
+            300,
+            931,
+            298,
+            932,
+            329,
+            851,
+            333
+          ],
+          "confidence": 0.866,
+          "span": {
+            "offset": 62,
+            "length": 3
+          }
+        },
+        {
+          "content": "१.",
+          "polygon": [
+            230,
+            338,
+            264,
+            338,
+            264,
+            373,
+            230,
+            373
+          ],
+          "confidence": 0.945,
+          "span": {
+            "offset": 66,
+            "length": 2
+          }
+        },
+        {
+          "content": "५,५५०",
+          "polygon": [
+            1034,
+            341,
+            1164,
+            328,
+            1165,
+            367,
+            1037,
+            381
+          ],
+          "confidence": 0.064,
+          "span": {
+            "offset": 69,
+            "length": 5
+          }
+        },
+        {
+          "content": "१५",
+          "polygon": [
+            875,
+            349,
+            927,
+            347,
+            929,
+            383,
+            875,
+            386
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 75,
+            "length": 2
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            221,
+            389,
+            264,
+            389,
+            264,
+            429,
+            221,
+            429
+          ],
+          "confidence": 0.943,
+          "span": {
+            "offset": 78,
+            "length": 2
+          }
+        },
+        {
+          "content": "४,८००",
+          "polygon": [
+            1046,
+            395,
+            1173,
+            382,
+            1175,
+            420,
+            1048,
+            432
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 81,
+            "length": 5
+          }
+        },
+        {
+          "content": "१",
+          "polygon": [
+            843,
+            402,
+            864,
+            400,
+            867,
+            440,
+            845,
+            442
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 87,
+            "length": 1
+          }
+        },
+        {
+          "content": "ब्रास",
+          "polygon": [
+            883,
+            399,
+            959,
+            393,
+            962,
+            432,
+            886,
+            439
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 89,
+            "length": 3
+          }
+        },
+        {
+          "content": "२,१००",
+          "polygon": [
+            1055,
+            445,
+            1178,
+            432,
+            1183,
+            473,
+            1058,
+            488
+          ],
+          "confidence": 0.057,
+          "span": {
+            "offset": 93,
+            "length": 5
+          }
+        },
+        {
+          "content": "L",
+          "polygon": [
+            894,
+            455,
+            926,
+            454,
+            926,
+            489,
+            894,
+            491
+          ],
+          "confidence": 0.648,
+          "span": {
+            "offset": 99,
+            "length": 1
+          }
+        },
+        {
+          "content": "४.",
+          "polygon": [
+            221,
+            498,
+            265,
+            497,
+            265,
+            536,
+            221,
+            538
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 101,
+            "length": 2
+          }
+        },
+        {
+          "content": "१६,",
+          "polygon": [
+            1051,
+            530,
+            1110,
+            526,
+            1113,
+            573,
+            1053,
+            576
+          ],
+          "confidence": 0.975,
+          "span": {
+            "offset": 104,
+            "length": 3
+          }
+        },
+        {
+          "content": "४५०",
+          "polygon": [
+            1119,
+            525,
+            1211,
+            518,
+            1213,
+            564,
+            1122,
+            572
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 108,
+            "length": 3
+          }
+        },
+        {
+          "content": "एकुण",
+          "polygon": [
+            872,
+            555,
+            983,
+            548,
+            986,
+            597,
+            874,
+            605
+          ],
+          "confidence": 0.988,
+          "span": {
+            "offset": 112,
+            "length": 3
+          }
+        },
+        {
+          "content": "एकूण",
+          "polygon": [
+            200,
+            657,
+            302,
+            644,
+            305,
+            712,
+            202,
+            722
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 116,
+            "length": 3
+          }
+        },
+        {
+          "content": "अक्षरी",
+          "polygon": [
+            321,
+            642,
+            438,
+            630,
+            440,
+            699,
+            323,
+            711
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 120,
+            "length": 4
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            451,
+            628,
+            480,
+            625,
+            482,
+            695,
+            453,
+            698
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 125,
+            "length": 1
+          }
+        },
+        {
+          "content": "सोळा",
+          "polygon": [
+            494,
+            624,
+            602,
+            614,
+            605,
+            684,
+            496,
+            694
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 127,
+            "length": 2
+          }
+        },
+        {
+          "content": "हजार",
+          "polygon": [
+            615,
+            613,
+            723,
+            604,
+            725,
+            673,
+            618,
+            683
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 130,
+            "length": 3
+          }
+        },
+        {
+          "content": "चारशे",
+          "polygon": [
+            737,
+            603,
+            854,
+            594,
+            856,
+            662,
+            739,
+            672
+          ],
+          "confidence": 0.983,
+          "span": {
+            "offset": 134,
+            "length": 3
+          }
+        },
+        {
+          "content": "पन्नास",
+          "polygon": [
+            867,
+            593,
+            984,
+            586,
+            986,
+            651,
+            869,
+            661
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 138,
+            "length": 4
+          }
+        },
+        {
+          "content": "रुपये",
+          "polygon": [
+            1006,
+            585,
+            1098,
+            580,
+            1100,
+            642,
+            1008,
+            649
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 143,
+            "length": 3
+          }
+        },
+        {
+          "content": "मात्र",
+          "polygon": [
+            1111,
+            580,
+            1199,
+            576,
+            1199,
+            633,
+            1113,
+            640
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 147,
+            "length": 3
+          }
+        },
+        {
+          "content": "५",
+          "polygon": [
+            1111,
+            756,
+            1153,
+            737,
+            1161,
+            765,
+            1118,
+            767
+          ],
+          "confidence": 0.855,
+          "span": {
+            "offset": 151,
+            "length": 1
+          }
+        },
+        {
+          "content": "जून",
+          "polygon": [
+            1160,
+            734,
+            1204,
+            715,
+            1215,
+            753,
+            1169,
+            764
+          ],
+          "confidence": 0.461,
+          "span": {
+            "offset": 153,
+            "length": 2
+          }
+        },
+        {
+          "content": "२०२४",
+          "polygon": [
+            1213,
+            712,
+            1281,
+            685,
+            1293,
+            721,
+            1224,
+            751
+          ],
+          "confidence": 0.771,
+          "span": {
+            "offset": 156,
+            "length": 4
+          }
+        },
+        {
+          "content": "विटा",
+          "polygon": [
+            315,
+            305,
+            412,
+            303,
+            414,
+            364,
+            317,
+            366
+          ],
+          "confidence": 0.964,
+          "span": {
+            "offset": 161,
+            "length": 2
+          }
+        },
+        {
+          "content": "(नंबर",
+          "polygon": [
+            428,
+            304,
+            540,
+            304,
+            541,
+            357,
+            429,
+            363
+          ],
+          "confidence": 0.94,
+          "span": {
+            "offset": 164,
+            "length": 4
+          }
+        },
+        {
+          "content": "१)",
+          "polygon": [
+            559,
+            305,
+            609,
+            306,
+            609,
+            352,
+            560,
+            355
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 169,
+            "length": 2
+          }
+        },
+        {
+          "content": "सिमेंट",
+          "polygon": [
+            315,
+            359,
+            430,
+            354,
+            430,
+            408,
+            317,
+            411
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 172,
+            "length": 3
+          }
+        },
+        {
+          "content": "पिशवी",
+          "polygon": [
+            458,
+            353,
+            587,
+            348,
+            587,
+            395,
+            458,
+            407
+          ],
+          "confidence": 0.994,
+          "span": {
+            "offset": 176,
+            "length": 3
+          }
+        },
+        {
+          "content": "३.",
+          "polygon": [
+            223,
+            445,
+            263,
+            445,
+            263,
+            485,
+            223,
+            485
+          ],
+          "confidence": 0.978,
+          "span": {
+            "offset": 180,
+            "length": 2
+          }
+        },
+        {
+          "content": "वाळू",
+          "polygon": [
+            314,
+            424,
+            413,
+            422,
+            413,
+            471,
+            315,
+            474
+          ],
+          "confidence": 0.963,
+          "span": {
+            "offset": 183,
+            "length": 2
+          }
+        },
+        {
+          "content": "पाण्याचे",
+          "polygon": [
+            314,
+            473,
+            474,
+            455,
+            476,
+            518,
+            314,
+            523
+          ],
+          "confidence": 0.979,
+          "span": {
+            "offset": 186,
+            "length": 4
+          }
+        },
+        {
+          "content": "पाईप्स",
+          "polygon": [
+            486,
+            454,
+            624,
+            447,
+            624,
+            509,
+            489,
+            518
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 191,
+            "length": 4
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "दिनांक: ५ जून २०२४",
+          "polygon": [
+            784,
+            32,
+            1143,
+            25,
+            1145,
+            69,
+            785,
+            80
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "बिल",
+          "polygon": [
+            603,
+            78,
+            699,
+            80,
+            699,
+            127,
+            603,
+            134
+          ],
+          "spans": [
+            {
+              "offset": 15,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "ग्राहक : श्री. अमोल पाटील",
+          "polygon": [
+            216,
+            163,
+            717,
+            141,
+            721,
+            190,
+            218,
+            220
+          ],
+          "spans": [
+            {
+              "offset": 18,
+              "length": 18
+            }
+          ]
+        },
+        {
+          "content": "रक्कम",
+          "polygon": [
+            1013,
+            229,
+            1133,
+            220,
+            1135,
+            258,
+            1014,
+            267
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "नग",
+          "polygon": [
+            849,
+            244,
+            918,
+            237,
+            922,
+            268,
+            852,
+            274
+          ],
+          "spans": [
+            {
+              "offset": 42,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "विवरण",
+          "polygon": [
+            439,
+            244,
+            583,
+            242,
+            587,
+            289,
+            443,
+            300
+          ],
+          "spans": [
+            {
+              "offset": 45,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "अ.क्र.",
+          "polygon": [
+            209,
+            279,
+            295,
+            277,
+            296,
+            308,
+            209,
+            312
+          ],
+          "spans": [
+            {
+              "offset": 50,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "४,०००",
+          "polygon": [
+            1027,
+            287,
+            1150,
+            277,
+            1153,
+            315,
+            1029,
+            324
+          ],
+          "spans": [
+            {
+              "offset": 56,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "५००",
+          "polygon": [
+            850,
+            300,
+            929,
+            298,
+            931,
+            328,
+            853,
+            333
+          ],
+          "spans": [
+            {
+              "offset": 62,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "१.",
+          "polygon": [
+            230,
+            338,
+            263,
+            339,
+            262,
+            372,
+            230,
+            373
+          ],
+          "spans": [
+            {
+              "offset": 66,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "५,५५०",
+          "polygon": [
+            1034,
+            340,
+            1160,
+            328,
+            1164,
+            367,
+            1037,
+            380
+          ],
+          "spans": [
+            {
+              "offset": 69,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "१५",
+          "polygon": [
+            875,
+            349,
+            928,
+            347,
+            929,
+            384,
+            875,
+            387
+          ],
+          "spans": [
+            {
+              "offset": 75,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            221,
+            389,
+            262,
+            389,
+            263,
+            429,
+            221,
+            429
+          ],
+          "spans": [
+            {
+              "offset": 78,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "४,८००",
+          "polygon": [
+            1046,
+            394,
+            1170,
+            382,
+            1174,
+            419,
+            1048,
+            432
+          ],
+          "spans": [
+            {
+              "offset": 81,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "१ ब्रास",
+          "polygon": [
+            843,
+            403,
+            957,
+            393,
+            962,
+            433,
+            845,
+            442
+          ],
+          "spans": [
+            {
+              "offset": 87,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "२,१००",
+          "polygon": [
+            1055,
+            446,
+            1177,
+            432,
+            1183,
+            472,
+            1058,
+            488
+          ],
+          "spans": [
+            {
+              "offset": 93,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "L",
+          "polygon": [
+            894,
+            455,
+            924,
+            454,
+            925,
+            490,
+            894,
+            492
+          ],
+          "spans": [
+            {
+              "offset": 99,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "४.",
+          "polygon": [
+            221,
+            499,
+            262,
+            497,
+            264,
+            537,
+            221,
+            538
+          ],
+          "spans": [
+            {
+              "offset": 101,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "१६, ४५०",
+          "polygon": [
+            1051,
+            529,
+            1208,
+            518,
+            1212,
+            564,
+            1053,
+            576
+          ],
+          "spans": [
+            {
+              "offset": 104,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "एकुण",
+          "polygon": [
+            872,
+            557,
+            980,
+            548,
+            985,
+            597,
+            874,
+            604
+          ],
+          "spans": [
+            {
+              "offset": 112,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "एकूण अक्षरी : सोळा हजार चारशे पन्नास रुपये मात्र",
+          "polygon": [
+            199,
+            648,
+            1195,
+            576,
+            1199,
+            635,
+            201,
+            721
+          ],
+          "spans": [
+            {
+              "offset": 116,
+              "length": 34
+            }
+          ]
+        },
+        {
+          "content": "५ जून २०२४",
+          "polygon": [
+            1111,
+            744,
+            1279,
+            685,
+            1293,
+            726,
+            1121,
+            767
+          ],
+          "spans": [
+            {
+              "offset": 151,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "विटा (नंबर १)",
+          "polygon": [
+            314,
+            305,
+            608,
+            303,
+            609,
+            358,
+            316,
+            365
+          ],
+          "spans": [
+            {
+              "offset": 161,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "सिमेंट पिशवी",
+          "polygon": [
+            315,
+            359,
+            586,
+            348,
+            587,
+            399,
+            317,
+            411
+          ],
+          "spans": [
+            {
+              "offset": 172,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "३.",
+          "polygon": [
+            223,
+            445,
+            261,
+            445,
+            262,
+            485,
+            223,
+            485
+          ],
+          "spans": [
+            {
+              "offset": 180,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "वाळू",
+          "polygon": [
+            314,
+            426,
+            409,
+            422,
+            412,
+            471,
+            315,
+            473
+          ],
+          "spans": [
+            {
+              "offset": 183,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "पाण्याचे पाईप्स",
+          "polygon": [
+            314,
+            465,
+            619,
+            447,
+            623,
+            508,
+            314,
+            523
+          ],
+          "spans": [
+            {
+              "offset": 186,
+              "length": 9
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 195
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            784,
+            32,
+            1144,
+            24,
+            1145,
+            72,
+            785,
+            80
+          ]
+        }
+      ],
+      "content": "दिनांक: ५ जून २०२४"
+    },
+    {
+      "spans": [
+        {
+          "offset": 15,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            603,
+            78,
+            699,
+            78,
+            699,
+            134,
+            603,
+            134
+          ]
+        }
+      ],
+      "content": "बिल"
+    },
+    {
+      "spans": [
+        {
+          "offset": 18,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            215,
+            163,
+            718,
+            133,
+            721,
+            190,
+            218,
+            220
+          ]
+        }
+      ],
+      "content": "ग्राहक : श्री. अमोल पाटील"
+    },
+    {
+      "spans": [
+        {
+          "offset": 37,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1011,
+            229,
+            1133,
+            220,
+            1136,
+            258,
+            1014,
+            267
+          ]
+        }
+      ],
+      "content": "रक्कम"
+    },
+    {
+      "spans": [
+        {
+          "offset": 42,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            849,
+            244,
+            919,
+            237,
+            922,
+            268,
+            852,
+            275
+          ]
+        }
+      ],
+      "content": "नग"
+    },
+    {
+      "spans": [
+        {
+          "offset": 45,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            439,
+            244,
+            583,
+            234,
+            587,
+            290,
+            443,
+            300
+          ]
+        }
+      ],
+      "content": "विवरण"
+    },
+    {
+      "spans": [
+        {
+          "offset": 50,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            208,
+            279,
+            295,
+            276,
+            296,
+            309,
+            209,
+            312
+          ]
+        }
+      ],
+      "content": "अ.क्र."
+    },
+    {
+      "spans": [
+        {
+          "offset": 56,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1026,
+            286,
+            1150,
+            277,
+            1153,
+            315,
+            1029,
+            324
+          ]
+        }
+      ],
+      "content": "४,०००"
+    },
+    {
+      "spans": [
+        {
+          "offset": 62,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            850,
+            300,
+            929,
+            295,
+            931,
+            328,
+            852,
+            333
+          ]
+        }
+      ],
+      "content": "५००"
+    },
+    {
+      "spans": [
+        {
+          "offset": 66,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            230,
+            338,
+            263,
+            338,
+            263,
+            373,
+            230,
+            373
+          ]
+        }
+      ],
+      "content": "१."
+    },
+    {
+      "spans": [
+        {
+          "offset": 69,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1033,
+            340,
+            1160,
+            327,
+            1164,
+            367,
+            1037,
+            380
+          ]
+        }
+      ],
+      "content": "५,५५०"
+    },
+    {
+      "spans": [
+        {
+          "offset": 75,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            874,
+            349,
+            928,
+            347,
+            929,
+            385,
+            875,
+            387
+          ]
+        }
+      ],
+      "content": "१५"
+    },
+    {
+      "spans": [
+        {
+          "offset": 78,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            221,
+            389,
+            263,
+            389,
+            263,
+            429,
+            221,
+            429
+          ]
+        }
+      ],
+      "content": "2."
+    },
+    {
+      "spans": [
+        {
+          "offset": 81,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1044,
+            394,
+            1170,
+            381,
+            1174,
+            419,
+            1048,
+            432
+          ]
+        }
+      ],
+      "content": "४,८००"
+    },
+    {
+      "spans": [
+        {
+          "offset": 87,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            842,
+            402,
+            959,
+            393,
+            962,
+            433,
+            845,
+            442
+          ]
+        }
+      ],
+      "content": "१ ब्रास"
+    },
+    {
+      "spans": [
+        {
+          "offset": 93,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1053,
+            446,
+            1178,
+            430,
+            1183,
+            472,
+            1058,
+            488
+          ]
+        }
+      ],
+      "content": "२,१००"
+    },
+    {
+      "spans": [
+        {
+          "offset": 99,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            893,
+            455,
+            924,
+            454,
+            925,
+            491,
+            894,
+            492
+          ]
+        }
+      ],
+      "content": "L"
+    },
+    {
+      "spans": [
+        {
+          "offset": 101,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            220,
+            498,
+            263,
+            497,
+            264,
+            537,
+            221,
+            538
+          ]
+        }
+      ],
+      "content": "४."
+    },
+    {
+      "spans": [
+        {
+          "offset": 104,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1049,
+            529,
+            1208,
+            517,
+            1212,
+            564,
+            1053,
+            576
+          ]
+        }
+      ],
+      "content": "१६, ४५०"
+    },
+    {
+      "spans": [
+        {
+          "offset": 112,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            871,
+            555,
+            982,
+            548,
+            985,
+            597,
+            874,
+            604
+          ]
+        }
+      ],
+      "content": "एकुण"
+    },
+    {
+      "spans": [
+        {
+          "offset": 116,
+          "length": 34
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            196,
+            648,
+            1195,
+            576,
+            1200,
+            649,
+            201,
+            721
+          ]
+        }
+      ],
+      "content": "एकूण अक्षरी : सोळा हजार चारशे पन्नास रुपये मात्र"
+    },
+    {
+      "spans": [
+        {
+          "offset": 151,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1279,
+            685,
+            1293,
+            726,
+            1125,
+            766,
+            1111,
+            744
+          ]
+        }
+      ],
+      "content": "५ जून २०२४"
+    },
+    {
+      "spans": [
+        {
+          "offset": 161,
+          "length": 18
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            314,
+            305,
+            608,
+            300,
+            610,
+            406,
+            316,
+            411
+          ]
+        }
+      ],
+      "content": "विटा (नंबर १) सिमेंट पिशवी"
+    },
+    {
+      "spans": [
+        {
+          "offset": 180,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            223,
+            445,
+            262,
+            445,
+            262,
+            485,
+            223,
+            485
+          ]
+        }
+      ],
+      "content": "३."
+    },
+    {
+      "spans": [
+        {
+          "offset": 183,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            309,
+            426,
+            618,
+            411,
+            623,
+            508,
+            314,
+            523
+          ]
+        }
+      ],
+      "content": "वाळू पाण्याचे पाईप्स"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.6,
+      "spans": [
+        {
+          "offset": 42,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.95,
+      "spans": [
+        {
+          "offset": 62,
+          "length": 3
+        },
+        {
+          "offset": 78,
+          "length": 2
+        },
+        {
+          "offset": 101,
+          "length": 10
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.9,
+      "spans": [
+        {
+          "offset": 69,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 81,
+          "length": 5
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 99,
+          "length": 1
+        },
+        {
+          "offset": 151,
+          "length": 9
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.3,
+      "spans": [
+        {
+          "offset": 180,
+          "length": 2
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text"
+}

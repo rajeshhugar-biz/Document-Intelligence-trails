@@ -1,0 +1,44 @@
+{
+  "vendor_name": "SYNERGY SOLUTIONS",
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": "Apex Logistics",
+  "customer_address": "45 Corporate Tower, BKC, Mumbai",
+  "customer_id": null,
+  "invoice_id": "GST-5005",
+  "invoice_date": "November 15, 2023",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": 10890.0,
+  "invoice_total": 71390.0,
+  "amount_due": 71390.0,
+  "line_items": [
+    {
+      "description": "Supply chain consulting",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 235000.0
+    },
+    {
+      "description": "Custom dashboard design",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 18000.0
+    },
+    {
+      "description": "Maintenance services",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 7500.0
+    }
+  ],
+  "file": "hindi4.jpg",
+  "raw_text": "SYNER\nRGY SOLUT\nTION\nकर बीजक\nबीजक संख्या: GST-५००५\nदिनांक: १५ नवंबर, २०२३\nग्राहक का विवरण\nनाम: एपेक्स लॉजिस्टिक्स\nपता: ४५ कॉर्पोरेट टावर, बीकेसी, मुंबई\nसेवाओं का विवरण\nप्रभार\n१. आपूर्ति श्रृंखला परामर्श\n२३५,०००.००\n२. कस्टम डैशबोर्ड डिज़ाइन\n₹१८,०००.००\n३. रखरखाव सेवाएँ\n₹७,५००.००\nकर (GST @ १८%)\n₹१०,८९०.००\nकुल देय राशि: ₹ ७१,३९०.००\nकृपया बैंक इन्सांग्ण वा केडिट बाई के प्राधाम से ३० दिनों के पीतर भुगतान करें।\nबैंक ऑफ इंडिया, शाखा: वली, खाता: ८७६५३३९०९, IFSC: BKID0000001\nसप्रेम धन्यवाद",
+  "english_text": "SYNER\nRGY SOLUT\nTION\nTax Invoice\nNumber of Invoice: GST-5005\nDate: November 15, 2023\nCustomer Details\nName: Apex Logistics\nAddress: 45 Corporate Tower, BKC, Mumbai\nDetails of Services\ncharge\n1. Supply chain consulting\n235,000.00\n2. Custom dashboard design\n₹18,000.00\n3. Maintenance services\n₹7,500.00\nTax (GST @ 18%)\n₹10,890.00\nTotal Payable: ₹ 71,390.00\nPlease make the payment within 30 days with the premise of Bank Insang or Credit Bai.\nBank of India, Branch: Wali, Account: 876533909, IFSC: BKID0000001\nSincere thanks"
+}

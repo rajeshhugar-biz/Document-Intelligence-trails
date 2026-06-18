@@ -1,0 +1,52 @@
+# Extracted and Translated Text for bengali4.png
+
+**Original Language:** Bengali
+
+---
+
+```text
+SSE
+Thi Jare Ildniddha
+Tazim
+T152-0-48, Tarkri (Falcon, Vishrathanauna - 870,000
+す: + 594080550, as: info@ss_electronics.in
+Comic
+Mashtha
+Details
+Maz (₹)
+Bhritisan
+(Sade (₹)
+Name: B (a. Jazanabine Gate
+Location: Trees No. 1 702,
+1.
+72-ray Sprou Peel
+54,000
+1
+54,000
+Knowing the Beenwy,
+2.
+Chidi Udal Sadan
+5,600
+1
+3,000
+Genius, Vishwathanus - 870007
+3.
+Pardipsare (Kabal)
+280
+2
+Ajitman Vivtan
+(Mahe (Winter Shadow):
+41,000
+Zajim Nunn: SSE/23-24/015
+Survival (2%):
+Reasons (>%):
+Yakounna: CST09988
+Flattened (Rent:
+20,070
+Story: World Shajaz Wade Joka Credits
+- Biquickshan (constipation)
+- Filling the 5v1 Natiman Near Nin, Bharat Rashi Alphabet
+Through:
+- Umbrella (Ear Weaver Pumpkin Known
+B Jade Shetlakpenika Vaz Nalak
+```

@@ -1,0 +1,72 @@
+{
+  "vendor_name": "Royal Palace Hotel",
+  "vendor_address": "123, Station Road, Civil Lines, Jaipur - 302001 (Rajasthan)",
+  "vendor_tax_id": "08AABCR1234C125",
+  "customer_name": "Mr. Rajesh Sharma",
+  "customer_address": "45, Nehru Nagar, Jaipur - 302002 (Rajasthan)",
+  "customer_id": null,
+  "invoice_id": "RP/24-25/0568",
+  "invoice_date": "23 May 2024",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 13000.0,
+  "total_tax": 1560.0,
+  "invoice_total": 14560.0,
+  "amount_due": 14560.0,
+  "line_items": [
+    {
+      "description": "Room Rent (Deluxe Room)",
+      "quantity": 3,
+      "unit": "nights",
+      "unit_price": 3000.0,
+      "amount": 9000.0
+    },
+    {
+      "description": "breakfast",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1500.0
+    },
+    {
+      "description": "lunch",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1000.0
+    },
+    {
+      "description": "Dinner",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 1800.0
+    },
+    {
+      "description": "Laundry",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 300.0
+    },
+    {
+      "description": "Mineral Water",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 120.0
+    },
+    {
+      "description": "Other Services",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": 280.0
+    }
+  ],
+  "file": "hindi5.png",
+  "raw_text": "RP\nरॉयल पैलेस होटल\n- आराम भी, विश्वास भी ...-\n:4\nपता : 123, स्टेशन रोड,\nसिविल लाइन्स, जयपुर - 302001 (राजस्थान)\nफोन : 0141-4001234, 9789123456\nईमेल : info@royalpalacehotel.com\nहोटल बिल\nमेहमान का नाम\n: श्री राजेश शर्मा\nबिल नंबर\n: RP/24-25/0568\nपता\n: 45, नेहरू नगर,\nजयपुर - 302002 (राजस्थान)\nबिल दिनांक\n: 23 मई 2024\nकमरा नंबर\n: 205 (डिलक्स रूम)\nजी.एस.टी.आई.एन. : 08AABCR1234C125\nचेक-इन दिनांक\n: 20 मई 2024\nचेक-आउट दिनांक : 23 मई 2024\nभुगतान का तरीका : नकद / कार्ड\nकुल रातें\n: 3\nक्रमांक\nविवरण\nदिनांक\nराशि (₹)\n1\nकमरा किराया (डिलक्स रूम)\n(₹ 3,000 x 3 रातें)\n20/05/2024 - 22/05/2024\n9,000.00\n2\nनाश्ता\n20/05/2024 - 22/05/2024\n1,500.00\n3\nलंच\n21/05/2024 - 22/05/2024\n1,000.00\n4\nडिनर\n20/05/2024 - 22/05/2024\n1,800.00\n5\nलॉन्ड्री\n21/05/2024\n300.00\n6\nमिनरल वाटर\n20/05/2024 - 23/05/2024\n120.00\n7\nअन्य सेवाएँ\n23/05/2024\n280.00\nउप-योग (Subtotal)\n13,000.00\nजी.एस.टी. (12%)\n1,560.00\nकुल देय राशि (₹)\n14,560.00\n(शब्दों में): रूपये चौदह हजार पाँच सौ साठ मात्र।\nधन्यवाद!\nआपका पुनः स्वागत है।\nपैलस\nरॉयल\nहोटल\nजयपुर\n*\nहोटल प्रबंधन\nAlcal,\nहस्ताक्षर\nनोट: यह कंप्यूटर जनित बिल है, हस्ताक्षर की आवश्यकता नहीं है।",
+  "english_text": "RP\nRoyal Palace Hotel\n- Comfort too, trust too...\n:4\nAddress : 123, Station Road,\nCivil Lines, Jaipur - 302001 (Rajasthan)\nPhone: 0141-4001234, 9789123456\nEmail: info@royalpalacehotel.com\nHotel Bill\nGuest Name\n: Mr. Rajesh Sharma\nBill Number\n: RP/24-25/0568\naddre\n: 45, Nehru Nagar,\nJaipur - 302002 (Rajasthan)\nBill Date\n: 23 May 2024\nRoom Number\n: 205 (Deluxe Room)\nGSTIN: 08AABCR1234C125\nCheck-in Date\n: 20 May 2024\nCheck-out Date: 23rd May 2024\nMode of Payment: Cash/Cash card\nTotal Nights\n: 3\nserial number\nan account\ndate\nAmount (₹)\n1\nRoom Rent (Deluxe Room)\n(₹ 3,000 x 3 nights)\n20/05/2024 - 22/05/2024\n9,000.00\n2\nbreakfast\n20/05/2024 - 22/05/2024\n1,500.00\n3\nlunch\n21/05/2024 - 22/05/2024\n1,000.00\n4\nDinner\n20/05/2024 - 22/05/2024\n1,800.00\n5\nLaundry\n21/05/2024\n300.00\n6\nMineral Water\n20/05/2024 - 23/05/2024\n120.00\n7\nOther Services\n23/05/2024\n280.00\nSubtotals\n13,000.00\nGST (12%)\n1,560.00\nTotal amount payable (₹)\n14,560.00\n(In words): Rupees fourteen thousand five hundred and sixty only.\nThank you!\nYou're welcome back.\nPallas\nRoyal\nhotel\nJaipur\n*\nHotel Management\nAlcal,\nsignature\nNote: This is a computer generated bill, no signature required."
+}

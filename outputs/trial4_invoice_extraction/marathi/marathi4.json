@@ -1,0 +1,51 @@
+{
+  "vendor_name": "Traditional Building Material Store",
+  "vendor_address": "Pune",
+  "vendor_tax_id": null,
+  "customer_name": "Mr. Vinayak Deshpande",
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "October 5, 1998",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": 16070,
+  "amount_due": 16070,
+  "line_items": [
+    {
+      "description": "Vita (red soil)",
+      "quantity": 20,
+      "unit": "bags",
+      "unit_price": 3500,
+      "amount": 70000
+    },
+    {
+      "description": "Cement (Old Brand)",
+      "quantity": 10,
+      "unit": "50 kg",
+      "unit_price": 450,
+      "amount": 4500
+    },
+    {
+      "description": "Wood (Sangwani planks)",
+      "quantity": 2,
+      "unit": "Bags",
+      "unit_price": 320,
+      "amount": 640
+    },
+    {
+      "description": "lime (limestone)",
+      "quantity": null,
+      "unit": null,
+      "unit_price": null,
+      "amount": null
+    }
+  ],
+  "file": "marathi4.jpg",
+  "raw_text": "पारंपरिक बांधकाम साहित्य भंडार\nपुणे\nदिनांक: ५ ऑक्टोबर १९९८\nग्राहक: श्री. विनायक देशपांडे\nरक्कम\nनग\nतपशील\n५,०००\n१०००\n६,८००\n२० पिशव्या\n१.\n३,५००\n१०\n४५०\n५० किलो\n३.\n३२०\n२ बॅग्स\n४.\nचुना (चुनखडी)\n५.\n१६,०७०\nएकूण रकम:\nअक्षरी रुपये : सोळा हजार सत्तर रुपये मात्र\nपारिक बाडन्य\n* माद-चरर्वत\nल\nअ.क्र.\nविटा (लाल माती)\nसिमेंट (जुने ब्रँड)\n२.\nलाकूड (सांगवानी फळ्या)\nखड़ी (बारीक)",
+  "english_text": "Traditional Building Material Store\nPune\nDate: October 5, 1998\nCustomer: Mr. Vinayak Deshpande\nAmount\nNuggets\nSpecifications\n5,000\n1000\n6,800\n20 bags\n1.\n3,500\n10\n450\n50 kg\n3.\n320\n2 Bags\n4.\nlime (limestone)\n5.\n16,070\nTotal amount:\nAkshari Rupees: Sixteen thousand seventy rupees\nParik Bandanya\n* Mad-Charwat\nL\nS.No.\nVita (red soil)\nCement (Old Brand)\n2.\nWood (Sangwani planks)\nVertical (thin)"
+}

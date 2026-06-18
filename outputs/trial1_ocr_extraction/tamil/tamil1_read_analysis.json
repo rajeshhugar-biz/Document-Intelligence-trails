@@ -1,0 +1,1889 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "மாலா மருந்தகம்\nதிக்கக்யவயதுசல்தொல், ஜூமகில் துங்க வர். அgeo meusekaa: + amia : அறg,88, இ&திரி\nCASH MEMO\nநேதி :\nநேதி\n1\nவாடிக்கையாளர் யெபர் : பேசை சண் :\n8.10.\nவாடிக்கையாளர்\nடெஎண்\n1.\nபாராசிட்டமால் - ₹30.00\n2. ஆஸ்பிரின்\n₹25.00\n3. காஃப் சிரப்\n- ₹60.00\nமொத்தம் - ₹115.00\nPapprarssia/sletien\nநிதும்பேஸ், தீதுப்படயம், இஸ்மியள் பி ஸ்ட மிக்ஸ்பற்று இஸ்யக்",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -0.18359999358654022,
+      "width": 635,
+      "height": 729,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "மாலா",
+          "polygon": [
+            143,
+            75,
+            275,
+            68,
+            275,
+            107,
+            142,
+            99
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 0,
+            "length": 2
+          }
+        },
+        {
+          "content": "மருந்தகம்",
+          "polygon": [
+            287,
+            68,
+            512,
+            62,
+            513,
+            105,
+            288,
+            107
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 3,
+            "length": 6
+          }
+        },
+        {
+          "content": "திக்கக்யவயதுசல்தொல்,",
+          "polygon": [
+            220,
+            111,
+            341,
+            111,
+            341,
+            126,
+            220,
+            125
+          ],
+          "confidence": 0.426,
+          "span": {
+            "offset": 10,
+            "length": 13
+          }
+        },
+        {
+          "content": "ஜூமகில்",
+          "polygon": [
+            345,
+            111,
+            375,
+            111,
+            375,
+            125,
+            345,
+            126
+          ],
+          "confidence": 0.248,
+          "span": {
+            "offset": 24,
+            "length": 4
+          }
+        },
+        {
+          "content": "துங்க",
+          "polygon": [
+            378,
+            111,
+            397,
+            111,
+            397,
+            125,
+            378,
+            125
+          ],
+          "confidence": 0.251,
+          "span": {
+            "offset": 29,
+            "length": 3
+          }
+        },
+        {
+          "content": "வர்.",
+          "polygon": [
+            408,
+            111,
+            434,
+            111,
+            434,
+            124,
+            408,
+            125
+          ],
+          "confidence": 0.198,
+          "span": {
+            "offset": 33,
+            "length": 3
+          }
+        },
+        {
+          "content": "அgeo",
+          "polygon": [
+            236,
+            127,
+            261,
+            127,
+            261,
+            140,
+            236,
+            140
+          ],
+          "confidence": 0.194,
+          "span": {
+            "offset": 37,
+            "length": 4
+          }
+        },
+        {
+          "content": "meusekaa:",
+          "polygon": [
+            265,
+            127,
+            313,
+            127,
+            313,
+            140,
+            265,
+            140
+          ],
+          "confidence": 0.413,
+          "span": {
+            "offset": 42,
+            "length": 9
+          }
+        },
+        {
+          "content": "+",
+          "polygon": [
+            316,
+            127,
+            321,
+            127,
+            321,
+            140,
+            316,
+            140
+          ],
+          "confidence": 0.913,
+          "span": {
+            "offset": 52,
+            "length": 1
+          }
+        },
+        {
+          "content": "amia",
+          "polygon": [
+            324,
+            127,
+            344,
+            127,
+            344,
+            140,
+            323,
+            140
+          ],
+          "confidence": 0.152,
+          "span": {
+            "offset": 54,
+            "length": 4
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            348,
+            127,
+            353,
+            127,
+            353,
+            140,
+            348,
+            140
+          ],
+          "confidence": 0.876,
+          "span": {
+            "offset": 59,
+            "length": 1
+          }
+        },
+        {
+          "content": "அறg,88,",
+          "polygon": [
+            357,
+            127,
+            391,
+            127,
+            391,
+            140,
+            357,
+            140
+          ],
+          "confidence": 0.237,
+          "span": {
+            "offset": 61,
+            "length": 7
+          }
+        },
+        {
+          "content": "இ&திரி",
+          "polygon": [
+            394,
+            127,
+            422,
+            126,
+            421,
+            140,
+            394,
+            140
+          ],
+          "confidence": 0.735,
+          "span": {
+            "offset": 69,
+            "length": 4
+          }
+        },
+        {
+          "content": "CASH",
+          "polygon": [
+            264,
+            149,
+            322,
+            149,
+            322,
+            167,
+            264,
+            168
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 74,
+            "length": 4
+          }
+        },
+        {
+          "content": "MEMO",
+          "polygon": [
+            328,
+            149,
+            391,
+            149,
+            390,
+            167,
+            328,
+            167
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 79,
+            "length": 4
+          }
+        },
+        {
+          "content": "நேதி",
+          "polygon": [
+            87,
+            178,
+            122,
+            178,
+            122,
+            202,
+            87,
+            202
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 84,
+            "length": 2
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            127,
+            178,
+            132,
+            178,
+            132,
+            201,
+            127,
+            202
+          ],
+          "confidence": 0.799,
+          "span": {
+            "offset": 87,
+            "length": 1
+          }
+        },
+        {
+          "content": "நேதி",
+          "polygon": [
+            419,
+            176,
+            463,
+            176,
+            463,
+            199,
+            419,
+            198
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 89,
+            "length": 2
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            501,
+            175,
+            517,
+            175,
+            517,
+            195,
+            501,
+            195
+          ],
+          "confidence": 0.757,
+          "span": {
+            "offset": 92,
+            "length": 1
+          }
+        },
+        {
+          "content": "வாடிக்கையாளர்",
+          "polygon": [
+            86,
+            213,
+            212,
+            212,
+            212,
+            235,
+            85,
+            236
+          ],
+          "confidence": 0.512,
+          "span": {
+            "offset": 94,
+            "length": 7
+          }
+        },
+        {
+          "content": "யெபர்",
+          "polygon": [
+            223,
+            212,
+            255,
+            211,
+            255,
+            235,
+            222,
+            235
+          ],
+          "confidence": 0.702,
+          "span": {
+            "offset": 102,
+            "length": 3
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            259,
+            211,
+            269,
+            211,
+            269,
+            235,
+            259,
+            235
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 106,
+            "length": 1
+          }
+        },
+        {
+          "content": "பேசை",
+          "polygon": [
+            383,
+            210,
+            434,
+            210,
+            434,
+            232,
+            382,
+            232
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 108,
+            "length": 2
+          }
+        },
+        {
+          "content": "சண்",
+          "polygon": [
+            439,
+            210,
+            474,
+            210,
+            473,
+            232,
+            439,
+            232
+          ],
+          "confidence": 0.863,
+          "span": {
+            "offset": 111,
+            "length": 2
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            479,
+            210,
+            483,
+            211,
+            483,
+            232,
+            478,
+            232
+          ],
+          "confidence": 0.981,
+          "span": {
+            "offset": 114,
+            "length": 1
+          }
+        },
+        {
+          "content": "8.10.",
+          "polygon": [
+            84,
+            252,
+            126,
+            252,
+            126,
+            267,
+            84,
+            267
+          ],
+          "confidence": 0.656,
+          "span": {
+            "offset": 116,
+            "length": 5
+          }
+        },
+        {
+          "content": "வாடிக்கையாளர்",
+          "polygon": [
+            225,
+            249,
+            374,
+            248,
+            374,
+            271,
+            225,
+            272
+          ],
+          "confidence": 0.178,
+          "span": {
+            "offset": 122,
+            "length": 7
+          }
+        },
+        {
+          "content": "டெஎண்",
+          "polygon": [
+            489,
+            244,
+            556,
+            244,
+            556,
+            267,
+            489,
+            266
+          ],
+          "confidence": 0.682,
+          "span": {
+            "offset": 130,
+            "length": 3
+          }
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            91,
+            289,
+            114,
+            289,
+            114,
+            312,
+            91,
+            312
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 134,
+            "length": 2
+          }
+        },
+        {
+          "content": "பாராசிட்டமால்",
+          "polygon": [
+            135,
+            285,
+            316,
+            284,
+            316,
+            313,
+            134,
+            315
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 137,
+            "length": 7
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            443,
+            293,
+            461,
+            293,
+            461,
+            306,
+            443,
+            306
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 145,
+            "length": 1
+          }
+        },
+        {
+          "content": "₹30.00",
+          "polygon": [
+            475,
+            286,
+            571,
+            286,
+            571,
+            310,
+            474,
+            310
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 147,
+            "length": 6
+          }
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            91,
+            326,
+            114,
+            326,
+            114,
+            351,
+            90,
+            351
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 154,
+            "length": 2
+          }
+        },
+        {
+          "content": "ஆஸ்பிரின்",
+          "polygon": [
+            135,
+            322,
+            289,
+            321,
+            289,
+            355,
+            134,
+            356
+          ],
+          "confidence": 0.969,
+          "span": {
+            "offset": 157,
+            "length": 5
+          }
+        },
+        {
+          "content": "₹25.00",
+          "polygon": [
+            475,
+            325,
+            575,
+            325,
+            575,
+            348,
+            475,
+            348
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 163,
+            "length": 6
+          }
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            84,
+            365,
+            113,
+            365,
+            113,
+            391,
+            84,
+            391
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 170,
+            "length": 2
+          }
+        },
+        {
+          "content": "காஃப்",
+          "polygon": [
+            129,
+            361,
+            213,
+            362,
+            213,
+            394,
+            129,
+            395
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 173,
+            "length": 3
+          }
+        },
+        {
+          "content": "சிரப்",
+          "polygon": [
+            223,
+            362,
+            284,
+            361,
+            284,
+            393,
+            223,
+            394
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 177,
+            "length": 3
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            445,
+            369,
+            457,
+            368,
+            457,
+            386,
+            445,
+            385
+          ],
+          "confidence": 0.977,
+          "span": {
+            "offset": 181,
+            "length": 1
+          }
+        },
+        {
+          "content": "₹60.00",
+          "polygon": [
+            480,
+            366,
+            577,
+            365,
+            576,
+            388,
+            480,
+            388
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 183,
+            "length": 6
+          }
+        },
+        {
+          "content": "மொத்தம்",
+          "polygon": [
+            350,
+            561,
+            457,
+            561,
+            457,
+            592,
+            349,
+            594
+          ],
+          "confidence": 0.987,
+          "span": {
+            "offset": 190,
+            "length": 4
+          }
+        },
+        {
+          "content": "-",
+          "polygon": [
+            465,
+            561,
+            484,
+            561,
+            483,
+            591,
+            464,
+            592
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 195,
+            "length": 1
+          }
+        },
+        {
+          "content": "₹115.00",
+          "polygon": [
+            491,
+            561,
+            589,
+            563,
+            589,
+            587,
+            490,
+            591
+          ],
+          "confidence": 0.98,
+          "span": {
+            "offset": 197,
+            "length": 7
+          }
+        },
+        {
+          "content": "Papprarssia/sletien",
+          "polygon": [
+            479,
+            641,
+            601,
+            641,
+            601,
+            656,
+            479,
+            658
+          ],
+          "confidence": 0.66,
+          "span": {
+            "offset": 205,
+            "length": 19
+          }
+        },
+        {
+          "content": "நிதும்பேஸ்,",
+          "polygon": [
+            148,
+            671,
+            204,
+            670,
+            204,
+            687,
+            148,
+            687
+          ],
+          "confidence": 0.393,
+          "span": {
+            "offset": 225,
+            "length": 6
+          }
+        },
+        {
+          "content": "தீதுப்படயம்,",
+          "polygon": [
+            208,
+            670,
+            275,
+            669,
+            275,
+            686,
+            208,
+            687
+          ],
+          "confidence": 0.543,
+          "span": {
+            "offset": 232,
+            "length": 8
+          }
+        },
+        {
+          "content": "இஸ்மியள்",
+          "polygon": [
+            280,
+            669,
+            339,
+            669,
+            339,
+            686,
+            280,
+            686
+          ],
+          "confidence": 0.297,
+          "span": {
+            "offset": 241,
+            "length": 5
+          }
+        },
+        {
+          "content": "பி",
+          "polygon": [
+            343,
+            669,
+            357,
+            668,
+            357,
+            686,
+            342,
+            686
+          ],
+          "confidence": 0.213,
+          "span": {
+            "offset": 247,
+            "length": 1
+          }
+        },
+        {
+          "content": "ஸ்ட",
+          "polygon": [
+            361,
+            668,
+            384,
+            668,
+            384,
+            686,
+            360,
+            686
+          ],
+          "confidence": 0.248,
+          "span": {
+            "offset": 249,
+            "length": 2
+          }
+        },
+        {
+          "content": "மிக்ஸ்பற்று",
+          "polygon": [
+            388,
+            668,
+            446,
+            668,
+            446,
+            686,
+            388,
+            686
+          ],
+          "confidence": 0.406,
+          "span": {
+            "offset": 252,
+            "length": 6
+          }
+        },
+        {
+          "content": "இஸ்யக்",
+          "polygon": [
+            450,
+            668,
+            512,
+            668,
+            512,
+            685,
+            450,
+            686
+          ],
+          "confidence": 0.355,
+          "span": {
+            "offset": 259,
+            "length": 4
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "மாலா மருந்தகம்",
+          "polygon": [
+            142,
+            65,
+            511,
+            62,
+            512,
+            106,
+            142,
+            108
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "திக்கக்யவயதுசல்தொல், ஜூமகில் துங்க வர்.",
+          "polygon": [
+            219,
+            111,
+            433,
+            110,
+            433,
+            125,
+            219,
+            125
+          ],
+          "spans": [
+            {
+              "offset": 10,
+              "length": 26
+            }
+          ]
+        },
+        {
+          "content": "அgeo meusekaa: + amia : அறg,88, இ&திரி",
+          "polygon": [
+            235,
+            127,
+            421,
+            126,
+            421,
+            139,
+            235,
+            140
+          ],
+          "spans": [
+            {
+              "offset": 37,
+              "length": 36
+            }
+          ]
+        },
+        {
+          "content": "CASH MEMO",
+          "polygon": [
+            263,
+            148,
+            390,
+            148,
+            390,
+            166,
+            263,
+            167
+          ],
+          "spans": [
+            {
+              "offset": 74,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "நேதி :",
+          "polygon": [
+            88,
+            178,
+            131,
+            178,
+            131,
+            201,
+            87,
+            202
+          ],
+          "spans": [
+            {
+              "offset": 84,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "நேதி",
+          "polygon": [
+            420,
+            176,
+            463,
+            177,
+            463,
+            199,
+            419,
+            199
+          ],
+          "spans": [
+            {
+              "offset": 89,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            501,
+            175,
+            516,
+            176,
+            516,
+            194,
+            501,
+            195
+          ],
+          "spans": [
+            {
+              "offset": 92,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "வாடிக்கையாளர் யெபர் :",
+          "polygon": [
+            85,
+            212,
+            268,
+            211,
+            268,
+            234,
+            85,
+            236
+          ],
+          "spans": [
+            {
+              "offset": 94,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "பேசை சண் :",
+          "polygon": [
+            382,
+            209,
+            482,
+            209,
+            482,
+            231,
+            382,
+            231
+          ],
+          "spans": [
+            {
+              "offset": 108,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "8.10.",
+          "polygon": [
+            84,
+            252,
+            125,
+            252,
+            125,
+            267,
+            84,
+            267
+          ],
+          "spans": [
+            {
+              "offset": 116,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "வாடிக்கையாளர்",
+          "polygon": [
+            224,
+            249,
+            373,
+            247,
+            373,
+            270,
+            224,
+            272
+          ],
+          "spans": [
+            {
+              "offset": 122,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "டெஎண்",
+          "polygon": [
+            490,
+            244,
+            555,
+            245,
+            554,
+            267,
+            489,
+            267
+          ],
+          "spans": [
+            {
+              "offset": 130,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "1.",
+          "polygon": [
+            92,
+            289,
+            113,
+            289,
+            112,
+            312,
+            91,
+            312
+          ],
+          "spans": [
+            {
+              "offset": 134,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "பாராசிட்டமால்",
+          "polygon": [
+            134,
+            284,
+            315,
+            283,
+            315,
+            312,
+            134,
+            314
+          ],
+          "spans": [
+            {
+              "offset": 137,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "-",
+          "polygon": [
+            443,
+            293,
+            460,
+            293,
+            461,
+            306,
+            443,
+            306
+          ],
+          "spans": [
+            {
+              "offset": 145,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "₹30.00",
+          "polygon": [
+            473,
+            285,
+            570,
+            285,
+            570,
+            309,
+            473,
+            309
+          ],
+          "spans": [
+            {
+              "offset": 147,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "2.",
+          "polygon": [
+            86,
+            326,
+            113,
+            327,
+            112,
+            351,
+            84,
+            351
+          ],
+          "spans": [
+            {
+              "offset": 154,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "ஆஸ்பிரின்",
+          "polygon": [
+            133,
+            321,
+            288,
+            321,
+            288,
+            354,
+            133,
+            355
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "₹25.00",
+          "polygon": [
+            475,
+            324,
+            574,
+            324,
+            575,
+            348,
+            475,
+            348
+          ],
+          "spans": [
+            {
+              "offset": 163,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "3.",
+          "polygon": [
+            85,
+            365,
+            112,
+            366,
+            112,
+            390,
+            84,
+            391
+          ],
+          "spans": [
+            {
+              "offset": 170,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "காஃப் சிரப்",
+          "polygon": [
+            128,
+            361,
+            283,
+            361,
+            284,
+            393,
+            128,
+            394
+          ],
+          "spans": [
+            {
+              "offset": 173,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "- ₹60.00",
+          "polygon": [
+            444,
+            364,
+            576,
+            363,
+            576,
+            388,
+            444,
+            389
+          ],
+          "spans": [
+            {
+              "offset": 181,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "மொத்தம் - ₹115.00",
+          "polygon": [
+            349,
+            561,
+            588,
+            560,
+            589,
+            590,
+            349,
+            594
+          ],
+          "spans": [
+            {
+              "offset": 190,
+              "length": 14
+            }
+          ]
+        },
+        {
+          "content": "Papprarssia/sletien",
+          "polygon": [
+            479,
+            641,
+            600,
+            641,
+            600,
+            657,
+            479,
+            658
+          ],
+          "spans": [
+            {
+              "offset": 205,
+              "length": 19
+            }
+          ]
+        },
+        {
+          "content": "நிதும்பேஸ், தீதுப்படயம், இஸ்மியள் பி ஸ்ட மிக்ஸ்பற்று இஸ்யக்",
+          "polygon": [
+            147,
+            669,
+            511,
+            667,
+            511,
+            685,
+            147,
+            687
+          ],
+          "spans": [
+            {
+              "offset": 225,
+              "length": 38
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 263
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            142,
+            64,
+            512,
+            62,
+            512,
+            106,
+            142,
+            108
+          ]
+        }
+      ],
+      "content": "மாலா மருந்தகம்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 10,
+          "length": 63
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            219,
+            111,
+            433,
+            110,
+            433,
+            139,
+            219,
+            140
+          ]
+        }
+      ],
+      "content": "திக்கக்யவயதுசல்தொல், ஜூமகில் துங்க வர். அgeo meusekaa: + amia : அறg,88, இ&திரி"
+    },
+    {
+      "spans": [
+        {
+          "offset": 74,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            263,
+            148,
+            390,
+            148,
+            390,
+            167,
+            263,
+            167
+          ]
+        }
+      ],
+      "content": "CASH MEMO"
+    },
+    {
+      "spans": [
+        {
+          "offset": 84,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            87,
+            178,
+            131,
+            178,
+            131,
+            202,
+            87,
+            202
+          ]
+        }
+      ],
+      "content": "நேதி :"
+    },
+    {
+      "spans": [
+        {
+          "offset": 89,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            420,
+            176,
+            463,
+            177,
+            463,
+            199,
+            419,
+            199
+          ]
+        }
+      ],
+      "content": "நேதி"
+    },
+    {
+      "spans": [
+        {
+          "offset": 92,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            501,
+            175,
+            516,
+            176,
+            516,
+            194,
+            501,
+            195
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 94,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            85,
+            212,
+            482,
+            208,
+            482,
+            232,
+            85,
+            236
+          ]
+        }
+      ],
+      "content": "வாடிக்கையாளர் யெபர் : பேசை சண் :"
+    },
+    {
+      "spans": [
+        {
+          "offset": 116,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            84,
+            252,
+            125,
+            252,
+            125,
+            267,
+            84,
+            267
+          ]
+        }
+      ],
+      "content": "8.10."
+    },
+    {
+      "spans": [
+        {
+          "offset": 122,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            224,
+            249,
+            373,
+            247,
+            373,
+            270,
+            224,
+            272
+          ]
+        }
+      ],
+      "content": "வாடிக்கையாளர்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 130,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            489,
+            244,
+            555,
+            245,
+            555,
+            268,
+            489,
+            267
+          ]
+        }
+      ],
+      "content": "டெஎண்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 134,
+          "length": 2
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            92,
+            288,
+            113,
+            289,
+            112,
+            313,
+            91,
+            312
+          ]
+        }
+      ],
+      "content": "1."
+    },
+    {
+      "spans": [
+        {
+          "offset": 137,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            134,
+            284,
+            570,
+            282,
+            570,
+            312,
+            134,
+            314
+          ]
+        }
+      ],
+      "content": "பாராசிட்டமால் - ₹30.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 154,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            84,
+            321,
+            288,
+            321,
+            288,
+            355,
+            84,
+            355
+          ]
+        }
+      ],
+      "content": "2. ஆஸ்பிரின்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 163,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            475,
+            324,
+            575,
+            324,
+            575,
+            348,
+            475,
+            348
+          ]
+        }
+      ],
+      "content": "₹25.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 170,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            84,
+            361,
+            284,
+            360,
+            284,
+            393,
+            84,
+            394
+          ]
+        }
+      ],
+      "content": "3. காஃப் சிரப்"
+    },
+    {
+      "spans": [
+        {
+          "offset": 181,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            444,
+            364,
+            576,
+            363,
+            576,
+            388,
+            444,
+            389
+          ]
+        }
+      ],
+      "content": "- ₹60.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 190,
+          "length": 14
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            348,
+            561,
+            588,
+            557,
+            589,
+            590,
+            349,
+            594
+          ]
+        }
+      ],
+      "content": "மொத்தம் - ₹115.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 205,
+          "length": 19
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            479,
+            641,
+            600,
+            641,
+            600,
+            658,
+            479,
+            658
+          ]
+        }
+      ],
+      "content": "Papprarssia/sletien"
+    },
+    {
+      "spans": [
+        {
+          "offset": 225,
+          "length": 38
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            147,
+            669,
+            511,
+            667,
+            511,
+            685,
+            147,
+            687
+          ]
+        }
+      ],
+      "content": "நிதும்பேஸ், தீதுப்படயம், இஸ்மியள் பி ஸ்ட மிக்ஸ்பற்று இஸ்யக்"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 92,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text"
+}

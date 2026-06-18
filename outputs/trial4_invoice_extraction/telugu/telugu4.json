@@ -1,0 +1,44 @@
+{
+  "vendor_name": "SSE",
+  "vendor_address": "30. 12-3-45, mo 8, p&éso - 530001",
+  "vendor_tax_id": null,
+  "customer_name": "Jujuwalla Gullai",
+  "customer_address": "July 30. 302, Ailes Multisti, 28500, Kayal - 530003",
+  "customer_id": null,
+  "invoice_id": "SSE/23-24/015",
+  "invoice_date": "05 55085 2023",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 17000,
+  "total_tax": 3060,
+  "invoice_total": 20060,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 15000,
+      "amount": 15000
+    },
+    {
+      "description": null,
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1500,
+      "amount": 1500
+    },
+    {
+      "description": null,
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 250,
+      "amount": 500
+    }
+  ],
+  "file": "telugu4.png",
+  "raw_text": "SSE\n30. 12-3-45, mo 8, p&éso - 530001\n@6,5: +91 9876543210, 2300005: info@ss_electronics.in\nฮิล:\n05 55085 2023\n88& Kops: SSE/23-24/015\n2009' Kops: CST09988\nஜுஜூவல்ல ஃகுலை:\nஎல்லீஸ்: ஜூலி 30. 302, ஐல்ஸ் மல்திஸ்தி, 285௦௦, கலைல் - 530003\n56 (₹)\nBvego (₹)\n1.\n1\n15,000\n15,000\n2.\n1\n1,500\n1,500\n3.\n2\n250\n500\nJuego (Tax Essoto):\n17,000\n3.29.00.5.23 (9%):\n1,530\n05.29.05.03 (9%):\n1,530\n20,060\n&Bebeu:\n- நல்ல மலை வருடம் லூல்லி அங்கிலக்ஸ்\n- eல்5 80335 நல்லகல்ால்ல்\nKoesso:",
+  "english_text": "SSE\n30. 12-3-45, mo 8, p&éso - 530001\n@6,5: +91 9876543210, 2300005: info@ss_electronics.in\nฮิล:\n05 55085 2023\n88& Kops: SSE/23-24/015\n2009' Kops: CST09988\nJujuwalla Gullai:\nEllis: July 30. 302, Ailes Multisti, 28500, Kayal - 530003\n56 (₹)\nBvego (₹)\n1.\n1\n15,000\n15,000\n2.\n1\n1,500\n1,500\n3.\n2\n250\n500\nJuego (Tax Essoto):\n17,000\n3.29.00.5.23 (9%):\n1,530\n05.29.05.03 (9%):\n1,530\n20,060\n&Bebeu:\n- Good Mountain Year Lullaby Anglix\n- EL5 80335 Nallakallal\nKoesso:"
+}

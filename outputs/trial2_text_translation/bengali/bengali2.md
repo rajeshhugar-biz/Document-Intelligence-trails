@@ -1,0 +1,65 @@
+# Extracted and Translated Text for bengali2.png
+
+**Original Language:** Bengali
+
+---
+
+```text
+Good (Prefer)
+Cul. No. 1:156
+Narekazi (3 Shutta Vidkaja
+Updated: 25/05/2024
+12/V, Kalau (Father, Kanni - 100,000
+(MOBA: 98765 43210
+Date: 31/05/2024
+Grashak,
+Nava:
+G
+Jalan
+Location:
+(Quotes:
+Sequential
+Details
+Bhritiman
+Ripe radish
+(Rent Moola
+,3
+No.
+(4)
+(B)
+1.
+Maban
+10 Nim
+40.00
+400.00
+2.
+5 Shrim
+120.00
+600.00
+3.
+150.00
+300.00
+4.
+Footh (Lost
+6 Shrimp
+50.00
+300.00
+5.
+Jatton ( 1 l.)
+3 (Bowl)
+180.00
+540.00
+(you)
+2,140.00
+km00g (2%)
+42.80
+Marvatmad
+2,097.20
+CHIG Moola (story):
+Bhu3 Sha'az Maunander Chhoka Kufi Nagma Mad.
+Dhanbamald,
+1. Nana (not a new carcass).
+2. (Bhamanda Nasha / Annashna / Bike Drummaran Mansharam
+Sometimes.
+Clear 3 Maul
+```

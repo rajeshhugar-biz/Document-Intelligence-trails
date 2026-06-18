@@ -1,0 +1,4193 @@
+{
+  "apiVersion": "2024-11-30",
+  "modelId": "prebuilt-read",
+  "stringIndexType": "textElements",
+  "content": "คลองซี่: 05/11/2023\n'Be สอด00 สอทีซี 8ซอยte' สิ่งอกิยอย่ง\n๙.๘๐: 412\nกึ่งออ ขออยิง อส่งอิชิ อสฮกียง\nลสกี่ยง: 3\nกึ่งออส สํสซิ่ง: ลอู ซึ่งยงอน\nสธ/ลส\nผีสิงอยอ\n๕๖ฮล /อสซ\nฮ.๘๐\n9000\n3000\n3\n1\n1000\n500\n2\n2\n5000\n5000\n1\n3\n3200\n8\n4\nกึ่งออ พล บัวเพส\n18200.00\n-910.00\n17290.00\n+150.00\n19514.80\nพอ: ลอฮฺ (30กํกจะ สมอสียง) สgeodง ยงอีอีซี พยู ออฮู (ถอลู สอ0) 12\nผสส ออก อีอีซีที่ยัง ส\nSignal\n\"ออสซีสยอกสํ\n“3ลุกย์ สอบ: 8\nลอซ บอสลิกี่ยง (AC)\nB23), สอ ฮอสกิที่ยิ่ง\n400",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "angle": -1.0950000286102295,
+      "width": 1408,
+      "height": 768,
+      "unit": "pixel",
+      "words": [
+        {
+          "content": "คลอง",
+          "polygon": [
+            229,
+            156,
+            293,
+            154,
+            293,
+            180,
+            229,
+            181
+          ],
+          "confidence": 0.357,
+          "span": {
+            "offset": 0,
+            "length": 4
+          }
+        },
+        {
+          "content": "ซี่",
+          "polygon": [
+            299,
+            154,
+            314,
+            154,
+            314,
+            180,
+            299,
+            180
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 4,
+            "length": 1
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            315,
+            154,
+            324,
+            154,
+            324,
+            180,
+            314,
+            180
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 5,
+            "length": 1
+          }
+        },
+        {
+          "content": "05/11/2023",
+          "polygon": [
+            332,
+            154,
+            473,
+            152,
+            473,
+            179,
+            332,
+            180
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 7,
+            "length": 10
+          }
+        },
+        {
+          "content": "'Be",
+          "polygon": [
+            471,
+            99,
+            529,
+            98,
+            529,
+            143,
+            471,
+            147
+          ],
+          "confidence": 0.769,
+          "span": {
+            "offset": 18,
+            "length": 3
+          }
+        },
+        {
+          "content": "สอด00",
+          "polygon": [
+            548,
+            98,
+            655,
+            96,
+            655,
+            136,
+            549,
+            142
+          ],
+          "confidence": 0.293,
+          "span": {
+            "offset": 22,
+            "length": 5
+          }
+        },
+        {
+          "content": "สอ",
+          "polygon": [
+            673,
+            95,
+            719,
+            94,
+            720,
+            133,
+            674,
+            135
+          ],
+          "confidence": 0.787,
+          "span": {
+            "offset": 28,
+            "length": 2
+          }
+        },
+        {
+          "content": "ที",
+          "polygon": [
+            726,
+            94,
+            754,
+            93,
+            755,
+            132,
+            726,
+            133
+          ],
+          "confidence": 0.512,
+          "span": {
+            "offset": 30,
+            "length": 1
+          }
+        },
+        {
+          "content": "ซี",
+          "polygon": [
+            758,
+            93,
+            777,
+            93,
+            778,
+            131,
+            759,
+            132
+          ],
+          "confidence": 0.018,
+          "span": {
+            "offset": 31,
+            "length": 1
+          }
+        },
+        {
+          "content": "8ซอยte'",
+          "polygon": [
+            796,
+            92,
+            951,
+            87,
+            951,
+            127,
+            797,
+            130
+          ],
+          "confidence": 0.197,
+          "span": {
+            "offset": 33,
+            "length": 7
+          }
+        },
+        {
+          "content": "สิ่ง",
+          "polygon": [
+            642,
+            143,
+            673,
+            142,
+            672,
+            169,
+            641,
+            170
+          ],
+          "confidence": 0.144,
+          "span": {
+            "offset": 41,
+            "length": 2
+          }
+        },
+        {
+          "content": "อกิ",
+          "polygon": [
+            679,
+            142,
+            712,
+            141,
+            712,
+            168,
+            679,
+            169
+          ],
+          "confidence": 0.165,
+          "span": {
+            "offset": 43,
+            "length": 2
+          }
+        },
+        {
+          "content": "ยอ",
+          "polygon": [
+            713,
+            141,
+            745,
+            140,
+            746,
+            167,
+            713,
+            168
+          ],
+          "confidence": 0.117,
+          "span": {
+            "offset": 45,
+            "length": 2
+          }
+        },
+        {
+          "content": "ย่ง",
+          "polygon": [
+            753,
+            140,
+            780,
+            139,
+            780,
+            166,
+            754,
+            167
+          ],
+          "confidence": 0.993,
+          "span": {
+            "offset": 47,
+            "length": 2
+          }
+        },
+        {
+          "content": "๙.๘๐",
+          "polygon": [
+            1010,
+            134,
+            1068,
+            132,
+            1068,
+            161,
+            1011,
+            164
+          ],
+          "confidence": 0.277,
+          "span": {
+            "offset": 50,
+            "length": 4
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            1070,
+            132,
+            1076,
+            132,
+            1076,
+            160,
+            1071,
+            161
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 54,
+            "length": 1
+          }
+        },
+        {
+          "content": "412",
+          "polygon": [
+            1086,
+            132,
+            1142,
+            130,
+            1142,
+            157,
+            1087,
+            160
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 56,
+            "length": 3
+          }
+        },
+        {
+          "content": "กึ่ง",
+          "polygon": [
+            533,
+            189,
+            562,
+            188,
+            562,
+            218,
+            533,
+            218
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 60,
+            "length": 2
+          }
+        },
+        {
+          "content": "ออ",
+          "polygon": [
+            567,
+            188,
+            606,
+            186,
+            606,
+            218,
+            568,
+            218
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 62,
+            "length": 2
+          }
+        },
+        {
+          "content": "ขอ",
+          "polygon": [
+            618,
+            186,
+            646,
+            185,
+            646,
+            218,
+            618,
+            218
+          ],
+          "confidence": 0.767,
+          "span": {
+            "offset": 65,
+            "length": 2
+          }
+        },
+        {
+          "content": "อ",
+          "polygon": [
+            653,
+            185,
+            662,
+            185,
+            662,
+            218,
+            653,
+            218
+          ],
+          "confidence": 0.57,
+          "span": {
+            "offset": 67,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยิง",
+          "polygon": [
+            665,
+            185,
+            682,
+            184,
+            683,
+            217,
+            665,
+            217
+          ],
+          "confidence": 0.291,
+          "span": {
+            "offset": 68,
+            "length": 2
+          }
+        },
+        {
+          "content": "อ",
+          "polygon": [
+            692,
+            184,
+            701,
+            184,
+            701,
+            217,
+            692,
+            217
+          ],
+          "confidence": 0.918,
+          "span": {
+            "offset": 71,
+            "length": 1
+          }
+        },
+        {
+          "content": "ส่ง",
+          "polygon": [
+            708,
+            184,
+            735,
+            183,
+            736,
+            216,
+            708,
+            216
+          ],
+          "confidence": 0.759,
+          "span": {
+            "offset": 72,
+            "length": 2
+          }
+        },
+        {
+          "content": "อิ",
+          "polygon": [
+            738,
+            183,
+            756,
+            182,
+            756,
+            215,
+            739,
+            215
+          ],
+          "confidence": 0.657,
+          "span": {
+            "offset": 74,
+            "length": 1
+          }
+        },
+        {
+          "content": "ชิ",
+          "polygon": [
+            761,
+            182,
+            771,
+            182,
+            771,
+            214,
+            761,
+            215
+          ],
+          "confidence": 0.511,
+          "span": {
+            "offset": 75,
+            "length": 1
+          }
+        },
+        {
+          "content": "อสฮกี",
+          "polygon": [
+            783,
+            182,
+            866,
+            180,
+            866,
+            209,
+            783,
+            214
+          ],
+          "confidence": 0.775,
+          "span": {
+            "offset": 77,
+            "length": 4
+          }
+        },
+        {
+          "content": "ยง",
+          "polygon": [
+            867,
+            180,
+            890,
+            180,
+            890,
+            207,
+            867,
+            209
+          ],
+          "confidence": 1,
+          "span": {
+            "offset": 81,
+            "length": 2
+          }
+        },
+        {
+          "content": "ล",
+          "polygon": [
+            983,
+            214,
+            991,
+            214,
+            990,
+            240,
+            983,
+            240
+          ],
+          "confidence": 0.906,
+          "span": {
+            "offset": 84,
+            "length": 1
+          }
+        },
+        {
+          "content": "สกี่",
+          "polygon": [
+            1009,
+            213,
+            1047,
+            213,
+            1047,
+            239,
+            1008,
+            240
+          ],
+          "confidence": 0.709,
+          "span": {
+            "offset": 85,
+            "length": 2
+          }
+        },
+        {
+          "content": "ยง",
+          "polygon": [
+            1048,
+            213,
+            1072,
+            212,
+            1072,
+            238,
+            1047,
+            239
+          ],
+          "confidence": 0.888,
+          "span": {
+            "offset": 87,
+            "length": 2
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            1076,
+            212,
+            1080,
+            212,
+            1080,
+            238,
+            1076,
+            238
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 89,
+            "length": 1
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            1099,
+            212,
+            1121,
+            212,
+            1121,
+            237,
+            1099,
+            237
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 91,
+            "length": 1
+          }
+        },
+        {
+          "content": "กึ่ง",
+          "polygon": [
+            227,
+            232,
+            258,
+            231,
+            258,
+            259,
+            227,
+            258
+          ],
+          "confidence": 0.648,
+          "span": {
+            "offset": 93,
+            "length": 2
+          }
+        },
+        {
+          "content": "ออส",
+          "polygon": [
+            263,
+            231,
+            316,
+            229,
+            317,
+            260,
+            263,
+            259
+          ],
+          "confidence": 0.94,
+          "span": {
+            "offset": 95,
+            "length": 3
+          }
+        },
+        {
+          "content": "สํส",
+          "polygon": [
+            328,
+            229,
+            361,
+            228,
+            362,
+            261,
+            328,
+            261
+          ],
+          "confidence": 0.369,
+          "span": {
+            "offset": 99,
+            "length": 2
+          }
+        },
+        {
+          "content": "ซิ่ง",
+          "polygon": [
+            375,
+            228,
+            399,
+            227,
+            400,
+            261,
+            375,
+            261
+          ],
+          "confidence": 0.763,
+          "span": {
+            "offset": 101,
+            "length": 2
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            401,
+            227,
+            405,
+            227,
+            405,
+            261,
+            401,
+            261
+          ],
+          "confidence": 0.999,
+          "span": {
+            "offset": 103,
+            "length": 1
+          }
+        },
+        {
+          "content": "ลอู",
+          "polygon": [
+            417,
+            227,
+            474,
+            226,
+            474,
+            261,
+            418,
+            261
+          ],
+          "confidence": 0.897,
+          "span": {
+            "offset": 105,
+            "length": 2
+          }
+        },
+        {
+          "content": "ซึ่ง",
+          "polygon": [
+            521,
+            225,
+            548,
+            225,
+            548,
+            260,
+            522,
+            260
+          ],
+          "confidence": 0.892,
+          "span": {
+            "offset": 108,
+            "length": 2
+          }
+        },
+        {
+          "content": "ยงอน",
+          "polygon": [
+            551,
+            225,
+            626,
+            224,
+            626,
+            257,
+            551,
+            259
+          ],
+          "confidence": 0.351,
+          "span": {
+            "offset": 110,
+            "length": 4
+          }
+        },
+        {
+          "content": "สธ",
+          "polygon": [
+            903,
+            263,
+            937,
+            263,
+            937,
+            289,
+            903,
+            290
+          ],
+          "confidence": 0.065,
+          "span": {
+            "offset": 115,
+            "length": 2
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            948,
+            262,
+            957,
+            262,
+            958,
+            289,
+            948,
+            289
+          ],
+          "confidence": 0.986,
+          "span": {
+            "offset": 117,
+            "length": 1
+          }
+        },
+        {
+          "content": "ลส",
+          "polygon": [
+            960,
+            262,
+            999,
+            261,
+            999,
+            287,
+            960,
+            289
+          ],
+          "confidence": 0.892,
+          "span": {
+            "offset": 118,
+            "length": 2
+          }
+        },
+        {
+          "content": "ผี",
+          "polygon": [
+            771,
+            267,
+            797,
+            267,
+            797,
+            297,
+            771,
+            297
+          ],
+          "confidence": 0.182,
+          "span": {
+            "offset": 121,
+            "length": 1
+          }
+        },
+        {
+          "content": "สิ",
+          "polygon": [
+            802,
+            267,
+            821,
+            266,
+            821,
+            296,
+            802,
+            296
+          ],
+          "confidence": 0.041,
+          "span": {
+            "offset": 122,
+            "length": 1
+          }
+        },
+        {
+          "content": "งอ",
+          "polygon": [
+            821,
+            266,
+            842,
+            266,
+            842,
+            295,
+            822,
+            296
+          ],
+          "confidence": 0.97,
+          "span": {
+            "offset": 123,
+            "length": 2
+          }
+        },
+        {
+          "content": "ยอ",
+          "polygon": [
+            849,
+            266,
+            869,
+            265,
+            869,
+            294,
+            849,
+            295
+          ],
+          "confidence": 0.125,
+          "span": {
+            "offset": 125,
+            "length": 2
+          }
+        },
+        {
+          "content": "๕๖ฮล",
+          "polygon": [
+            437,
+            273,
+            508,
+            272,
+            508,
+            301,
+            437,
+            303
+          ],
+          "confidence": 0.115,
+          "span": {
+            "offset": 128,
+            "length": 4
+          }
+        },
+        {
+          "content": "/",
+          "polygon": [
+            520,
+            272,
+            531,
+            272,
+            531,
+            301,
+            520,
+            301
+          ],
+          "confidence": 0.876,
+          "span": {
+            "offset": 133,
+            "length": 1
+          }
+        },
+        {
+          "content": "อสซ",
+          "polygon": [
+            534,
+            272,
+            595,
+            270,
+            595,
+            299,
+            533,
+            301
+          ],
+          "confidence": 0.713,
+          "span": {
+            "offset": 134,
+            "length": 3
+          }
+        },
+        {
+          "content": "ฮ",
+          "polygon": [
+            230,
+            280,
+            238,
+            280,
+            238,
+            308,
+            230,
+            308
+          ],
+          "confidence": 0.318,
+          "span": {
+            "offset": 138,
+            "length": 1
+          }
+        },
+        {
+          "content": ".",
+          "polygon": [
+            256,
+            280,
+            263,
+            280,
+            263,
+            308,
+            256,
+            308
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 139,
+            "length": 1
+          }
+        },
+        {
+          "content": "๘๐",
+          "polygon": [
+            263,
+            280,
+            299,
+            279,
+            299,
+            307,
+            264,
+            308
+          ],
+          "confidence": 0.015,
+          "span": {
+            "offset": 140,
+            "length": 2
+          }
+        },
+        {
+          "content": "9000",
+          "polygon": [
+            1086,
+            298,
+            1164,
+            296,
+            1164,
+            321,
+            1086,
+            324
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 143,
+            "length": 4
+          }
+        },
+        {
+          "content": "3000",
+          "polygon": [
+            923,
+            303,
+            1001,
+            302,
+            1001,
+            327,
+            924,
+            328
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 148,
+            "length": 4
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            811,
+            306,
+            832,
+            306,
+            832,
+            331,
+            811,
+            331
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 153,
+            "length": 1
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            257,
+            319,
+            271,
+            320,
+            269,
+            343,
+            256,
+            342
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 155,
+            "length": 1
+          }
+        },
+        {
+          "content": "1000",
+          "polygon": [
+            1097,
+            335,
+            1168,
+            334,
+            1168,
+            357,
+            1097,
+            359
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 157,
+            "length": 4
+          }
+        },
+        {
+          "content": "500",
+          "polygon": [
+            945,
+            338,
+            1005,
+            338,
+            1005,
+            362,
+            945,
+            363
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 162,
+            "length": 3
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            815,
+            344,
+            836,
+            344,
+            836,
+            365,
+            816,
+            366
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 166,
+            "length": 1
+          }
+        },
+        {
+          "content": "2",
+          "polygon": [
+            248,
+            357,
+            273,
+            357,
+            273,
+            380,
+            248,
+            380
+          ],
+          "confidence": 0.997,
+          "span": {
+            "offset": 168,
+            "length": 1
+          }
+        },
+        {
+          "content": "5000",
+          "polygon": [
+            1098,
+            371,
+            1178,
+            370,
+            1178,
+            395,
+            1098,
+            397
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 170,
+            "length": 4
+          }
+        },
+        {
+          "content": "5000",
+          "polygon": [
+            929,
+            376,
+            1008,
+            376,
+            1008,
+            400,
+            929,
+            402
+          ],
+          "confidence": 0.99,
+          "span": {
+            "offset": 175,
+            "length": 4
+          }
+        },
+        {
+          "content": "1",
+          "polygon": [
+            818,
+            381,
+            833,
+            381,
+            833,
+            403,
+            818,
+            403
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 180,
+            "length": 1
+          }
+        },
+        {
+          "content": "3",
+          "polygon": [
+            249,
+            393,
+            271,
+            393,
+            271,
+            419,
+            249,
+            419
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 182,
+            "length": 1
+          }
+        },
+        {
+          "content": "3200",
+          "polygon": [
+            1101,
+            408,
+            1183,
+            407,
+            1183,
+            432,
+            1101,
+            433
+          ],
+          "confidence": 0.989,
+          "span": {
+            "offset": 184,
+            "length": 4
+          }
+        },
+        {
+          "content": "8",
+          "polygon": [
+            818,
+            417,
+            839,
+            417,
+            839,
+            441,
+            818,
+            441
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 189,
+            "length": 1
+          }
+        },
+        {
+          "content": "4",
+          "polygon": [
+            244,
+            431,
+            269,
+            431,
+            269,
+            456,
+            244,
+            455
+          ],
+          "confidence": 0.998,
+          "span": {
+            "offset": 191,
+            "length": 1
+          }
+        },
+        {
+          "content": "กึ่ง",
+          "polygon": [
+            315,
+            427,
+            349,
+            426,
+            349,
+            459,
+            315,
+            459
+          ],
+          "confidence": 0.138,
+          "span": {
+            "offset": 193,
+            "length": 2
+          }
+        },
+        {
+          "content": "ออ",
+          "polygon": [
+            355,
+            425,
+            400,
+            424,
+            400,
+            458,
+            355,
+            459
+          ],
+          "confidence": 0.348,
+          "span": {
+            "offset": 195,
+            "length": 2
+          }
+        },
+        {
+          "content": "พล",
+          "polygon": [
+            414,
+            423,
+            463,
+            422,
+            463,
+            457,
+            414,
+            458
+          ],
+          "confidence": 0.205,
+          "span": {
+            "offset": 198,
+            "length": 2
+          }
+        },
+        {
+          "content": "บัว",
+          "polygon": [
+            477,
+            421,
+            525,
+            420,
+            526,
+            454,
+            477,
+            456
+          ],
+          "confidence": 0.051,
+          "span": {
+            "offset": 201,
+            "length": 2
+          }
+        },
+        {
+          "content": "เพส",
+          "polygon": [
+            531,
+            420,
+            592,
+            419,
+            592,
+            451,
+            531,
+            454
+          ],
+          "confidence": 0.221,
+          "span": {
+            "offset": 203,
+            "length": 3
+          }
+        },
+        {
+          "content": "18200.00",
+          "polygon": [
+            1064,
+            446,
+            1212,
+            443,
+            1212,
+            468,
+            1065,
+            473
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 207,
+            "length": 8
+          }
+        },
+        {
+          "content": "-910.00",
+          "polygon": [
+            1094,
+            483,
+            1216,
+            479,
+            1216,
+            505,
+            1094,
+            509
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 216,
+            "length": 7
+          }
+        },
+        {
+          "content": "17290.00",
+          "polygon": [
+            1075,
+            519,
+            1222,
+            516,
+            1222,
+            542,
+            1075,
+            545
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 224,
+            "length": 8
+          }
+        },
+        {
+          "content": "+150.00",
+          "polygon": [
+            1097,
+            555,
+            1227,
+            552,
+            1227,
+            577,
+            1097,
+            581
+          ],
+          "confidence": 0.992,
+          "span": {
+            "offset": 233,
+            "length": 7
+          }
+        },
+        {
+          "content": "19514.80",
+          "polygon": [
+            1084,
+            592,
+            1231,
+            588,
+            1231,
+            616,
+            1085,
+            620
+          ],
+          "confidence": 0.996,
+          "span": {
+            "offset": 241,
+            "length": 8
+          }
+        },
+        {
+          "content": "พอ",
+          "polygon": [
+            663,
+            528,
+            701,
+            526,
+            701,
+            562,
+            663,
+            562
+          ],
+          "confidence": 0.7,
+          "span": {
+            "offset": 250,
+            "length": 2
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            705,
+            526,
+            717,
+            526,
+            717,
+            562,
+            705,
+            562
+          ],
+          "confidence": 0.598,
+          "span": {
+            "offset": 252,
+            "length": 1
+          }
+        },
+        {
+          "content": "ลอฮฺ",
+          "polygon": [
+            728,
+            525,
+            790,
+            523,
+            790,
+            560,
+            728,
+            561
+          ],
+          "confidence": 0.098,
+          "span": {
+            "offset": 254,
+            "length": 3
+          }
+        },
+        {
+          "content": "(30กํก",
+          "polygon": [
+            799,
+            523,
+            879,
+            520,
+            879,
+            557,
+            799,
+            560
+          ],
+          "confidence": 0.316,
+          "span": {
+            "offset": 258,
+            "length": 5
+          }
+        },
+        {
+          "content": "จะ",
+          "polygon": [
+            887,
+            520,
+            917,
+            520,
+            918,
+            555,
+            887,
+            557
+          ],
+          "confidence": 0.073,
+          "span": {
+            "offset": 263,
+            "length": 2
+          }
+        },
+        {
+          "content": "สมอ",
+          "polygon": [
+            927,
+            519,
+            969,
+            519,
+            969,
+            553,
+            928,
+            555
+          ],
+          "confidence": 0.261,
+          "span": {
+            "offset": 266,
+            "length": 3
+          }
+        },
+        {
+          "content": "สี",
+          "polygon": [
+            974,
+            519,
+            995,
+            519,
+            995,
+            552,
+            975,
+            553
+          ],
+          "confidence": 0.116,
+          "span": {
+            "offset": 269,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยง",
+          "polygon": [
+            995,
+            519,
+            1022,
+            518,
+            1022,
+            550,
+            996,
+            552
+          ],
+          "confidence": 0.869,
+          "span": {
+            "offset": 270,
+            "length": 2
+          }
+        },
+        {
+          "content": ")",
+          "polygon": [
+            1025,
+            518,
+            1037,
+            518,
+            1037,
+            549,
+            1026,
+            550
+          ],
+          "confidence": 0.95,
+          "span": {
+            "offset": 272,
+            "length": 1
+          }
+        },
+        {
+          "content": "สgeodง",
+          "polygon": [
+            826,
+            559,
+            929,
+            556,
+            929,
+            593,
+            827,
+            597
+          ],
+          "confidence": 0.164,
+          "span": {
+            "offset": 274,
+            "length": 6
+          }
+        },
+        {
+          "content": "ยง",
+          "polygon": [
+            941,
+            556,
+            974,
+            555,
+            975,
+            590,
+            941,
+            592
+          ],
+          "confidence": 0.228,
+          "span": {
+            "offset": 281,
+            "length": 2
+          }
+        },
+        {
+          "content": "อี",
+          "polygon": [
+            980,
+            555,
+            1002,
+            555,
+            1002,
+            587,
+            980,
+            589
+          ],
+          "confidence": 0.033,
+          "span": {
+            "offset": 283,
+            "length": 1
+          }
+        },
+        {
+          "content": "อี",
+          "polygon": [
+            1003,
+            555,
+            1021,
+            555,
+            1022,
+            585,
+            1004,
+            587
+          ],
+          "confidence": 0.211,
+          "span": {
+            "offset": 284,
+            "length": 1
+          }
+        },
+        {
+          "content": "ซี",
+          "polygon": [
+            1022,
+            555,
+            1040,
+            554,
+            1040,
+            583,
+            1022,
+            585
+          ],
+          "confidence": 0.169,
+          "span": {
+            "offset": 285,
+            "length": 1
+          }
+        },
+        {
+          "content": "พยู",
+          "polygon": [
+            735,
+            598,
+            798,
+            597,
+            799,
+            640,
+            736,
+            641
+          ],
+          "confidence": 0.157,
+          "span": {
+            "offset": 287,
+            "length": 2
+          }
+        },
+        {
+          "content": "ออฮู",
+          "polygon": [
+            808,
+            596,
+            875,
+            595,
+            876,
+            638,
+            808,
+            640
+          ],
+          "confidence": 0.226,
+          "span": {
+            "offset": 290,
+            "length": 3
+          }
+        },
+        {
+          "content": "(",
+          "polygon": [
+            885,
+            594,
+            901,
+            594,
+            902,
+            637,
+            886,
+            638
+          ],
+          "confidence": 0.948,
+          "span": {
+            "offset": 294,
+            "length": 1
+          }
+        },
+        {
+          "content": "ถอลู",
+          "polygon": [
+            902,
+            594,
+            965,
+            592,
+            967,
+            634,
+            903,
+            637
+          ],
+          "confidence": 0.327,
+          "span": {
+            "offset": 295,
+            "length": 3
+          }
+        },
+        {
+          "content": "สอ0)",
+          "polygon": [
+            975,
+            592,
+            1043,
+            590,
+            1043,
+            630,
+            976,
+            633
+          ],
+          "confidence": 0.265,
+          "span": {
+            "offset": 299,
+            "length": 4
+          }
+        },
+        {
+          "content": "12",
+          "polygon": [
+            994,
+            602,
+            995,
+            622,
+            976,
+            622,
+            975,
+            602
+          ],
+          "confidence": 0.655,
+          "span": {
+            "offset": 304,
+            "length": 2
+          }
+        },
+        {
+          "content": "ผสส",
+          "polygon": [
+            273,
+            657,
+            381,
+            657,
+            381,
+            704,
+            273,
+            708
+          ],
+          "confidence": 0.266,
+          "span": {
+            "offset": 307,
+            "length": 3
+          }
+        },
+        {
+          "content": "ออก",
+          "polygon": [
+            395,
+            656,
+            460,
+            655,
+            460,
+            701,
+            395,
+            704
+          ],
+          "confidence": 0.052,
+          "span": {
+            "offset": 311,
+            "length": 3
+          }
+        },
+        {
+          "content": "อี",
+          "polygon": [
+            472,
+            655,
+            500,
+            654,
+            500,
+            700,
+            472,
+            701
+          ],
+          "confidence": 0.08,
+          "span": {
+            "offset": 315,
+            "length": 1
+          }
+        },
+        {
+          "content": "อี",
+          "polygon": [
+            502,
+            654,
+            526,
+            653,
+            526,
+            699,
+            502,
+            700
+          ],
+          "confidence": 0.245,
+          "span": {
+            "offset": 316,
+            "length": 1
+          }
+        },
+        {
+          "content": "ซี",
+          "polygon": [
+            527,
+            653,
+            545,
+            653,
+            545,
+            698,
+            527,
+            699
+          ],
+          "confidence": 0.1,
+          "span": {
+            "offset": 317,
+            "length": 1
+          }
+        },
+        {
+          "content": "ที่",
+          "polygon": [
+            545,
+            653,
+            569,
+            652,
+            569,
+            697,
+            545,
+            698
+          ],
+          "confidence": 0.852,
+          "span": {
+            "offset": 318,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยัง",
+          "polygon": [
+            570,
+            652,
+            596,
+            651,
+            596,
+            696,
+            570,
+            697
+          ],
+          "confidence": 0.712,
+          "span": {
+            "offset": 319,
+            "length": 2
+          }
+        },
+        {
+          "content": "ส",
+          "polygon": [
+            610,
+            650,
+            642,
+            649,
+            642,
+            695,
+            610,
+            696
+          ],
+          "confidence": 0.884,
+          "span": {
+            "offset": 322,
+            "length": 1
+          }
+        },
+        {
+          "content": "Signal",
+          "polygon": [
+            974,
+            645,
+            1085,
+            627,
+            1093,
+            668,
+            980,
+            688
+          ],
+          "confidence": 0.924,
+          "span": {
+            "offset": 324,
+            "length": 6
+          }
+        },
+        {
+          "content": "\"",
+          "polygon": [
+            1027,
+            679,
+            1036,
+            679,
+            1038,
+            710,
+            1029,
+            710
+          ],
+          "confidence": 0.877,
+          "span": {
+            "offset": 331,
+            "length": 1
+          }
+        },
+        {
+          "content": "ออส",
+          "polygon": [
+            1045,
+            679,
+            1095,
+            678,
+            1097,
+            709,
+            1047,
+            709
+          ],
+          "confidence": 0.971,
+          "span": {
+            "offset": 332,
+            "length": 3
+          }
+        },
+        {
+          "content": "ซี",
+          "polygon": [
+            1111,
+            678,
+            1130,
+            677,
+            1131,
+            708,
+            1112,
+            708
+          ],
+          "confidence": 0.956,
+          "span": {
+            "offset": 335,
+            "length": 1
+          }
+        },
+        {
+          "content": "ส",
+          "polygon": [
+            1131,
+            677,
+            1140,
+            677,
+            1141,
+            708,
+            1132,
+            708
+          ],
+          "confidence": 0.695,
+          "span": {
+            "offset": 336,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยอก",
+          "polygon": [
+            1153,
+            676,
+            1203,
+            674,
+            1204,
+            706,
+            1154,
+            707
+          ],
+          "confidence": 0.369,
+          "span": {
+            "offset": 337,
+            "length": 3
+          }
+        },
+        {
+          "content": "สํ",
+          "polygon": [
+            1215,
+            674,
+            1238,
+            672,
+            1238,
+            705,
+            1215,
+            705
+          ],
+          "confidence": 0.645,
+          "span": {
+            "offset": 340,
+            "length": 1
+          }
+        },
+        {
+          "content": "“3ลุก",
+          "polygon": [
+            690,
+            222,
+            766,
+            220,
+            766,
+            252,
+            690,
+            250
+          ],
+          "confidence": 0.114,
+          "span": {
+            "offset": 342,
+            "length": 4
+          }
+        },
+        {
+          "content": "ย์",
+          "polygon": [
+            775,
+            220,
+            791,
+            220,
+            791,
+            252,
+            775,
+            252
+          ],
+          "confidence": 0.619,
+          "span": {
+            "offset": 346,
+            "length": 1
+          }
+        },
+        {
+          "content": "สอบ",
+          "polygon": [
+            801,
+            219,
+            851,
+            218,
+            851,
+            252,
+            801,
+            252
+          ],
+          "confidence": 0.065,
+          "span": {
+            "offset": 348,
+            "length": 3
+          }
+        },
+        {
+          "content": ":",
+          "polygon": [
+            871,
+            218,
+            875,
+            218,
+            875,
+            252,
+            871,
+            252
+          ],
+          "confidence": 0.236,
+          "span": {
+            "offset": 351,
+            "length": 1
+          }
+        },
+        {
+          "content": "8",
+          "polygon": [
+            892,
+            217,
+            914,
+            217,
+            914,
+            251,
+            893,
+            251
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 353,
+            "length": 1
+          }
+        },
+        {
+          "content": "ลอซ",
+          "polygon": [
+            320,
+            313,
+            400,
+            311,
+            400,
+            345,
+            320,
+            346
+          ],
+          "confidence": 0.141,
+          "span": {
+            "offset": 355,
+            "length": 3
+          }
+        },
+        {
+          "content": "บอส",
+          "polygon": [
+            413,
+            311,
+            472,
+            310,
+            472,
+            343,
+            413,
+            344
+          ],
+          "confidence": 0.273,
+          "span": {
+            "offset": 359,
+            "length": 3
+          }
+        },
+        {
+          "content": "ลิ",
+          "polygon": [
+            482,
+            310,
+            504,
+            309,
+            504,
+            342,
+            482,
+            343
+          ],
+          "confidence": 0.054,
+          "span": {
+            "offset": 362,
+            "length": 1
+          }
+        },
+        {
+          "content": "กี่",
+          "polygon": [
+            505,
+            309,
+            526,
+            309,
+            526,
+            342,
+            505,
+            342
+          ],
+          "confidence": 0.658,
+          "span": {
+            "offset": 363,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยง",
+          "polygon": [
+            526,
+            309,
+            554,
+            309,
+            554,
+            341,
+            526,
+            342
+          ],
+          "confidence": 0.757,
+          "span": {
+            "offset": 364,
+            "length": 2
+          }
+        },
+        {
+          "content": "(AC)",
+          "polygon": [
+            567,
+            309,
+            637,
+            308,
+            637,
+            337,
+            567,
+            340
+          ],
+          "confidence": 0.991,
+          "span": {
+            "offset": 367,
+            "length": 4
+          }
+        },
+        {
+          "content": "B23),",
+          "polygon": [
+            318,
+            350,
+            389,
+            348,
+            389,
+            385,
+            317,
+            384
+          ],
+          "confidence": 0.102,
+          "span": {
+            "offset": 372,
+            "length": 5
+          }
+        },
+        {
+          "content": "สอ",
+          "polygon": [
+            390,
+            348,
+            430,
+            347,
+            430,
+            384,
+            389,
+            385
+          ],
+          "confidence": 0.778,
+          "span": {
+            "offset": 378,
+            "length": 2
+          }
+        },
+        {
+          "content": "ฮอส",
+          "polygon": [
+            444,
+            347,
+            496,
+            346,
+            497,
+            381,
+            444,
+            384
+          ],
+          "confidence": 0.238,
+          "span": {
+            "offset": 381,
+            "length": 3
+          }
+        },
+        {
+          "content": "กิ",
+          "polygon": [
+            509,
+            346,
+            530,
+            346,
+            531,
+            379,
+            509,
+            380
+          ],
+          "confidence": 0.301,
+          "span": {
+            "offset": 384,
+            "length": 1
+          }
+        },
+        {
+          "content": "ที่",
+          "polygon": [
+            531,
+            346,
+            553,
+            346,
+            554,
+            376,
+            532,
+            378
+          ],
+          "confidence": 0.062,
+          "span": {
+            "offset": 385,
+            "length": 1
+          }
+        },
+        {
+          "content": "ยิ่ง",
+          "polygon": [
+            554,
+            346,
+            580,
+            345,
+            580,
+            374,
+            554,
+            376
+          ],
+          "confidence": 0.059,
+          "span": {
+            "offset": 386,
+            "length": 2
+          }
+        },
+        {
+          "content": "400",
+          "polygon": [
+            949,
+            411,
+            1010,
+            411,
+            1010,
+            437,
+            949,
+            438
+          ],
+          "confidence": 0.995,
+          "span": {
+            "offset": 389,
+            "length": 3
+          }
+        }
+      ],
+      "lines": [
+        {
+          "content": "คลองซี่: 05/11/2023",
+          "polygon": [
+            228,
+            155,
+            472,
+            152,
+            472,
+            178,
+            228,
+            181
+          ],
+          "spans": [
+            {
+              "offset": 0,
+              "length": 17
+            }
+          ]
+        },
+        {
+          "content": "'Be สอด00 สอทีซี 8ซอยte'",
+          "polygon": [
+            470,
+            99,
+            949,
+            87,
+            951,
+            130,
+            470,
+            146
+          ],
+          "spans": [
+            {
+              "offset": 18,
+              "length": 22
+            }
+          ]
+        },
+        {
+          "content": "สิ่งอกิยอย่ง",
+          "polygon": [
+            641,
+            142,
+            778,
+            139,
+            779,
+            165,
+            641,
+            170
+          ],
+          "spans": [
+            {
+              "offset": 41,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "๙.๘๐: 412",
+          "polygon": [
+            1010,
+            133,
+            1140,
+            130,
+            1141,
+            158,
+            1011,
+            163
+          ],
+          "spans": [
+            {
+              "offset": 50,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "กึ่งออ ขออยิง อส่งอิชิ อสฮกียง",
+          "polygon": [
+            532,
+            188,
+            888,
+            179,
+            889,
+            210,
+            532,
+            218
+          ],
+          "spans": [
+            {
+              "offset": 60,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "ลสกี่ยง: 3",
+          "polygon": [
+            982,
+            213,
+            1120,
+            211,
+            1120,
+            236,
+            982,
+            239
+          ],
+          "spans": [
+            {
+              "offset": 84,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "กึ่งออส สํสซิ่ง: ลอู ซึ่งยงอน",
+          "polygon": [
+            227,
+            228,
+            624,
+            224,
+            625,
+            258,
+            227,
+            261
+          ],
+          "spans": [
+            {
+              "offset": 93,
+              "length": 21
+            }
+          ]
+        },
+        {
+          "content": "สธ/ลส",
+          "polygon": [
+            902,
+            263,
+            998,
+            261,
+            998,
+            287,
+            902,
+            289
+          ],
+          "spans": [
+            {
+              "offset": 115,
+              "length": 5
+            }
+          ]
+        },
+        {
+          "content": "ผีสิงอยอ",
+          "polygon": [
+            771,
+            267,
+            867,
+            265,
+            868,
+            294,
+            771,
+            296
+          ],
+          "spans": [
+            {
+              "offset": 121,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "๕๖ฮล /อสซ",
+          "polygon": [
+            436,
+            273,
+            594,
+            270,
+            595,
+            298,
+            436,
+            302
+          ],
+          "spans": [
+            {
+              "offset": 128,
+              "length": 9
+            }
+          ]
+        },
+        {
+          "content": "ฮ.๘๐",
+          "polygon": [
+            231,
+            280,
+            299,
+            279,
+            299,
+            307,
+            230,
+            308
+          ],
+          "spans": [
+            {
+              "offset": 138,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "9000",
+          "polygon": [
+            1085,
+            297,
+            1163,
+            296,
+            1164,
+            321,
+            1086,
+            323
+          ],
+          "spans": [
+            {
+              "offset": 143,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "3000",
+          "polygon": [
+            923,
+            302,
+            1000,
+            302,
+            1000,
+            326,
+            923,
+            327
+          ],
+          "spans": [
+            {
+              "offset": 148,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            811,
+            306,
+            831,
+            306,
+            831,
+            331,
+            811,
+            331
+          ],
+          "spans": [
+            {
+              "offset": 153,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            257,
+            319,
+            270,
+            320,
+            269,
+            343,
+            256,
+            342
+          ],
+          "spans": [
+            {
+              "offset": 155,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "1000",
+          "polygon": [
+            1096,
+            335,
+            1167,
+            334,
+            1168,
+            356,
+            1097,
+            358
+          ],
+          "spans": [
+            {
+              "offset": 157,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "500",
+          "polygon": [
+            945,
+            338,
+            1004,
+            338,
+            1004,
+            362,
+            945,
+            363
+          ],
+          "spans": [
+            {
+              "offset": 162,
+              "length": 3
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            810,
+            344,
+            835,
+            344,
+            835,
+            365,
+            810,
+            366
+          ],
+          "spans": [
+            {
+              "offset": 166,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "2",
+          "polygon": [
+            250,
+            357,
+            272,
+            357,
+            271,
+            380,
+            248,
+            380
+          ],
+          "spans": [
+            {
+              "offset": 168,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "5000",
+          "polygon": [
+            1097,
+            371,
+            1177,
+            370,
+            1177,
+            394,
+            1097,
+            396
+          ],
+          "spans": [
+            {
+              "offset": 170,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "5000",
+          "polygon": [
+            929,
+            375,
+            1007,
+            375,
+            1008,
+            400,
+            929,
+            401
+          ],
+          "spans": [
+            {
+              "offset": 175,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "1",
+          "polygon": [
+            818,
+            381,
+            832,
+            381,
+            832,
+            403,
+            819,
+            403
+          ],
+          "spans": [
+            {
+              "offset": 180,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3",
+          "polygon": [
+            250,
+            393,
+            270,
+            393,
+            269,
+            419,
+            249,
+            419
+          ],
+          "spans": [
+            {
+              "offset": 182,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "3200",
+          "polygon": [
+            1100,
+            408,
+            1181,
+            407,
+            1182,
+            431,
+            1100,
+            433
+          ],
+          "spans": [
+            {
+              "offset": 184,
+              "length": 4
+            }
+          ]
+        },
+        {
+          "content": "8",
+          "polygon": [
+            818,
+            417,
+            838,
+            417,
+            838,
+            441,
+            818,
+            441
+          ],
+          "spans": [
+            {
+              "offset": 189,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "4",
+          "polygon": [
+            245,
+            431,
+            268,
+            432,
+            268,
+            456,
+            244,
+            456
+          ],
+          "spans": [
+            {
+              "offset": 191,
+              "length": 1
+            }
+          ]
+        },
+        {
+          "content": "กึ่งออ พล บัวเพส",
+          "polygon": [
+            314,
+            426,
+            590,
+            419,
+            591,
+            452,
+            314,
+            459
+          ],
+          "spans": [
+            {
+              "offset": 193,
+              "length": 13
+            }
+          ]
+        },
+        {
+          "content": "18200.00",
+          "polygon": [
+            1064,
+            445,
+            1211,
+            443,
+            1212,
+            468,
+            1064,
+            472
+          ],
+          "spans": [
+            {
+              "offset": 207,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "-910.00",
+          "polygon": [
+            1093,
+            482,
+            1215,
+            479,
+            1216,
+            504,
+            1093,
+            508
+          ],
+          "spans": [
+            {
+              "offset": 216,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "17290.00",
+          "polygon": [
+            1074,
+            518,
+            1221,
+            516,
+            1222,
+            541,
+            1074,
+            544
+          ],
+          "spans": [
+            {
+              "offset": 224,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "+150.00",
+          "polygon": [
+            1097,
+            554,
+            1225,
+            551,
+            1226,
+            577,
+            1097,
+            580
+          ],
+          "spans": [
+            {
+              "offset": 233,
+              "length": 7
+            }
+          ]
+        },
+        {
+          "content": "19514.80",
+          "polygon": [
+            1083,
+            592,
+            1230,
+            587,
+            1231,
+            615,
+            1084,
+            620
+          ],
+          "spans": [
+            {
+              "offset": 241,
+              "length": 8
+            }
+          ]
+        },
+        {
+          "content": "พอ: ลอฮฺ (30กํกจะ สมอสียง)",
+          "polygon": [
+            663,
+            526,
+            1035,
+            518,
+            1036,
+            551,
+            663,
+            562
+          ],
+          "spans": [
+            {
+              "offset": 250,
+              "length": 23
+            }
+          ]
+        },
+        {
+          "content": "สgeodง ยงอีอีซี",
+          "polygon": [
+            826,
+            558,
+            1038,
+            554,
+            1040,
+            588,
+            826,
+            597
+          ],
+          "spans": [
+            {
+              "offset": 274,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "พยู ออฮู (ถอลู สอ0)",
+          "polygon": [
+            735,
+            598,
+            1040,
+            590,
+            1042,
+            631,
+            736,
+            641
+          ],
+          "spans": [
+            {
+              "offset": 287,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "12",
+          "polygon": [
+            994,
+            602,
+            994,
+            621,
+            976,
+            621,
+            975,
+            602
+          ],
+          "spans": [
+            {
+              "offset": 304,
+              "length": 2
+            }
+          ]
+        },
+        {
+          "content": "ผสส ออก อีอีซีที่ยัง ส",
+          "polygon": [
+            273,
+            657,
+            641,
+            648,
+            642,
+            695,
+            273,
+            707
+          ],
+          "spans": [
+            {
+              "offset": 307,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "Signal",
+          "polygon": [
+            974,
+            646,
+            1085,
+            627,
+            1093,
+            668,
+            980,
+            688
+          ],
+          "spans": [
+            {
+              "offset": 324,
+              "length": 6
+            }
+          ]
+        },
+        {
+          "content": "\"ออสซีสยอกสํ",
+          "polygon": [
+            1027,
+            678,
+            1237,
+            672,
+            1238,
+            704,
+            1027,
+            710
+          ],
+          "spans": [
+            {
+              "offset": 331,
+              "length": 10
+            }
+          ]
+        },
+        {
+          "content": "“3ลุกย์ สอบ: 8",
+          "polygon": [
+            689,
+            219,
+            913,
+            216,
+            913,
+            250,
+            689,
+            252
+          ],
+          "spans": [
+            {
+              "offset": 342,
+              "length": 12
+            }
+          ]
+        },
+        {
+          "content": "ลอซ บอสลิกี่ยง (AC)",
+          "polygon": [
+            320,
+            312,
+            636,
+            308,
+            637,
+            339,
+            320,
+            345
+          ],
+          "spans": [
+            {
+              "offset": 355,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "B23), สอ ฮอสกิที่ยิ่ง",
+          "polygon": [
+            317,
+            349,
+            578,
+            345,
+            579,
+            379,
+            317,
+            385
+          ],
+          "spans": [
+            {
+              "offset": 372,
+              "length": 16
+            }
+          ]
+        },
+        {
+          "content": "400",
+          "polygon": [
+            949,
+            411,
+            1010,
+            411,
+            1010,
+            436,
+            949,
+            438
+          ],
+          "spans": [
+            {
+              "offset": 389,
+              "length": 3
+            }
+          ]
+        }
+      ],
+      "spans": [
+        {
+          "offset": 0,
+          "length": 392
+        }
+      ]
+    }
+  ],
+  "paragraphs": [
+    {
+      "spans": [
+        {
+          "offset": 0,
+          "length": 17
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            228,
+            155,
+            472,
+            152,
+            472,
+            178,
+            228,
+            181
+          ]
+        }
+      ],
+      "content": "คลองซี่: 05/11/2023"
+    },
+    {
+      "spans": [
+        {
+          "offset": 18,
+          "length": 31
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            469,
+            99,
+            950,
+            87,
+            952,
+            162,
+            471,
+            174
+          ]
+        }
+      ],
+      "content": "'Be สอด00 สอทีซี 8ซอยte' สิ่งอกิยอย่ง"
+    },
+    {
+      "spans": [
+        {
+          "offset": 50,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1010,
+            133,
+            1140,
+            129,
+            1141,
+            159,
+            1011,
+            163
+          ]
+        }
+      ],
+      "content": "๙.๘๐: 412"
+    },
+    {
+      "spans": [
+        {
+          "offset": 60,
+          "length": 23
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            531,
+            187,
+            888,
+            179,
+            889,
+            210,
+            532,
+            218
+          ]
+        }
+      ],
+      "content": "กึ่งออ ขออยิง อส่งอิชิ อสฮกียง"
+    },
+    {
+      "spans": [
+        {
+          "offset": 84,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            982,
+            213,
+            1120,
+            211,
+            1120,
+            237,
+            982,
+            239
+          ]
+        }
+      ],
+      "content": "ลสกี่ยง: 3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 93,
+          "length": 21
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            227,
+            227,
+            625,
+            224,
+            625,
+            258,
+            227,
+            261
+          ]
+        }
+      ],
+      "content": "กึ่งออส สํสซิ่ง: ลอู ซึ่งยงอน"
+    },
+    {
+      "spans": [
+        {
+          "offset": 115,
+          "length": 5
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            901,
+            263,
+            998,
+            261,
+            999,
+            287,
+            902,
+            289
+          ]
+        }
+      ],
+      "content": "สธ/ลส"
+    },
+    {
+      "spans": [
+        {
+          "offset": 121,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            770,
+            267,
+            867,
+            265,
+            868,
+            294,
+            771,
+            296
+          ]
+        }
+      ],
+      "content": "ผีสิงอยอ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 128,
+          "length": 9
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            435,
+            273,
+            594,
+            269,
+            595,
+            298,
+            436,
+            302
+          ]
+        }
+      ],
+      "content": "๕๖ฮล /อสซ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 138,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            230,
+            280,
+            299,
+            279,
+            299,
+            307,
+            230,
+            308
+          ]
+        }
+      ],
+      "content": "ฮ.๘๐"
+    },
+    {
+      "spans": [
+        {
+          "offset": 143,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1085,
+            297,
+            1163,
+            295,
+            1164,
+            321,
+            1086,
+            323
+          ]
+        }
+      ],
+      "content": "9000"
+    },
+    {
+      "spans": [
+        {
+          "offset": 148,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            923,
+            302,
+            1000,
+            302,
+            1000,
+            327,
+            923,
+            327
+          ]
+        }
+      ],
+      "content": "3000"
+    },
+    {
+      "spans": [
+        {
+          "offset": 153,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            811,
+            306,
+            831,
+            306,
+            831,
+            331,
+            811,
+            331
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 155,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            257,
+            319,
+            270,
+            320,
+            269,
+            343,
+            256,
+            342
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 157,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1096,
+            335,
+            1167,
+            333,
+            1168,
+            356,
+            1097,
+            358
+          ]
+        }
+      ],
+      "content": "1000"
+    },
+    {
+      "spans": [
+        {
+          "offset": 162,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            945,
+            338,
+            1004,
+            338,
+            1004,
+            363,
+            945,
+            363
+          ]
+        }
+      ],
+      "content": "500"
+    },
+    {
+      "spans": [
+        {
+          "offset": 166,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            810,
+            344,
+            835,
+            344,
+            835,
+            366,
+            810,
+            366
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 168,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            249,
+            356,
+            272,
+            357,
+            271,
+            381,
+            248,
+            380
+          ]
+        }
+      ],
+      "content": "2"
+    },
+    {
+      "spans": [
+        {
+          "offset": 170,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1097,
+            371,
+            1177,
+            370,
+            1177,
+            395,
+            1097,
+            396
+          ]
+        }
+      ],
+      "content": "5000"
+    },
+    {
+      "spans": [
+        {
+          "offset": 175,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            929,
+            375,
+            1008,
+            375,
+            1008,
+            401,
+            929,
+            401
+          ]
+        }
+      ],
+      "content": "5000"
+    },
+    {
+      "spans": [
+        {
+          "offset": 180,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            818,
+            381,
+            832,
+            381,
+            832,
+            403,
+            818,
+            403
+          ]
+        }
+      ],
+      "content": "1"
+    },
+    {
+      "spans": [
+        {
+          "offset": 182,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            250,
+            392,
+            270,
+            393,
+            269,
+            420,
+            249,
+            419
+          ]
+        }
+      ],
+      "content": "3"
+    },
+    {
+      "spans": [
+        {
+          "offset": 184,
+          "length": 4
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1099,
+            408,
+            1181,
+            406,
+            1182,
+            431,
+            1100,
+            433
+          ]
+        }
+      ],
+      "content": "3200"
+    },
+    {
+      "spans": [
+        {
+          "offset": 189,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            818,
+            417,
+            838,
+            417,
+            838,
+            441,
+            818,
+            441
+          ]
+        }
+      ],
+      "content": "8"
+    },
+    {
+      "spans": [
+        {
+          "offset": 191,
+          "length": 1
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            245,
+            431,
+            269,
+            432,
+            268,
+            457,
+            244,
+            456
+          ]
+        }
+      ],
+      "content": "4"
+    },
+    {
+      "spans": [
+        {
+          "offset": 193,
+          "length": 13
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            313,
+            426,
+            590,
+            419,
+            591,
+            452,
+            314,
+            459
+          ]
+        }
+      ],
+      "content": "กึ่งออ พล บัวเพส"
+    },
+    {
+      "spans": [
+        {
+          "offset": 207,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1063,
+            445,
+            1211,
+            441,
+            1212,
+            468,
+            1064,
+            472
+          ]
+        }
+      ],
+      "content": "18200.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 216,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1092,
+            482,
+            1215,
+            478,
+            1216,
+            504,
+            1093,
+            508
+          ]
+        }
+      ],
+      "content": "-910.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 224,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1073,
+            518,
+            1221,
+            515,
+            1222,
+            541,
+            1074,
+            544
+          ]
+        }
+      ],
+      "content": "17290.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 233,
+          "length": 7
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1096,
+            554,
+            1225,
+            551,
+            1226,
+            577,
+            1097,
+            580
+          ]
+        }
+      ],
+      "content": "+150.00"
+    },
+    {
+      "spans": [
+        {
+          "offset": 241,
+          "length": 8
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1083,
+            592,
+            1230,
+            587,
+            1231,
+            615,
+            1084,
+            620
+          ]
+        }
+      ],
+      "content": "19514.80"
+    },
+    {
+      "spans": [
+        {
+          "offset": 250,
+          "length": 56
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            662,
+            526,
+            1040,
+            518,
+            1042,
+            634,
+            665,
+            643
+          ]
+        }
+      ],
+      "content": "พอ: ลอฮฺ (30กํกจะ สมอสียง) สgeodง ยงอีอีซี พยู ออฮู (ถอลู สอ0) 12"
+    },
+    {
+      "spans": [
+        {
+          "offset": 307,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            272,
+            657,
+            641,
+            648,
+            642,
+            698,
+            273,
+            707
+          ]
+        }
+      ],
+      "content": "ผสส ออก อีอีซีที่ยัง ส"
+    },
+    {
+      "spans": [
+        {
+          "offset": 324,
+          "length": 6
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            973,
+            646,
+            1086,
+            626,
+            1093,
+            668,
+            980,
+            688
+          ]
+        }
+      ],
+      "content": "Signal"
+    },
+    {
+      "spans": [
+        {
+          "offset": 331,
+          "length": 10
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            1026,
+            678,
+            1237,
+            672,
+            1238,
+            704,
+            1027,
+            710
+          ]
+        }
+      ],
+      "content": "\"ออสซีสยอกสํ"
+    },
+    {
+      "spans": [
+        {
+          "offset": 342,
+          "length": 12
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            689,
+            218,
+            913,
+            216,
+            913,
+            250,
+            689,
+            252
+          ]
+        }
+      ],
+      "content": "“3ลุกย์ สอบ: 8"
+    },
+    {
+      "spans": [
+        {
+          "offset": 355,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            319,
+            312,
+            636,
+            306,
+            637,
+            339,
+            320,
+            345
+          ]
+        }
+      ],
+      "content": "ลอซ บอสลิกี่ยง (AC)"
+    },
+    {
+      "spans": [
+        {
+          "offset": 372,
+          "length": 16
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            316,
+            349,
+            578,
+            343,
+            579,
+            379,
+            317,
+            385
+          ]
+        }
+      ],
+      "content": "B23), สอ ฮอสกิที่ยิ่ง"
+    },
+    {
+      "spans": [
+        {
+          "offset": 389,
+          "length": 3
+        }
+      ],
+      "boundingRegions": [
+        {
+          "pageNumber": 1,
+          "polygon": [
+            949,
+            411,
+            1010,
+            411,
+            1010,
+            438,
+            949,
+            438
+          ]
+        }
+      ],
+      "content": "400"
+    }
+  ],
+  "styles": [
+    {
+      "confidence": 1,
+      "spans": [
+        {
+          "offset": 166,
+          "length": 1
+        },
+        {
+          "offset": 324,
+          "length": 6
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.7,
+      "spans": [
+        {
+          "offset": 168,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    },
+    {
+      "confidence": 0.8,
+      "spans": [
+        {
+          "offset": 191,
+          "length": 1
+        }
+      ],
+      "isHandwritten": true
+    }
+  ],
+  "contentFormat": "text"
+}

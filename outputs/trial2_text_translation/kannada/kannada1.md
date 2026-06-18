@@ -1,0 +1,39 @@
+# Extracted and Translated Text for kannada1.png
+
+**Original Language:** Kannada
+
+---
+
+```text
+anDos: 15/12/2023
+.30: 501
+70
+12
+14/12
+-
+2 030
+4500.00
+9000.00
+14/12
+-
+1
+250.00
+250.00
+15/12
+1
+1200.00
+1200.00
+-
+1
+800.00
+800.00
+라기 40Hd e2평형
+a Spee350 Jded
+11250.00
+2222 (18%)
++2025.00
+Alawar
+13275.00
+Cesodeofa
+₩3
+```

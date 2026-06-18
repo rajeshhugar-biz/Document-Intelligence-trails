@@ -1,0 +1,65 @@
+{
+  "vendor_name": "City Harmony Hotel",
+  "vendor_address": "8, M.I. Road, Jaipur - 302001 (Rajasthan)",
+  "vendor_tax_id": null,
+  "customer_name": "Mr. Rohit Gupta",
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": "CHH/24-25/0732",
+  "invoice_date": "May 25, 2024",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 17300.0,
+  "total_tax": 2301.0,
+  "invoice_total": 19601.0,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Room Rent (Executive Room)",
+      "quantity": "3 nights",
+      "unit": null,
+      "unit_price": 4000.0,
+      "amount": 12000.0
+    },
+    {
+      "description": "Breakfast",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": 300.0,
+      "amount": 900.0
+    },
+    {
+      "description": "Dinner",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": 650.0,
+      "amount": 1300.0
+    },
+    {
+      "description": "Conference Hall Charges",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 2000.0,
+      "amount": 2000.0
+    },
+    {
+      "description": "Projector & Screen",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1000.0,
+      "amount": 1000.0
+    },
+    {
+      "description": "Mineral Water",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": 20.0,
+      "amount": 100.0
+    }
+  ],
+  "file": "hindi2.jpg",
+  "raw_text": "ty\nSH\nसिटी हारमनी होटल\n-> आपका प्रवास, हमारी प्राथमिकता\n8, एम.आई. रोड, जयपुर - 302001 (राजस्थान)\n0141-4023456, 9001234567\ninfo@cityharmonyhotel.com\nwww.cityharmonyhotel.com\nहोटल बिल\nअतिथि का नाम\nश्री रोहित गुप्ता\nबिल नंबर\n:\nCHH/24-25/0732\nबिल दिनांक\n25 मई 2024\nचेक-इन दिनांक\n:\n22 मई 2024 (03:00 PM)\nचेक-आउट दिनांक\n25 मई 2024 (10:00 AM)\nकमरा नंबर\n:\n308 (एक्जीक्यूटिव रूम)\nक्रमांक\nविवरण\nदिनांक\nमात्रा\nप्रति इकाई दर (₹)\nकर (%)\nराशि (₹)\n1\nकमरा किराया (एक्जीक्यूटिव रूम)\n22/05/2024 - 25/05/2024\n3 रातें\n4,000.00\n12%\n12,000.00\n2\nनाश्ता\n23/05/2024 - 25/05/2024\n3\n300.00\n5%\n900.00\n3\nडिनर\n22/05/2024, 24/05/2024\n2\n650.00\n5%\n1,300.00\n4\nकॉन्फ्रेंस हॉल चार्ज\n23/05/2024\n1\n2,000.00\n18%\n2,000.00\n5\nप्रोजेक्टर एवं स्क्रीन\n23/05/2024\n1\n1,000.00\n18%\n1,000.00\n6\nमिनरल वाटर\n22/05/2024 - 25/05/2024\n5\n20.00\n5%\n100.00\nभुगतान विवरण\nउप-योग\n17,300.00\nभुगतान का तरीका\n: क्रेडिट कार्ड\nकार्ड नंबर\n: XXXX XXXX XXXX 1234\nलेन-देन आईडी\nTXN4928756123\nभुगतान दिनांक\n:\n25 मई 2024\n(राशि शब्दों में) : उन्नीस हजार छः सौ एक रूपये मात्र ।\nनियम एवं शर्तें :\n· चैक-आउट समय प्रातः 11:00 बजे तक है।\n• बिल का भुगतान चेक-आउट के समय अनिवार्य है।\n• कोई भी विवाद जयपुर न्यायालय के अधिकार क्षेत्र में होगा ।\nसिटी हारमनी\nहो\nजयपुर\nअधिकृत हस्ताक्षर\nInteala\n*\nहोटल प्रबंधक\n2,301.00\nकुल कर राशि\nकुल देय राशि (₹)\n19,601.00\nकंपनी/संस्था\n: टेक सॉल्युशंस प्रा. लि.\nजी.एस.टी.आई.एन.\n: 08AABCT1234C1Z5\nपता\n: 17, मालवीय नगर,\nजयपुर - 302017 (राजस्थान)",
+  "english_text": "ty\nSH\nCity Harmony Hotel\n-> Your stay, our priority\n8, M.I. Road, Jaipur - 302001 (Rajasthan)\n0141-4023456, 9001234567\ninfo@cityharmonyhotel.com\nwww.cityharmonyhotel.com\nHotel Bill\nGuest Name\nMr. Rohit Gupta\nBill Number\n:\nCHH/24-25/0732\nBill Date\nMay 25, 2024\nCheck-in Date\n:\n22nd May 2024 (03:00 PM)\nCheck-out Date\nMay 25, 2024 (10:00 AM)\nRoom Number\n:\n308 (Executive Room)\nserial number\nan account\ndate\nquantity\nRate per unit (₹)\nTax (%)\nAmount (₹)\n1\nRoom Rent (Executive Room)\n22/05/2024 - 25/05/2024\n3 nights\n4,000.00\n12%\n12,000.00\n2\nbreakfast\n23/05/2024 - 25/05/2024\n3\n300.00\n5%\n900.00\n3\nDinner\n22/05/2024, 24/05/2024\n2\n650.00\n5%\n1,300.00\n4\nConference Hall Charges\n23/05/2024\n1\n2,000.00\n18%\n2,000.00\n5\nProjector & Screen\n23/05/2024\n1\n1,000.00\n18%\n1,000.00\n6\nMineral Water\n22/05/2024 - 25/05/2024\n5\n20.00\n5%\n100.00\nPayment Details\nSubtotals\n17,300.00\nPayment Mode\n: Credit Card\nCard Number\n: XXXX XXXX XXXX 1234\nTransaction ID\nTXN4928756123\nPayment Date\n:\nMay 25, 2024\n(In the words of the amount): Nineteen thousand six hundred and one rupees only.\nTerms & Conditions:\n· The check-out time is until 11:00 AM.\n• Payment of bill is mandatory at check-out.\n• Any dispute shall be within the jurisdiction of the Jaipur Court.\nCity Harmony\nYes\nJaipur\nAuthorized Signature\nInteala\n*\nHotel Manager\n2,301.00\nTotal tax amount\nTotal amount payable (₹)\n19,601.00\nCompany/Organization\n: Tech Solutions Pvt. Ltd. Ltd.\nGSTIN\n: 08AABCT1234C1Z5\naddre\n: 17, Malviya Nagar,\nJaipur - 302017 (Rajasthan)"
+}

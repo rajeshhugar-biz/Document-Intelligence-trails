@@ -1,0 +1,44 @@
+{
+  "vendor_name": "SSE",
+  "vendor_address": "30. 12-3-45, mo čo, apăé20 - 530001",
+  "vendor_tax_id": null,
+  "customer_name": "Kusasayar Kakula",
+  "customer_address": "Kulal80 - 530003",
+  "customer_id": "CST09988",
+  "invoice_id": "SSE/23-24/015",
+  "invoice_date": "2023-05-05",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 17000,
+  "total_tax": 3060,
+  "invoice_total": 20060,
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "32-wore 15 és5",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 15000,
+      "amount": 15000
+    },
+    {
+      "description": "1,500",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": 1500,
+      "amount": 1500
+    },
+    {
+      "description": "2",
+      "quantity": 500,
+      "unit": null,
+      "unit_price": 250,
+      "amount": 125000
+    }
+  ],
+  "file": "telugu5.png",
+  "raw_text": "SSE\n30. 12-3-45, mo čo, apăé20 - 530001\na65: +91 9876543210, 25boxe5: info@ss_electronics.in\nĶ8 (₹)\naviso (₹)\nகுசசயர் ககுலை\nSó: § §. čěsarovaɔ̌ ma\nஎல்லீஸ்: ஜூலி 30. 302,\n1.\n32-wore 15 és5\n15,000\n1\n15,000\n2.\n1,500\n1\n1,500\nஎன்பது, குலல்80 - 530003\naeso (Tax Esborse):\n17,000\n8.29.00.5.63 (9%):\n1,530\n0.5.29.00.5.23 (9%):\n1,530\n20,060\ndoesev:\n- 185 மன்றல் பூபூட்ஸ் லூல்லி ஆங்கிலகல்\n- 185 0 நூலில் மல்லி கை கிரஸ் ஜூல் - ஆக் ஸைல்களை\n- மா55 8033மூ லகில்ல்க்லாஸ்ஸ்\nŠoeššo:\n2\n500\n250\n3.\nos Kops: SSE/23-24/015\nđô:\n05 50005 2023\nஜூனூ JoS: CST09988",
+  "english_text": "SSE\n30. 12-3-45, mo čo, apăé20 - 530001\na65: +91 9876543210, 25boxe5: info@ss_electronics.in\nĶ8 (₹)\naviso (₹)\nKusasayar Kakula\nSó: § §. čěsarovaɔ̌ ma\nEllis: July 30. 302,\n1.\n32-wore 15 és5\n15,000\n1\n15,000\n2.\n1,500\n1\n1,500\nThat is, Kulal80 - 530003\naeso (Tax Esborse):\n17,000\n8.29.00.5.63 (9%):\n1,530\n0.5.29.00.5.23 (9%):\n1,530\n20,060\ndoesev:\n- 185 Bluesy Boots Lullaby English\n- 185 0 Grass Joule in thread - Axyles\n- M55 8033 LGCass\nŠoeššo:\n2\n500\n250\n3.\nos Kops: SSE/23-24/015\nđô:\n05 50005 2023\nJuneau JoS: CST09988"
+}

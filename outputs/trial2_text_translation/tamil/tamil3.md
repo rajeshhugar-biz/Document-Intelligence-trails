@@ -1,0 +1,81 @@
+# Extracted and Translated Text for tamil3.png
+
+**Original Language:** Tamil
+
+---
+
+```text
+6T.Co. AND BUui LDITisasL,
+[b&16111616İT 85IT6T51(60)IT, 3,
+8 60TTI51856IT, 086952 12631
+85 ITGOT: 20/03/2024
+CMGOT BIGIT: 20/03/20:16
+Bashier ID: 01
+Product
+Qty
+Rate
+Amount
+8885IT6If (Tomato)
+1 skg
+19.00
+450.00
+1 skg
+10.00
+400.00
+911 (Rice - 5kg)
+10 skg
+650.00
+₹2,050.00
+U(Guy (Dal)
+1 skg
+70.00
+750.00
+6T600T61600TL (Oil - 1L)
+1 skg
+150.00
+1,500.00
+6T6001600600TL (Oil -1L)
+1 skg
+30.00
+950.00
+1 skg
+30.00
+950.00
+8 (5A (6ILL)
+10 skg
+240.00
+1,600.00
+BlumST60 50168T1
+10 skg
+140.00
+1,850.00
+GUMITOU BIJOUTi
+1 skg
+20.00
+850.00
+Subtotal
+₹2,200.00
+Discounts
+50.00
+Total
+₹1,350.00
+CGST ouIf (GST)
+CGST
+130.00
+SGST QuiIf (GST)
+SGST
+50.00
+GST 860TLb (GST)
+Total
+₹120.00
+Total Amount
+₹2,450.00
+LI600TLD (Cash)
+₹2,450.00
+HILL (Card)
+₹0.00
+LDITIDMLD (Change Given)
+₹30.00
+Store Hour: 30 - Hour, 10:00 AM +, 1:00 AM to 9:00 AM
+I b5106bf 01F1606UrT60 56ULrba6i.
+```

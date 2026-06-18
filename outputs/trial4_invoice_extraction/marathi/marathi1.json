@@ -1,0 +1,58 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": "Shri. Rajesh Jadhav",
+  "customer_address": "Saturday Peth",
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "10th June 2024",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "43300",
+  "total_tax": null,
+  "invoice_total": "43300",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Cement UltraTech - 30 bags",
+      "quantity": "2",
+      "unit": "Brass",
+      "unit_price": "4500",
+      "amount": "9000"
+    },
+    {
+      "description": "Sand",
+      "quantity": null,
+      "unit": null,
+      "unit_price": "350",
+      "amount": "10500"
+    },
+    {
+      "description": "Iron (10 mm) – 250 kg",
+      "quantity": "8",
+      "unit": null,
+      "unit_price": "4000",
+      "amount": "15000"
+    },
+    {
+      "description": "Brick (Special) - 500 pieces",
+      "quantity": null,
+      "unit": null,
+      "unit_price": "4800",
+      "amount": "4800"
+    },
+    {
+      "description": "Vertical (20 mm) - 1.5 Brass",
+      "quantity": "1.5",
+      "unit": "Brass",
+      "unit_price": "3200",
+      "amount": "3200"
+    }
+  ],
+  "file": "marathi1.png",
+  "raw_text": "पावती\nकॅश मेमो\nग्राहक :\nश्री. राजेश जाधव\nपत्ता :\nशनिवार पेठ\nदिनांक : १० जून २०२४\nरक्कम\nअ.क्र.\nमालाचे नाव\nपरिमाण\nदर\n३५०\n१०,५००\n१.\nसिमेंट अल्ट्राटेक - ३० बॅग्स\n- २ ब्रास\n४५००\n९,०००\n2.\nवाळू\n४,८००\n३.\n१५,०००\n४.\nलोखंड (१० मिमी) - २५० किलो\n८\n४,०००\n५.\nविटा (विशिष्ठ) - ५०० नग\nएकूण रक्कम :\n४३,३००\nएकूण अक्षरी : त्रेचाळीस हजार तीनशे रुपये मात्र\nश्री. प्रा. राजेश मर्दव मार्कन\n(रगर्व मिळतमाण मोवर्त)\n३२००\nखड़ी (२० मिमी) - १.५ ब्रास\n६०",
+  "english_text": "Acknowledgements\nCash Memo\nCustomer :\nShri. Rajesh Jadhav\nLeaves:\nSaturday Peth\nDate: 10th June 2024\nAmount\nS.No.\nName of Goods\nMagnitude\nRate\n350\n10,500\n1.\nCement UltraTech - 30 bags\n- 2 Brass\n4500\n9,000\n2.\nSand\n4,800\n3.\n15,000\n4.\nIron (10 mm) – 250 kg\n8\n4,000\n5.\nBrick (Special) - 500 pieces\nTotal amount:\n43,300\nTotal letters: Forty-three thousand three hundred rupees\nShri. Pvt. Rajesh Mardev Markan\n(Proud Death)\n3200\nVertical (20 mm) - 1.5 Brass\n60"
+}

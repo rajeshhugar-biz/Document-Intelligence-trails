@@ -1,0 +1,44 @@
+{
+  "vendor_name": "Synergy Solutions",
+  "vendor_address": "456 Udyog Marg, Andheri, Mundai 400069",
+  "vendor_tax_id": "11887993200",
+  "customer_name": "Apex Logistics",
+  "customer_address": "32 Corporate Towers, BKC, Mumbai",
+  "customer_id": null,
+  "invoice_id": "INV-2201",
+  "invoice_date": "November 10, 2013",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "₹7,800.00",
+  "total_tax": "₹468.25",
+  "invoice_total": "₹8,604.00",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Logistics Management Software (Custom design, 5 times)",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "₹4,200.00",
+      "amount": "₹4,200.00"
+    },
+    {
+      "description": "Kabram Dashboard Development (Customization & Monitoring)",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "₹2,100.00",
+      "amount": "₹2,100.00"
+    },
+    {
+      "description": "25/7 Premium Support (Talk)",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "₹1,500.00",
+      "amount": "₹1,500.00"
+    }
+  ],
+  "file": "hindi3.jpg",
+  "raw_text": "SYNERGY\nSOLUTIONS\n४५६ उद्योग मार्ग, अंधेरी, मुंडई ४०००६९\n#११८८७९९३२०१० | info@synergysolutions.co\nबीजक\nबीजक संख्या: INV-२२०१\nदिनांक: १० नवंबर, २०१३\nबिल टू:\nएपेक्स लोजिस्टिक्स\n३२ कॉर्पोरेट टावर्स, बीकेसी, मुंबई\nआइटम\nविवरण\nमात्रा\nइकाई नुवव\nकुल\nSS-W5-U1\nलाजिस्टिकस प्रबंधन सॉफ्टवेयर\n(कस्टम डिजाइन, ५ वेळ)\n1\n₹4,200.00\n₹4,200.00\nSS-SEO-MTH\nकबरम डेशबोर्ड विकास\n(अनुकूलन और निगरासी)\n1\n₹2,100.00\n₹2,100.00\nSS-SUP·AN\n२५/७ प्रीमियम सहायता\n(वाविक)\n1\n₹1,500.00\n₹1,500.00\nउप-योग\n₹0,600.00\nकर (८.५%):\n₴468.25\nकुल देव ₹८,604.00\nकृपपा बैंक ढ़क्लांतरण वा केडिट कार्ड के माध्यम से ३० दिनों के भीतर भुगतान करें।\nबैंक ओंफ इंडिया, शाखा: वली, खाता: ८७६५४३२१०९, IFSC: BKID0000001\nधन्यवाद",
+  "english_text": "SYNERGY\nSOLUTIONS\n456 Udyog Marg, Andheri, Mundai 400069\n#11887993200 | info@synergysolutions.co\ninvoice\nNumber of seeds: INV-2201\nDate: November 10, 2013\nBill Two:\nApex Logistics\n32 Corporate Towers, BKC, Mumbai\nItems\nan account\nquantity\nNuve Unit\nfamily\nSS-W5-U1\nLogistics Management Software\n(Custom design, 5 times)\n1\n₹4,200.00\n₹4,200.00\nSS-SEO-MTH\nKabram Dashboard Development\n(Customization & Monitoring)\n1\n₹2,100.00\n₹2,100.00\nSS-SUP· AN\n25/7 Premium Support\n(Talk)\n1\n₹1,500.00\n₹1,500.00\nSubtotals\n₹0,600.00\nTax (8.5%):\n₴468.25\nTotal Dev ₹8,604.00\nPlease pay within 30 days via bank transfer or credit card.\nBank of India, Branch: Wali, Account: 8765432109, IFSC: BKID0000001\nthank you"
+}

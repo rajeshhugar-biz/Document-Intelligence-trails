@@ -1,0 +1,58 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "28/10/2023",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "3870.00",
+  "total_tax": "691.20",
+  "invoice_total": "4531.20",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Wats Posk (AC)",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "1500.00",
+      "amount": "1500.00"
+    },
+    {
+      "description": "anda Res (Chewpes)",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": "300.00",
+      "amount": "600.00"
+    },
+    {
+      "description": "dod@ wJSK (AC)",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "1500.00",
+      "amount": "1500.00"
+    },
+    {
+      "description": "Hall of is busy.",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": "50.00",
+      "amount": "200.00"
+    },
+    {
+      "description": "Part :-",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "100.00",
+      "amount": "100.00"
+    }
+  ],
+  "file": "kannada3.png",
+  "raw_text": "we' สออู: 220\nผีอยอย สส3 ส่งธง ศิวพร อสซีที่ยัง\n330กอฮง\nคลองซี่: 28/10/2023\nฉลองซี\nอสซี\nฮอสงอยอ/\nสอม\nสซ/ลสซ์\nซีล3 (%)\nठेठ (रु)\n1500.00\n26/10/2023\nวธส พอสก์ (AC)\n1\n1500.00\n-\n-\n570.00\n26/10/2023\nanda Res (ชิวเพส)\n2\n300.00\n5.0\n-\n1500.00\n27/10/2023\ndod@ wJสก์ (AC)\n1\n1500.00\n-\n-\n200.00\n27/10/2023\nฮอลออฮงกียุ่ง\n4\n50.00\n-\n-\n-\n-\n100.00\n28/10/2023\n3870.00\nพยู ผบผลบอล\nซีสิริ\n-30.00\n+691.20\njean 30กํ (CGST+SGST 18%)\nwww ๑๐3ส่ง ออส\n4531.20\nAhaway\nผูครอสยอกสํ\nกอสซีซี ผิดซี-สงฆ์รส ของสกร\nส่วนํ :-\n1\n100.00",
+  "english_text": "We're so: 220\nGhost of the Philippines SS3 Send the flag Sivaporn Ossi who is still\n330 Gohong\nKlongsi: 28/10/2023\nChalongxi\nOssi\nHo Ngoi/\nSom\nSS/LSZ\nSeal3 (%)\nठेठ (रु)\n1500.00\n26/10/2023\nWats Posk (AC)\n1\n1500.00\n-\n-\n570.00\n26/10/2023\nanda Res (Chewpes)\n2\n300.00\n5.0\n-\n1500.00\n27/10/2023\ndod@ wJSK (AC)\n1\n1500.00\n-\n-\n200.00\n27/10/2023\nHall of is busy.\n4\n50.00\n-\n-\n-\n-\n100.00\n28/10/2023\n3870.00\nPyu Football Results\nCesiri\n-30.00\n+691.20\njean 30 g (CGST+SGST 18%)\nwww 103 Send Us\n4531.20\nAhaway\nCross Officer\nKossi is wrong - the taste of the monk of Sakorn.\nPart :-\n1\n100.00"
+}

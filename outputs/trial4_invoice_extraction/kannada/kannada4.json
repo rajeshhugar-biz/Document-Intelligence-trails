@@ -1,0 +1,22 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": null,
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": null,
+  "total_tax": null,
+  "invoice_total": null,
+  "amount_due": null,
+  "line_items": [],
+  "file": "kannada4.png",
+  "raw_text": "สิงเสมอดิ่ง\nWe'สออ: 105\nลสองซี: 26/10/2023\nθαwwsau3 (do)\nผีสงอรอ\n3.อ.\n140.00\n10.00\n150.00\n1\n1.\n40.00\n20.00\n2\n2.\n45.00\n50.00\n1\neroa, Ress\n3.\n240.00\n-15.00\n160\nสิคคว ฮงย.\n+15.00\n240.00\n13\nกอสซอกํ สอสลิกียง\nAhawas\n-\n5.00",
+  "english_text": "Possessed\nWe're Available: 105\nL2C: 26/10/2023\nθαwwsau3 (do)\nGhost Waiting\n3.\n140.00\n10.00\n150.00\n1\n1.\n40.00\n20.00\n2\n2.\n45.00\n50.00\n1\neroa, Ress\n3.\n240.00\n-15.00\n160\nSikwa Hong.\n+15.00\n240.00\n13\nGossokkam Soligyong\nAhawas\n-\n5.00"
+}

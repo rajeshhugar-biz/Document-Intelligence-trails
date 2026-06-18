@@ -1,0 +1,51 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": null,
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "11250.00",
+  "total_tax": "2025.00",
+  "invoice_total": "13275.00",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Send Yeol Sangsusi (2 Os)",
+      "quantity": "1",
+      "unit": null,
+      "unit_price": "1200.00",
+      "amount": "1200.00"
+    },
+    {
+      "description": "Monks Request, ๐ Senders",
+      "quantity": "1",
+      "unit": null,
+      "unit_price": "800.00",
+      "amount": "800.00"
+    },
+    {
+      "description": "Ahawas Costa",
+      "quantity": "1",
+      "unit": null,
+      "unit_price": "250.00",
+      "amount": "250.00"
+    },
+    {
+      "description": "Amro Yuks 300",
+      "quantity": "2",
+      "unit": null,
+      "unit_price": "4500.00",
+      "amount": "4500.00"
+    }
+  ],
+  "file": "kannada1.png",
+  "raw_text": "คอ ซอสง ๒๕๕ ๔๘\nลสองซี่: 15/12/2023\nฟอสงกียอดง\nร.๙๐: 501\nอสทียัง\nผีสิงอยอ\nสซี/ผส\nลอฮฺ\nฉลองซี\n9000.00\n14/12\nส่งยอล แสงสุสี (2 อส)\n-\n-\n-\n1\n1200.00\n1200.00\n15/12\nสงฆ์ ขอ, ๐ผู้ ส่งส สอน\n-\n1\n800.00\n800.00\nผงฬส สะลิกียง (อ3ลูกียกํ)\nสิ่งสํ ส๐๙๘ ๑๕๘-๖.\nผล ออลที่ยัง\nผงผสมบอส\n11250.00\nรอบ 3DeEsสอ อสเอซี\nฟอสส์ (18%)\n+2025.00\nหยกส Queen อฟช\nพญ. ผอสะสห่อซอส ลอรี\n13275.00\nAhawas\nคอซอสออกสํ\n1\n250.00\n250.00\n14/12\n15/12\nอามรอ หยูกส 300\n2 e3A\n4500.00",
+  "english_text": "Neck Sauce 255 48\nTwo-toothed l: 15/12/2023\nFongki-yodong\nR.90: 501\nAstiyang\nHaunted\nSC/PS\nLah\nChalongxi\n9000.00\n14/12\nSend Yeol Sangsusi (2 Os)\n-\n-\n-\n1\n1200.00\n1200.00\n15/12\nMonks Request, ๐ Senders\n-\n1\n800.00\n800.00\nPowder Salikiang (A3 Lukikam)\nMaterials S098 158-6.\nResults All-Yet\nBoss Powder Mix\n11250.00\nRound 3DeEsso ASAC\nFoss (18%)\n+2025.00\nJade Queen Avsh\nDr. Lori Sauce Wrap\n13275.00\nAhawas\nCosta\n1\n250.00\n250.00\n14/12\n15/12\nAmro Yuks 300\n2 e3A\n4500.00"
+}

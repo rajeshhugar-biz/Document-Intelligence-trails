@@ -1,0 +1,34 @@
+# Extracted and Translated Text for kannada5.png
+
+**Original Language:** Kannada
+
+---
+
+```text
+WAVE: 25/10/2023
+E.NO: 342
+1.
+/
+2
+40.00
+80.00
+2.
+1
+50.00
+50.00
+3.
+2
+70.00
+140.00
+4.
+3
+20.00
+60.00
+5. Ege
+1
+15.00
+15.00
+70 9
+345.00
+Ahaus!
+```

@@ -1,0 +1,44 @@
+{
+  "vendor_name": "SSE Rattlemania",
+  "vendor_address": "52-0-88, Trakey (Fence, Rest, North-40000)",
+  "vendor_tax_id": "CST09988",
+  "customer_name": "Mr. A. Countdown India",
+  "customer_address": "Flagpole No. 9 702, Go to Srinivas Yatra, Bhivibhavat, Vidyasha Bhautta- 400007",
+  "customer_id": null,
+  "invoice_id": "SSE/23-24/015",
+  "invoice_date": "07 Tatlabhava 2020",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "59,000",
+  "total_tax": "5,600",
+  "invoice_total": "20,070",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "Shi Gyuan Pilli",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "36,000",
+      "amount": "36,000"
+    },
+    {
+      "description": "Dilly Udyal Papeke",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "5,600",
+      "amount": "5,600"
+    },
+    {
+      "description": "Big De Danger (Kabal)",
+      "quantity": 2,
+      "unit": null,
+      "unit_price": "600",
+      "amount": "1,200"
+    }
+  ],
+  "file": "bengali4.png",
+  "raw_text": "SSE\nखी जारे रेटलक्मेनिया\nतः 52-0-88, त्राकी (बाड, विश्राशामउत्तर-४००००)\n(फोन: +385b94G80230, रेत्सल: info@ss_electronics.in\nजिम\nतकजब विज़न\nनाम: श्री एक. गणनाबायन भारत\nठिकाना: झंडाफे न९ ७०२,\nजाएं श्रीनिवास यात्राऍॅटिन्टेज,\nभिविभूवत, विद्याशा भउत्त- ४००००७\nकमिक\nअश्या\nविवरण\nपत्र (₹)\nविमान\nतारे (₹)\n1.\n७३ ◌ॅशि ग्यूऍॅ पिलि\n36,000\n1\nSC,000\n2.\nडिलि उद्याल पापेके\n5,600\n1\n5,600\n3.\nबडे डि खतरे (कबल\n2\n600\nलारे (जाऊ शफ़ा):\n59,000\nजिडि बजाए (5%):\n5,600\nबजजि शर्मा (2%):\n5,600\nछुड़ाउ भार:\n२०,०७०\nकथारा: दिन राजाब झाडे का ताज\nछात्रफब्:\nबी जाॅ रेटलकप्रेनित्य जब बर्क\nबजित्मन विवज्रन\nजिम तस्व: SSE/23-24/015\nजविश: ०७ तत्लभव २०२०\nआजकाडेने नन्त: CST09988\nगजबली:\n- विकिए भरता तकबड ल्या रख ना\n- भत्ताब उत्तान जबः शविमान शनीनका करब निन, शर्त वाभि घरन कक्षा राब ना\n- खाता (कान विषय मार्क आनाव जाना व्यातात्यात कब्रत",
+  "english_text": "SSE\nRattlemania\n52-0-88, Trakey (Fence, Rest, North-40000)\n(Phone: +385b94G80230, Retsal: info@ss_electronics.in\nGym\nJab Vision\nName: Mr. A. Countdown India\nLocation: Flagpole No. 9 702,\nGo to Srinivas Yatra,\nBhivibhavat, Vidyasha Bhautta- 400007\nComic\nSuch\nan account\nLetter (₹)\nmeasuring\nStars (₹)\n1.\n73 ◌Shi Gyuan Pilli\n36,000\n1\nSC,000\n2.\nDilly Udyal Papeke\n5,600\n1\n5,600\n3.\nBig De Danger (Kabal)\n2\n600\nLarre (Jau Shafa):\n59,000\nGD vs (5%):\n5,600\nBajji Sharma (2%):\n5,600\nRedeem weight:\n20,070\nStory: The Crown of the Day\nStudentfab:\nB. Joe RettlockPrenny, Jab Burke.\nBajitman Vivajran\nJim Tassav: SSE/23-24/015\nDate: 07 Tatlabhava 2020\nToday's Infinite: CST09988\nAmazing:\n- Keep the wiki filled.\n- Allowance Uttan Jab: Shawman will not be able to do the sleep on Saturday, but the house will not be able to do the class.\n- Account (Kan subject Mark Anava Jana Vyatat Grave"
+}

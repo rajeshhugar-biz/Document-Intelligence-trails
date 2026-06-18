@@ -1,0 +1,22 @@
+{
+  "vendor_name": null,
+  "vendor_address": null,
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": null,
+  "invoice_date": "2023-05-11",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": 18200.0,
+  "total_tax": 150.0,
+  "invoice_total": 19514.8,
+  "amount_due": null,
+  "line_items": [],
+  "file": "kannada2.png",
+  "raw_text": "คลองซี่: 05/11/2023\n'Be สอด00 สอทีซี 8ซอยte'\nสิ่งอกิยอย่ง\n๙.๘๐: 412\nกึ่งออ ขออยิง อส่งอิชิ อสฮกียง\nลสกี่ยง: 3\nกึ่งออส สํสซิ่ง: ลอู ซึ่งยงอน\nสธ/ลส\nผีสิงอยอ\n๕๖ฮล /อสซ\nฮ.๘๐\n9000\n3000\n3\n1\n1000\n500\n2\n2\n5000\n5000\n1\n3\n3200\n8\n4\nกึ่งออ พล บัวเพส\n18200.00\n-910.00\n17290.00\n+150.00\n19514.80\nพอ: ลอฮฺ (30กํกจะ สมอสียง)\nสgeodง ยงอีอีซี\nพยู ออฮู (ถอลู สอ0)\n12\nผสส ออก อีอีซีที่ยัง ส\nSignal\n\"ออสซีสยอกสํ\n“3ลุกย์ สอบ: 8\nลอซ บอสลิกี่ยง (AC)\nB23), สอ ฮอสกิที่ยิ่ง\n400",
+  "english_text": "Klongsi: 05/11/2023\n'Be inserted00 STC 8 Soi Te'\nThings\n9.80: 412\nSemi-Oh, Ask for a Shot, Send Ishi As-Hyeung\nNumbers: 3\nSemi-Aussie Singing: Lau Yongon\nTH/LS\nHaunted\n56HL / AZ\nH.80\n9000\n3000\n3\n1\n1000\n500\n2\n2\n5000\n5000\n1\n3\n3200\n8\n4\nSemi-Oh Pol Buapes\n18200.00\n-910.00\n17290.00\n+150.00\n19514.80\nOkay: Lah (30 k.m. anchor)\nSgeodong Yong EEC\nPyu Aohu (Thalu So0)\n12\nThe EEC is still in place.\nSignal\n\"Aussie is shocked.\n\"3 Exams: 8\nLost Boslikiyong (AC)\nB23), The Great Hosky\n400"
+}

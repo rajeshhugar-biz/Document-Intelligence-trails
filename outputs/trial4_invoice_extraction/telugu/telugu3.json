@@ -1,0 +1,58 @@
+{
+  "vendor_name": "SVT",
+  "vendor_address": "sao 30. 5-1-243, கூல் சீக, ஜெனைக் - 520 001",
+  "vendor_tax_id": null,
+  "customer_name": null,
+  "customer_address": null,
+  "customer_id": null,
+  "invoice_id": "134",
+  "invoice_date": "25-05-2024",
+  "due_date": "31-05-2024",
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "2,140.00",
+  "total_tax": "42.80",
+  "invoice_total": "2,097.20",
+  "amount_due": null,
+  "line_items": [
+    {
+      "description": "10 &čver",
+      "quantity": 1,
+      "unit": null,
+      "unit_price": "40.00",
+      "amount": "400.00"
+    },
+    {
+      "description": "apoor",
+      "quantity": 5,
+      "unit": "สังสัยผง",
+      "unit_price": "120.00",
+      "amount": "600.00"
+    },
+    {
+      "description": "2 dosSe",
+      "quantity": 3,
+      "unit": null,
+      "unit_price": "150.00",
+      "amount": "300.00"
+    },
+    {
+      "description": "வலுவூ லஜி",
+      "quantity": 4,
+      "unit": null,
+      "unit_price": "50.00",
+      "amount": "300.00"
+    },
+    {
+      "description": "3005 (18.)",
+      "quantity": 5,
+      "unit": null,
+      "unit_price": "180.00",
+      "amount": "540.00"
+    }
+  ],
+  "file": "telugu3.png",
+  "raw_text": "SVT\nஜனக் கூக்கி\n92464 12345\nsvanitraders@gmail.com\n·\nsao 30. 5-1-243,\nகூல் சீக, ஜெனைக் - 520 001\n805005 30.\n:\n134\n:\n25-05-2024\n:\n31-05-2024\nส. อ.\n1\n10 &čver\n40.00\n400.00\n2\napoor\n5 สังสัยผง\n120.00\n600.00\n3\n2 dosSe\n150.00\n300.00\n4\nவலுவூ லஜி\n50.00\n300.00\n5\n3005 (18.)\n180.00\n540.00\nésd-avěo\n2,140.00\n¿dosoé5 (2%)\n42.80\n2,097.20\naveso (esgomes5) :\nหลังจริ :\n2. 3DOyev SKÁ / UPI Jego Jošřeč.\nŠšsararees,\nJoššo",
+  "english_text": "SVT\nஜனக் கூக்கி\n92464 12345\nsvanitraders@gmail.com\n·\nsao 30. 5-1-243,\nகூல் சீக, ஜெனைக் - 520 001\n805005 30.\n:\n134\n:\n25-05-2024\n:\n31-05-2024\nส. อ.\n1\n10 &čver\n40.00\n400.00\n2\napoor\n5 สังสัยผง\n120.00\n600.00\n3\n2 dosSe\n150.00\n300.00\n4\nவலுவூ லஜி\n50.00\n300.00\n5\n3005 (18.)\n180.00\n540.00\nésd-avěo\n2,140.00\n¿dosoé5 (2%)\n42.80\n2,097.20\naveso (esgomes5) :\nหลังจริ :\n2. 3DOyev SKÁ / UPI Jego Jošřeč.\nŠšsararees,\nJoššo"
+}

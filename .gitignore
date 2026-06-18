@@ -19,8 +19,6 @@ venv/
 env/
 ENV/
 
-# ── Outputs (generated — large binaries) ───────────────────────────
-outputs/
 
 # ── Jupyter ────────────────────────────────────────────────────────
 .ipynb_checkpoints/

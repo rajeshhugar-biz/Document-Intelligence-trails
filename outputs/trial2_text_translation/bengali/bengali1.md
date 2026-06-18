@@ -1,0 +1,69 @@
+# Extracted and Translated Text for bengali1.png
+
+**Original Language:** Bengali
+
+---
+
+```text
+AR
+4. Caste. Pakjaz
++91 98765 43210
+artraders.kol@gmail.com
+(Nganapatal India Agents
+92/V, Kalj (Tau,
+Kalakaj - 100 000, Shamvi
+Jalan
+Thashak:
+Golan No1
+..
+134
+Jatish
+..
+25-05-2024
+Desolation No1
+:
+Strong Caste
+: 31-05-2024
+(I'm a wanderer.)
+: 7 Jinz Matka
+..
+Comic No. 1
+Vivijna
+Saturday
+Forget Puck (7)
+Made Forgotten (7)
+1
+Maban
+10 Vz
+40.00
+400.00
+2
+5 Private
+120.00
+600.00
+3
+Chizedown flight
+2 (g)
+150.00
+300.00
+4
+50.00
+300.00
+5
+licking (n)
+3 (Bowl)
+180.00
+540.00
+(Forget about it
+2,140.00
+Jimmy (2%)
+42.80
+Abatemade
+2,097.20
+Mahi Bhuna (story):
+Mudy Shajat cat, cocoa, coo, blush, and reputation.
+Money,
+1. Shana (Constipation (na usa shtab na).
+2. (Bhamane Nasham / Jannashna / Bada 14 Phonekatt Masham Constipation Stan.
+Sarrid 3 Zil
+```

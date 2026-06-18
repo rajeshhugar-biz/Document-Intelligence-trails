@@ -1,0 +1,32 @@
+Delivery Receipt
+Customer: Mr. . Ganesh.Mane
+Cash Memo
+Date of Birth: 12th July 2024
+Leaves:
+S.No.
+Name of Goods
+Magnitude
+Amount
+1.
+Cement (UltraTech) – 50 bags
+18,000
+2.
+Sand
+- 4 Brass
+19,000
+3.
+Vertical (20mm)
+- 3 Brass
+9,300
+4.
+Iron rod (12 mm) - 500 kg
+32,500
+5.
+Wooden planks
+- 25 Notes
+8,750
+Total amount: 87,550
+Akshari Rupees: Thousand Five Hundred and Fifty Rupees
+Mr.A. Rajesh Madav Yarwal
+(I Gilvan Mowart)
+Jale 2024

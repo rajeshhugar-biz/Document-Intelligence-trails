@@ -1,0 +1,30 @@
+# Extracted and Translated Text for hindi4.jpg
+
+**Original Language:** Hindi
+
+---
+
+```text
+UTIONS
+Tax Invoice
+SYNERG
+Number of Invoice: GST-5005
+Date: November 15, 2023
+Customer Details
+Name: Apex Logistics
+Address: 45 Corporate Tower, BKC, Mumbai
+Details of Services
+charge
+1. Supply chain consulting
+₹35,000.00
+2. Custom dashboard design
+₹18,000.00
+3. Maintenance services
+₹7,500.00
+Tax (GST @ 18%)
+₹10,890.00
+Total Payable: ₹71,390.00
+Please repay the bank insmanship or credit by 30 days.
+Bank of India, Branch: Wali, Account: 8765433109, IFSC: BKID0000001
+Sincere thanks
+```

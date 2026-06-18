@@ -1,0 +1,44 @@
+{
+  "vendor_name": "SSE",
+  "vendor_address": "No. 55-0-88, Bhraki (Fence, Vinasha Bhaunam-67000)",
+  "vendor_tax_id": null,
+  "customer_name": "Khi A. Calculator Bhanu",
+  "customer_address": "Minibhutam, Vigyan Bhaunam- 600005",
+  "customer_id": "CST09988",
+  "invoice_id": "SSE/23-24/015",
+  "invoice_date": "07 November 2020",
+  "due_date": null,
+  "purchase_order": null,
+  "billing_address": null,
+  "shipping_address": null,
+  "subtotal": "36,000",
+  "total_tax": "5,600",
+  "invoice_total": "41,000",
+  "amount_due": "41,000",
+  "line_items": [
+    {
+      "description": "The script is in the middle of nowhere.",
+      "quantity": null,
+      "unit": "S",
+      "unit_price": null,
+      "amount": "5,600"
+    },
+    {
+      "description": "Fine Diamcharé Kibble",
+      "quantity": null,
+      "unit": "ITM002",
+      "unit_price": null,
+      "amount": null
+    },
+    {
+      "description": "Fine Diamcharé Kibble",
+      "quantity": null,
+      "unit": "ITM003",
+      "unit_price": null,
+      "amount": null
+    }
+  ],
+  "file": "bengali3.png",
+  "raw_text": "SSE\nथी जाॅं इटलक फ्रेनिया\nनः 55-0-88, भ्राकी (बाड, विनाशा भउनम- 6७०००)\nगगन: +55 5699689530, शेतमाल: info@ss_electronics.in\nजाबिर: SSE/23-24/015\nनमन: ०७ नालभूत २०२०\nभारकब् जया\nविलक्षण\nरेडेनिफे\nमूला (₹)\nभ्रविमान\nशब\nनाम: खी एक. गणनाबाजन भानु\nकाड\n36,000\nS\n5%\nITM001\nलिपि उद्याल मालेने\n5,600\nS\n5%\n5,600\nमिनिभूतम, विज्ञाया भउनम- 600005\nलाडे (जेडाड्य रड़ा):\n४१,०००\nउड़ींब विवजन\nजिजि शर्मा (2%):\n5,600\nदमिय जनत: SSE/23-24/015\nजातिश: ०७ तालमत २०२०\nबजजिशर्मा (2%):\n5,600\nकूड़ाड त्याखे:\n२०,०७०\nयाकाफिने नन्त : CST09988\nकथारा: दिन राजाब सारे ठोका भाव\nबजावली 3 नियमावली: 0\n- विकिए भरता कब्ज न्य़ा रहन ना\n- बरनाव उमान तः भिमान अज्ञानका करब निन, शब्द आयाथाकि भरत कला रख ना\n- खला (कन विषय म्बरके अनाज अना त्यागात्यात्र कब्रत्न\nछात्रफत:\nची जारे रेटलकफ्रेनिकया जब भावुक\nठिकाना: क्राडे न१ ७०२,\nजाॅ योनियाज जाताऊँटक्टेज,\nITM002\nITM003\nबरे डियमचारे किबल\n0%\nल्याखे (₹)",
+  "english_text": "SSE\nThien Jean Itluck Frenia\nNo. 55-0-88, Bhraki (Fence, Vinasha Bhaunam-67000)\nSky: +55 5699689530, Farm Produce: info@ss_electronics.in\nSource: SSE/23-24/015\nRegards: 07 November 2020\nBharkabjaya\nEccentric\nRedenife\nMoola (₹)\nBhraviyam\nShab\nName: Khi A. Calculator Bhanu\nCad.\n36,000\nS\n5%\nITM001\nThe script is in the middle of nowhere.\n5,600\nS\n5%\n5,600\nMinibhutam, Vigyan Bhaunam- 600005\nLade (JD Rada):\n41,000\nFlying Divisions\nJiji Sharma (2%):\n5,600\nPress: SSE/23-24/015\nDate: 07 Talmat 2020\nBajjisharma (2%):\n5,600\nTrash Dumps:\n20,070\nJacqueline Nant: CST09988\nStorytelling: All the days are full of emotions.\nPlayed 3 Rules: 0\n- Wikipedia is not a constipation.\n- Describe Uman: Pride in ignorance, the word Ayathaki Bharata Kala Rakh Na\n- Khala (the subject of the Khálā Ānā Ātyāgatātra Kabratna\nScholarship:\nChi Jarre Ratfrenica When Emotional\nLocation: CRADE No. 1 702,\nThe Yonias are the outlets,\nITM002\nITM003\nFine Diamcharé Kibble\n0%\nLykhe (₹)"
+}
